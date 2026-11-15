@@ -1,0 +1,518 @@
+{
+  "ADO-C-001": {
+    "id": "ADO-C-001",
+    "face": {
+      "front": {
+        "name": "Anko",
+        "type": "Creature",
+        "cost": 1,
+        "image": "https://risetcgofficial.com/fr/compagnon/img/ADO-C-001/m?v=1&l=en",
+        "isHorizontal": false
+      }
+    },
+    "name": "Anko",
+    "type": "Creature",
+    "cost": 1,
+    "rank": 1,
+    "rarity": "Legendary",
+    "types": [
+      "Creature"
+    ],
+    "subtypes": [
+      "Cat"
+    ],
+    "aptitudes": [
+      "Velocity",
+      "Diversion"
+    ],
+    "attack": 3,
+    "defense": 1,
+    "set": "Adorable"
+  },
+  "ADO-C-017": {
+    "id": "ADO-C-017",
+    "face": {
+      "front": {
+        "name": "Princess Lydia",
+        "type": "Creature",
+        "cost": 1,
+        "image": "https://risetcgofficial.com/fr/compagnon/img/ADO-C-017/m?v=1&l=en",
+        "isHorizontal": false
+      }
+    },
+    "name": "Princess Lydia",
+    "type": "Creature",
+    "cost": 1,
+    "rank": 1,
+    "rarity": "Legendary",
+    "types": [
+      "Creature",
+      "Incantation"
+    ],
+    "subtypes": [
+      "Unicorn"
+    ],
+    "aptitudes": [
+      "Breakthrough",
+      "Advantage",
+      "Immunity"
+    ],
+    "attack": 3,
+    "defense": 3,
+    "set": "Adorable"
+  },
+  "ADO-C-029": {
+    "id": "ADO-C-029",
+    "face": {
+      "front": {
+        "name": "Reyth",
+        "type": "Creature",
+        "cost": 1,
+        "image": "https://risetcgofficial.com/fr/compagnon/img/ADO-C-029/m?v=1&l=en",
+        "isHorizontal": false
+      }
+    },
+    "name": "Reyth",
+    "type": "Creature",
+    "cost": 1,
+    "rank": 1,
+    "rarity": "Legendary",
+    "types": [
+      "Creature",
+      "Imminent"
+    ],
+    "subtypes": [
+      "Spirit"
+    ],
+    "aptitudes": [],
+    "attack": 0,
+    "defense": 4,
+    "set": "Adorable"
+  },
+  "ADO-C-041": {
+    "id": "ADO-C-041",
+    "face": {
+      "front": {
+        "name": "Phaniel",
+        "type": "Creature",
+        "cost": 1,
+        "image": "https://risetcgofficial.com/fr/compagnon/img/ADO-C-041/m?v=1&l=en",
+        "isHorizontal": false
+      }
+    },
+    "name": "Phaniel",
+    "type": "Creature",
+    "cost": 1,
+    "rank": 1,
+    "rarity": "Legendary",
+    "types": [
+      "Creature",
+      "Incantation",
+      "Imminent"
+    ],
+    "subtypes": [
+      "Angel"
+    ],
+    "aptitudes": [
+      "Flight",
+      "Immunity",
+      "Constancy",
+      "Adept"
+    ],
+    "attack": 0,
+    "defense": 7,
+    "set": "Adorable"
+  },
+  "ADO-C-123": {
+    "id": "ADO-C-123",
+    "face": {
+      "front": {
+        "name": "Demonic Level Up",
+        "type": "Level Up",
+        "cost": 3,
+        "image": "https://risetcgofficial.com/fr/compagnon/img/ADO-C-123/m?v=1&l=en",
+        "isHorizontal": false
+      }
+    },
+    "name": "Demonic Level Up",
+    "type": "Level Up",
+    "cost": 3,
+    "rank": 3,
+    "rarity": "Uncommon",
+    "types": [
+      "Level Up"
+    ],
+    "subtypes": [],
+    "aptitudes": [],
+    "set": "Adorable"
+  },
+  "ALP-003": {
+    "id": "ALP-003",
+    "face": {
+      "front": {
+        "name": "Atlas",
+        "type": "Summoner",
+        "cost": 0,
+        "image": "https://risetcgofficial.com/fr/compagnon/img/ALP-003/m?v=1&l=en",
+        "isHorizontal": false
+      }
+    },
+    "name": "Atlas",
+    "type": "Summoner",
+    "cost": 0,
+    "types": [
+      "Summoner"
+    ],
+    "subtypes": [],
+    "aptitudes": [],
+    "hp": 10,
+    "set": "Alpha / Bêta"
+  },
+  "ALP-021": {
+    "id": "ALP-021",
+    "face": {
+      "front": {
+        "name": "Portal",
+        "type": "Door",
+        "cost": 1,
+        "image": "https://risetcgofficial.com/fr/compagnon/img/ALP-021/m?v=1&l=en",
+        "isHorizontal": false
+      }
+    },
+    "name": "Portal",
+    "type": "Door",
+    "cost": 1,
+    "rank": 1,
+    "types": [
+      "Door"
+    ],
+    "subtypes": [],
+    "aptitudes": [],
+    "set": "Alpha / Bêta"
+  },
+  "ALP-046": {
+    "id": "ALP-046",
+    "face": {
+      "front": {
+        "name": "Ocnar'S Orb",
+        "type": "Door",
+        "cost": 2,
+        "image": "https://risetcgofficial.com/fr/compagnon/img/ALP-046/m?v=1&l=en",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ocnar'S Orb",
+    "type": "Door",
+    "cost": 2,
+    "rank": 2,
+    "types": [
+      "Door",
+      "Imminent",
+      "Incantation"
+    ],
+    "subtypes": [
+      "Deity"
+    ],
+    "aptitudes": [],
+    "set": "Alpha / Bêta"
+  },
+  "ALP-103": {
+    "id": "ALP-103",
+    "face": {
+      "front": {
+        "name": "Feather Of Light",
+        "type": "Imminent",
+        "cost": 1,
+        "image": "https://risetcgofficial.com/fr/compagnon/img/ALP-103/m?v=1&l=en",
+        "isHorizontal": false
+      }
+    },
+    "name": "Feather Of Light",
+    "type": "Imminent",
+    "cost": 1,
+    "rank": 1,
+    "types": [
+      "Imminent"
+    ],
+    "subtypes": [],
+    "aptitudes": [],
+    "set": "Alpha / Bêta"
+  },
+  "ALP-200": {
+    "id": "ALP-200",
+    "face": {
+      "front": {
+        "name": "Key Of Light",
+        "type": "Incantation",
+        "cost": 1,
+        "image": "https://risetcgofficial.com/fr/compagnon/img/ALP-200/m?v=1&l=en",
+        "isHorizontal": false
+      }
+    },
+    "name": "Key Of Light",
+    "type": "Incantation",
+    "cost": 1,
+    "rank": 1,
+    "types": [
+      "Incantation"
+    ],
+    "subtypes": [],
+    "aptitudes": [],
+    "set": "Alpha / Bêta"
+  },
+  "ALP-221": {
+    "id": "ALP-221",
+    "face": {
+      "front": {
+        "name": "Clover Field",
+        "type": "Imminent",
+        "cost": 1,
+        "image": "https://risetcgofficial.com/fr/compagnon/img/ALP-221/m?v=1&l=en",
+        "isHorizontal": false
+      }
+    },
+    "name": "Clover Field",
+    "type": "Imminent",
+    "cost": 1,
+    "rank": 1,
+    "types": [
+      "Imminent",
+      "Incantation"
+    ],
+    "subtypes": [],
+    "aptitudes": [
+      "Together"
+    ],
+    "set": "Alpha / Bêta"
+  },
+  "CAN-039": {
+    "id": "CAN-039",
+    "face": {
+      "front": {
+        "name": "Valhalla",
+        "type": "Door",
+        "cost": 1,
+        "image": "https://risetcgofficial.com/fr/compagnon/img/CAN-039/m?v=1&l=en",
+        "isHorizontal": false
+      }
+    },
+    "name": "Valhalla",
+    "type": "Door",
+    "cost": 1,
+    "rank": 1,
+    "types": [
+      "Door",
+      "Imminent"
+    ],
+    "subtypes": [],
+    "aptitudes": [],
+    "set": "Candypocalypse"
+  },
+  "CAN-042": {
+    "id": "CAN-042",
+    "face": {
+      "front": {
+        "name": "Z tower",
+        "type": "Creature",
+        "cost": 2,
+        "image": "https://risetcgofficial.com/fr/compagnon/img/CAN-042/m?v=1&l=en",
+        "isHorizontal": false
+      }
+    },
+    "name": "Z tower",
+    "type": "Creature",
+    "cost": 2,
+    "rank": 2,
+    "types": [
+      "Creature",
+      "Door"
+    ],
+    "subtypes": [],
+    "aptitudes": [
+      "Horde"
+    ],
+    "set": "Candypocalypse"
+  },
+  "CAN-166": {
+    "id": "CAN-166",
+    "face": {
+      "front": {
+        "name": "Red Clover Field",
+        "type": "Incantation",
+        "cost": 1,
+        "image": "https://risetcgofficial.com/fr/compagnon/img/CAN-166/m?v=1&l=en",
+        "isHorizontal": false
+      }
+    },
+    "name": "Red Clover Field",
+    "type": "Incantation",
+    "cost": 1,
+    "rank": 1,
+    "types": [
+      "Incantation",
+      "Imminent"
+    ],
+    "subtypes": [],
+    "aptitudes": [],
+    "set": "Candypocalypse"
+  },
+  "ALP-001": {
+    "id": "ALP-001",
+    "face": {
+      "front": {
+        "name": "Ether",
+        "type": "Other",
+        "cost": 0,
+        "image": "https://risetcgofficial.com/fr/compagnon/img/ALP-001/m?v=1&l=en",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ether",
+    "type": "Other",
+    "cost": 0,
+    "types": [],
+    "subtypes": [],
+    "aptitudes": [],
+    "set": "Alpha / Bêta"
+  },
+  "ALP-002": {
+    "id": "ALP-002",
+    "face": {
+      "front": {
+        "name": "Stock",
+        "type": "Other",
+        "cost": 0,
+        "image": "https://risetcgofficial.com/fr/compagnon/img/ALP-002/m?v=1&l=en",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stock",
+    "type": "Other",
+    "cost": 0,
+    "types": [],
+    "subtypes": [],
+    "aptitudes": [],
+    "set": "Alpha / Bêta"
+  },
+  "ADO-C-001-BT": {
+    "id": "ADO-C-001-BT",
+    "face": {
+      "front": {
+        "name": "Anko",
+        "type": "Creature",
+        "cost": 1,
+        "image": "https://risetcgofficial.com/fr/compagnon/img/ADO-C-001-BT/m?v=1&l=en",
+        "isHorizontal": false
+      }
+    },
+    "name": "Anko",
+    "type": "Creature",
+    "cost": 1,
+    "rank": 1,
+    "rarity": "Legendary",
+    "types": [
+      "Creature"
+    ],
+    "subtypes": [
+      "Cat"
+    ],
+    "aptitudes": [
+      "Velocity",
+      "Diversion"
+    ],
+    "attack": 3,
+    "defense": 1,
+    "set": "Adorable"
+  },
+  "ALP-005": {
+    "id": "ALP-005",
+    "face": {
+      "front": {
+        "name": "Lazarus",
+        "type": "Summoner",
+        "cost": 0,
+        "image": "https://risetcgofficial.com/fr/compagnon/img/ALP-005/m?v=2",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lazarus",
+    "type": "Summoner",
+    "cost": 0,
+    "types": [
+      "Summoner"
+    ],
+    "subtypes": [],
+    "aptitudes": [],
+    "hp": 10,
+    "set": "Alpha / Bêta"
+  },
+  "ALP-005-BT-2": {
+    "id": "ALP-005-BT-2",
+    "face": {
+      "front": {
+        "name": "Lazarus",
+        "type": "Summoner",
+        "cost": 0,
+        "image": "https://risetcgofficial.com/fr/compagnon/img/ALP-005-BT-2/m?v=1&l=en",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lazarus",
+    "type": "Summoner",
+    "cost": 0,
+    "rarity": "Rare",
+    "types": [
+      "Summoner"
+    ],
+    "subtypes": [],
+    "aptitudes": [],
+    "hp": 10,
+    "set": "Alpha / Bêta"
+  },
+  "P23-065": {
+    "id": "P23-065",
+    "face": {
+      "front": {
+        "name": "Lazarus",
+        "type": "Summoner",
+        "cost": 0,
+        "image": "https://risetcgofficial.com/fr/compagnon/img/P23-065/m?v=1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lazarus",
+    "type": "Summoner",
+    "cost": 0,
+    "rarity": "Rare",
+    "types": [
+      "Summoner"
+    ],
+    "subtypes": [],
+    "aptitudes": [],
+    "hp": 10,
+    "set": "Prestige 2023"
+  },
+  "P23-65-BT": {
+    "id": "P23-65-BT",
+    "face": {
+      "front": {
+        "name": "Lazarus",
+        "type": "Summoner",
+        "cost": 0,
+        "image": "https://risetcgofficial.com/fr/compagnon/img/P23-65-BT/m?v=1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lazarus",
+    "type": "Summoner",
+    "cost": 0,
+    "rarity": "Rare",
+    "types": [
+      "Summoner"
+    ],
+    "subtypes": [],
+    "aptitudes": [],
+    "hp": 10,
+    "set": "Prestige 2023"
+  }
+}

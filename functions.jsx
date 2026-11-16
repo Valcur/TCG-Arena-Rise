@@ -2,7 +2,7 @@ async function applySummonerStartHP(summonerCards, index) {
     if (!summonerCards) return
     const cardData = functions.getCardData(summonerCards)
     const hp = 8
-    await functions.setPlayerCounter(index, hp)
+    await functions.changeCounterValue(index, hp)
 }
 
 // Set player counters selon Summoner

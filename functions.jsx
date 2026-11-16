@@ -14,10 +14,10 @@ async function ini() {
     applySummonerStartHP(summoner1, 0)
     applySummonerStartHP(summoner2, 1)
 
-    const myPlayOrder = Game.turn.playOrder
+    const myPlayOrder = game.turn.playOrder
     if (myPlayOrder === 0) {
-        gameIcons.data.Manager.gold = 2
+        game.data.Manager.gold = 2
     } else {
-        gameIcons.data.Manager.gold = 1
+        game.data.Manager.gold = 1
     }
 }

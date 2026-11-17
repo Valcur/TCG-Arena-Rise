@@ -44,12 +44,30 @@ async function etherForDraw() {
     if (game.data.Manager.ether < 3) return
     await functions.draw(1)
     game.data.Manager.ether -= 3
-    await functions.chatLog("spent 3 ether to draw 1")
+    await functions.chatLog("spent 3 Ether to draw 1")
 }
 
 async function etherForGold() {
     if (game.data.Manager.ether < 3) return
     game.data.Manager.gold += 1
     game.data.Manager.ether -= 3
-    await functions.chatLog("spent 3 ether to add 1 to its stock")
+    await functions.chatLog("spent 3 Ether to add 1 to its Stock")
+}
+
+async function applyEtherChange(value, delta, deltaDisplay) {
+    game.data.Manager.ether = Number(value)
+    if (delta > 0) {
+        functions.chatLog(`added ${delta} Ether`)
+    } else if (delta < 0) {
+        functions.chatLog(`removed ${Math.abs(delta)} Ether`)
+    }
+}
+
+async function applyGoldChange(value, delta, deltaDisplay) {
+    game.data.Manager.ether = Number(value)
+    if (delta > 0) {
+        functions.chatLog(`added ${delta} to its Stock`)
+    } else if (delta < 0) {
+        functions.chatLog(`removed ${Math.abs(delta)} from its Stock`)
+    }
 }

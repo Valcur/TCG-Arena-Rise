@@ -14,6 +14,9 @@ async function ini() {
     await applySummonerStartHP(summoner1, 0)
     await applySummonerStartHP(summoner2, 1)
 
+    await functions.createCard("ALP-001", "Ether")
+    await functions.createCard("ALP-002", "Stock")
+
     const myPlayOrder = game.turn.playOrder
     if (myPlayOrder === 0) {
         game.data.Manager.gold = 2

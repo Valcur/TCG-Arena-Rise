@@ -39,3 +39,17 @@ async function draw1() {
     game.data.Manager.gold += 2
     game.data.Restauration.show = false
 }
+
+async function etherForDraw() {
+    if (game.data.Manager.ether < 3) return
+    await functions.draw(1)
+    game.data.Manager.ether -= 3
+    await functions.chatLog("spent 3 ether to draw 1")
+}
+
+async function etherForGold() {
+    if (game.data.Manager.ether < 3) return
+    game.data.Manager.gold += 1
+    game.data.Manager.ether -= 3
+    await functions.chatLog("spent 3 ether to add 1 to its stock")
+}

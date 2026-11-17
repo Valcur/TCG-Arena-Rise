@@ -67,7 +67,7 @@ async function applyEtherChange(value, delta, deltaDisplay) {
 }
 
 async function applyGoldChange(value, delta, deltaDisplay) {
-    game.data.Manager.ether = Number(value)
+    game.data.Manager.gold = Number(value)
     if (delta > 0) {
         functions.chatLog(`added ${delta} to its Stock`)
     } else if (delta < 0) {

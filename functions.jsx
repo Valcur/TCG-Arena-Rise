@@ -32,12 +32,14 @@ async function onNewTurn() {
 }
 
 async function draw2() {
+    await functions.chatLog("chose 2 cards and 1 coin")
     await functions.draw(2)
     game.data.Manager.gold += 1
     game.data.Restauration.show = false
 }
 
 async function draw1() {
+     await functions.chatLog("chose 1 cards and 2 coins")
     await functions.draw(1)
     game.data.Manager.gold += 2
     game.data.Restauration.show = false

@@ -3363,7 +3363,7 @@
         "name": {
           "en": "Reyth"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/ADO-C-029/m?v=1&l=en",
@@ -3374,11 +3374,11 @@
     "name": {
       "en": "Reyth"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Spirit"
@@ -3402,7 +3402,7 @@
         "name": {
           "en": "Reyth"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/ADO-C-029-CG/m?v=1"
@@ -3412,11 +3412,11 @@
     "name": {
       "en": "Reyth"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Spirit"
@@ -4153,7 +4153,7 @@
         "name": {
           "en": "Charlie"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/ADO-C-037/m?v=1&l=en",
@@ -4164,11 +4164,11 @@
     "name": {
       "en": "Charlie"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 2,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Cat"
@@ -4195,7 +4195,7 @@
         "name": {
           "en": "Charlie"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/ADO-C-037-CG/m?v=1"
@@ -4205,11 +4205,11 @@
     "name": {
       "en": "Charlie"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 2,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Cat"
@@ -4239,7 +4239,7 @@
           "de": "Geliebte Miel",
           "es": "Miel Adorada"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/ADO-C-038/m?v=1&l=en",
@@ -4253,11 +4253,11 @@
       "de": "Geliebte Miel",
       "es": "Miel Adorada"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Cat"
@@ -4287,7 +4287,7 @@
           "de": "Geliebte Miel",
           "es": "Miel Adorada"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/ADO-C-038-BT/m?v=1&l=en",
@@ -4301,11 +4301,11 @@
       "de": "Geliebte Miel",
       "es": "Miel Adorada"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Cat"
@@ -4335,7 +4335,7 @@
           "de": "Geliebte Miel",
           "es": "Miel Adorada"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/ADO-C-038-CG/m?v=1"
@@ -4348,11 +4348,11 @@
       "de": "Geliebte Miel",
       "es": "Miel Adorada"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Cat"
@@ -4379,7 +4379,7 @@
         "name": {
           "en": "Talhine"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/ADO-C-039/m?v=1&l=en",
@@ -4390,11 +4390,11 @@
     "name": {
       "en": "Talhine"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Deity"
@@ -4423,7 +4423,7 @@
         "name": {
           "en": "Talhine"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/ADO-C-039-CG/m?v=1"
@@ -4433,11 +4433,11 @@
     "name": {
       "en": "Talhine"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Deity"
@@ -4466,7 +4466,7 @@
         "name": {
           "en": "Sibylle"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/ADO-C-040/m?v=1&l=en",
@@ -4477,11 +4477,11 @@
     "name": {
       "en": "Sibylle"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Deity"
@@ -4508,7 +4508,7 @@
         "name": {
           "en": "Phaniel"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/ADO-C-041/m?v=1&l=en",
@@ -4519,12 +4519,12 @@
     "name": {
       "en": "Phaniel"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
+      "Imminent Constant",
       "Creature",
-      "Incantation",
-      "Imminent"
+      "Incantation"
     ],
     "subtypes": [
       "Angel"
@@ -4554,7 +4554,7 @@
         "name": {
           "en": "Phaniel"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/ADO-C-041-CG/m?v=1"
@@ -4564,12 +4564,12 @@
     "name": {
       "en": "Phaniel"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
+      "Imminent Constant",
       "Creature",
-      "Incantation",
-      "Imminent"
+      "Incantation"
     ],
     "subtypes": [
       "Angel"
@@ -4599,7 +4599,7 @@
         "name": {
           "en": "Phaniel"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/ADO-C-041-SP/m?v=1"
@@ -4609,12 +4609,12 @@
     "name": {
       "en": "Phaniel"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
+      "Imminent Constant",
       "Creature",
-      "Incantation",
-      "Imminent"
+      "Incantation"
     ],
     "subtypes": [
       "Angel"
@@ -4644,7 +4644,7 @@
         "name": {
           "en": "Cute'lhu"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/ADO-C-042/m?v=1&l=en",
@@ -4655,12 +4655,12 @@
     "name": {
       "en": "Cute'lhu"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
+      "Imminent Constant",
       "Creature",
-      "Incantation",
-      "Imminent"
+      "Incantation"
     ],
     "subtypes": [
       "Deity"
@@ -4687,7 +4687,7 @@
         "name": {
           "en": "Cute'lhu"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/ADO-C-042-CG/m?v=1"
@@ -4697,12 +4697,12 @@
     "name": {
       "en": "Cute'lhu"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
+      "Imminent Constant",
       "Creature",
-      "Incantation",
-      "Imminent"
+      "Incantation"
     ],
     "subtypes": [
       "Deity"
@@ -7798,7 +7798,7 @@
           "de": "Yléana",
           "es": "Yléana"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/ADO-C-073A/m?v=1&l=en",
@@ -7812,11 +7812,11 @@
       "de": "Yléana",
       "es": "Yléana"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 2,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Spirit"
@@ -7848,7 +7848,7 @@
           "de": "Yléana",
           "es": "Yléana"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/ADO-C-073A-BT/m?v=1&l=en",
@@ -7862,11 +7862,11 @@
       "de": "Yléana",
       "es": "Yléana"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 2,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Spirit"
@@ -7898,7 +7898,7 @@
           "de": "Yléana",
           "es": "Yléana"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/ADO-C-073A-CG/m?v=1"
@@ -7911,11 +7911,11 @@
       "de": "Yléana",
       "es": "Yléana"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 2,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Spirit"
@@ -7947,7 +7947,7 @@
           "de": "Yléana",
           "es": "Yléana"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/ADO-C-073B/m?v=1&l=en",
@@ -7961,11 +7961,11 @@
       "de": "Yléana",
       "es": "Yléana"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 2,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Spirit"
@@ -7997,7 +7997,7 @@
           "de": "Yléana",
           "es": "Yléana"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/ADO-C-073C/m?v=1&l=en",
@@ -8011,11 +8011,11 @@
       "de": "Yléana",
       "es": "Yléana"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 2,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Spirit"
@@ -8047,7 +8047,7 @@
           "de": "Yléana",
           "es": "Yléana"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/ADO-C-073D/m?v=1&l=en",
@@ -8061,11 +8061,11 @@
       "de": "Yléana",
       "es": "Yléana"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 2,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Spirit"
@@ -8094,7 +8094,7 @@
         "name": {
           "en": "Aelis"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/ADO-C-074/m?v=1&l=en",
@@ -8105,11 +8105,11 @@
     "name": {
       "en": "Aelis"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 2,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Spirit"
@@ -8133,7 +8133,7 @@
         "name": {
           "en": "Aelis"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/ADO-C-074-BT/m?v=1&l=en",
@@ -8144,11 +8144,11 @@
     "name": {
       "en": "Aelis"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 2,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Spirit"
@@ -8172,7 +8172,7 @@
         "name": {
           "en": "Aelis"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/ADO-C-074-CG/m?v=1"
@@ -8182,11 +8182,11 @@
     "name": {
       "en": "Aelis"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 2,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Spirit"
@@ -8210,7 +8210,7 @@
         "name": {
           "en": "Aelis"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/ADO-C-074-SP/m?v=1"
@@ -8220,11 +8220,11 @@
     "name": {
       "en": "Aelis"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 2,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Spirit"
@@ -8248,7 +8248,7 @@
         "name": {
           "en": "Eklha"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/ADO-C-075/m?v=1&l=en",
@@ -8259,11 +8259,11 @@
     "name": {
       "en": "Eklha"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 2,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Monster"
@@ -8291,7 +8291,7 @@
         "name": {
           "en": "Eklha"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/ADO-C-075-SP/m?v=1"
@@ -8301,11 +8301,11 @@
     "name": {
       "en": "Eklha"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 2,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Monster"
@@ -9641,7 +9641,7 @@
           "de": "Finstere Nieswurz",
           "es": "Eléboro Sombrío"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 3,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/ADO-C-094/m?v=1&l=en",
@@ -9655,11 +9655,11 @@
       "de": "Finstere Nieswurz",
       "es": "Eléboro Sombrío"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 3,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Plant"
@@ -9689,7 +9689,7 @@
           "de": "Finstere Nieswurz",
           "es": "Eléboro Sombrío"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 3,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/ADO-C-094-CG/m?v=1"
@@ -9702,11 +9702,11 @@
       "de": "Finstere Nieswurz",
       "es": "Eléboro Sombrío"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 3,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Plant"
@@ -9733,7 +9733,7 @@
         "name": {
           "en": "Lanaah"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/ADO-C-095/m?v=1&l=en",
@@ -9744,11 +9744,11 @@
     "name": {
       "en": "Lanaah"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 2,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Deity"
@@ -9775,7 +9775,7 @@
         "name": {
           "en": "Lanaah"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/ADO-C-095-CG/m?v=1"
@@ -9785,11 +9785,11 @@
     "name": {
       "en": "Lanaah"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 2,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Deity"
@@ -9816,7 +9816,7 @@
         "name": {
           "en": "Lanaah"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/ADO-C-095-SP/m?v=1"
@@ -9826,11 +9826,11 @@
     "name": {
       "en": "Lanaah"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 2,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Deity"
@@ -9857,7 +9857,7 @@
         "name": {
           "en": "Koom"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 3,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/ADO-C-096/m?v=1&l=en",
@@ -9868,11 +9868,11 @@
     "name": {
       "en": "Koom"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 3,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Keyper"
@@ -9899,7 +9899,7 @@
         "name": {
           "en": "Prauty"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 3,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/ADO-C-097/m?v=1&l=en",
@@ -9910,11 +9910,11 @@
     "name": {
       "en": "Prauty"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 3,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "???"
@@ -9985,7 +9985,7 @@
         "name": {
           "en": "Lucyne"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 3,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/ADO-C-099/m?v=1&l=en",
@@ -9996,12 +9996,12 @@
     "name": {
       "en": "Lucyne"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 3,
     "types": [
+      "Imminent Constant",
       "Creature",
-      "Incantation",
-      "Imminent"
+      "Incantation"
     ],
     "subtypes": [
       "Plant"
@@ -10028,7 +10028,7 @@
         "name": {
           "en": "Lucyne"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 3,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/ADO-C-099-CG/m?v=1"
@@ -10038,12 +10038,12 @@
     "name": {
       "en": "Lucyne"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 3,
     "types": [
+      "Imminent Constant",
       "Creature",
-      "Incantation",
-      "Imminent"
+      "Incantation"
     ],
     "subtypes": [
       "Plant"
@@ -15314,7 +15314,7 @@
           "en": "Chronos",
           "es": "Cronos"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/ALP-039/m?v=1&l=en",
@@ -15326,11 +15326,11 @@
       "en": "Chronos",
       "es": "Cronos"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Deity"
@@ -15358,7 +15358,7 @@
           "en": "Chronos",
           "es": "Cronos"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/ALP-039-CG/m?v=1"
@@ -15369,11 +15369,11 @@
       "en": "Chronos",
       "es": "Cronos"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Deity"
@@ -15400,7 +15400,7 @@
         "name": {
           "en": "Miel"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/ALP-040/m?v=1&l=en",
@@ -15411,11 +15411,11 @@
     "name": {
       "en": "Miel"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Cat"
@@ -15442,7 +15442,7 @@
         "name": {
           "en": "Miel"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/ALP-040-CG/m?v=1"
@@ -15452,11 +15452,11 @@
     "name": {
       "en": "Miel"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Cat"
@@ -15835,7 +15835,7 @@
           "de": "Ocnars Kugel",
           "es": "Orbe de Ocnar"
         },
-        "type": "Door",
+        "type": "Imminent Constant",
         "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/ALP-046/m?v=1&l=en",
@@ -15849,11 +15849,11 @@
       "de": "Ocnars Kugel",
       "es": "Orbe de Ocnar"
     },
-    "type": "Door",
+    "type": "Imminent Constant",
     "cost": 2,
     "types": [
+      "Imminent Constant",
       "Door",
-      "Imminent",
       "Incantation"
     ],
     "subtypes": [
@@ -16613,7 +16613,7 @@
           "de": "Süßeste Mieze",
           "es": "Gatito Monísimo"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/ALP-064/m?v=1&l=en",
@@ -16627,11 +16627,11 @@
       "de": "Süßeste Mieze",
       "es": "Gatito Monísimo"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 2,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Cat"
@@ -16659,7 +16659,7 @@
           "de": "Süßeste Mieze",
           "es": "Gatito Monísimo"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/ALP-064-CS/m?v=1"
@@ -16672,11 +16672,11 @@
       "de": "Süßeste Mieze",
       "es": "Gatito Monísimo"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 2,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Cat"
@@ -17159,7 +17159,7 @@
           "de": "Gieriger Kobold",
           "es": "Diablillo Voraz"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 3,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/ALP-075/m?v=1&l=en",
@@ -17173,11 +17173,11 @@
       "de": "Gieriger Kobold",
       "es": "Diablillo Voraz"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 3,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Demon"
@@ -17205,7 +17205,7 @@
           "de": "Höllenstaubsauger",
           "es": "Aspiradora del Infierno"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 3,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/ALP-076/m?v=1&l=en",
@@ -17219,11 +17219,11 @@
       "de": "Höllenstaubsauger",
       "es": "Aspiradora del Infierno"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 3,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Robot"
@@ -17670,7 +17670,7 @@
           "de": "Gequälte Seele",
           "es": "Alma Atormentada"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 4,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/ALP-088/m?v=1&l=en",
@@ -17684,11 +17684,11 @@
       "de": "Gequälte Seele",
       "es": "Alma Atormentada"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 4,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Spirit"
@@ -17822,7 +17822,7 @@
         "name": {
           "en": "Keynn"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 4,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/ALP-091/m?v=1&l=en",
@@ -17833,11 +17833,11 @@
     "name": {
       "en": "Keynn"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 4,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Keyper"
@@ -19666,6 +19666,7 @@
     "type": "Imminent",
     "cost": 2,
     "rank": "2",
+    "rarity": "Rare",
     "aptitudes": [
       "Disease",
       "Ice"
@@ -20416,6 +20417,7 @@
     "type": "Imminent",
     "cost": 2,
     "rank": "2",
+    "rarity": "Uncommon",
     "aptitudes": [
       "Multi-target"
     ],
@@ -23506,7 +23508,7 @@
           "de": "Kleefeld",
           "es": "Campo de Tréboles"
         },
-        "type": "Imminent",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/ALP-221/m?v=1&l=en",
@@ -23520,10 +23522,10 @@
       "de": "Kleefeld",
       "es": "Campo de Tréboles"
     },
-    "type": "Imminent",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Imminent",
+      "Imminent Constant",
       "Incantation"
     ],
     "rank": "1",
@@ -23549,7 +23551,7 @@
           "de": "Energie der Leere",
           "es": "Energía del Vacío"
         },
-        "type": "Imminent",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/ALP-222/m?v=1&l=en",
@@ -23563,10 +23565,10 @@
       "de": "Energie der Leere",
       "es": "Energía del Vacío"
     },
-    "type": "Imminent",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Imminent",
+      "Imminent Constant",
       "Incantation"
     ],
     "rank": "1",
@@ -23591,7 +23593,7 @@
           "de": "Sanduhr",
           "es": "Reloj de Arena"
         },
-        "type": "Imminent",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/ALP-223/m?v=1&l=en",
@@ -23605,10 +23607,10 @@
       "de": "Sanduhr",
       "es": "Reloj de Arena"
     },
-    "type": "Imminent",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Imminent",
+      "Imminent Constant",
       "Incantation"
     ],
     "rank": "1",
@@ -23634,7 +23636,7 @@
           "de": "Verleugnung",
           "es": "Negación"
         },
-        "type": "Imminent",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/ALP-224/m?v=1&l=en",
@@ -23648,10 +23650,10 @@
       "de": "Verleugnung",
       "es": "Negación"
     },
-    "type": "Imminent",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Imminent",
+      "Imminent Constant",
       "Incantation"
     ],
     "rank": "1",
@@ -23862,7 +23864,7 @@
           "de": "Schwarzes Loch",
           "es": "Agujero Negro"
         },
-        "type": "Imminent",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/ALP-229/m?v=1&l=en",
@@ -23876,10 +23878,10 @@
       "de": "Schwarzes Loch",
       "es": "Agujero Negro"
     },
-    "type": "Imminent",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Imminent",
+      "Imminent Constant",
       "Incantation"
     ],
     "rank": "1",
@@ -24555,6 +24557,7 @@
     "type": "Incantation",
     "cost": 1,
     "rank": "1",
+    "rarity": "Rare",
     "text": {
       "en": "~ The Grim Dance enters play with a Charge. Your Zombie, Skeleton, Demon and Monster Creatures gain +1/+1 per Charge.\n\n~ Every 2 Cycles, Summon into play under your control a Creature chosen at random from your Cemetery.",
       "fr": "~la danse macabre entre en jeu avec un compteur de charge. vos créatures zombies, squelette, démon et monstre gagnent +1/+1 par charge\n\n~tous les 2 cycles, appelez en jeu sous votre contrôle une créature choisie aléatoirement depuis votre cimetière",
@@ -29558,7 +29561,7 @@
         "name": {
           "en": "Valhalla"
         },
-        "type": "Door",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/CAN-039/m?v=1&l=en",
@@ -29569,11 +29572,11 @@
     "name": {
       "en": "Valhalla"
     },
-    "type": "Door",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Door",
-      "Imminent"
+      "Imminent Constant",
+      "Door"
     ],
     "rank": "1",
     "text": {
@@ -30849,7 +30852,7 @@
         "name": {
           "en": "Banana Psycho"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/CAN-057/m?v=1&l=en",
@@ -30860,11 +30863,11 @@
     "name": {
       "en": "Banana Psycho"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Food"
@@ -30890,7 +30893,7 @@
         "name": {
           "en": "Banana Psycho"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/CAN-057-CP/m?v=1&l=en",
@@ -30901,11 +30904,11 @@
     "name": {
       "en": "Banana Psycho"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Food"
@@ -31341,7 +31344,7 @@
           "de": "Süßeste Zuckermieze",
           "es": "Gatito Monísimo de Azúcar"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/CAN-063/m?v=1&l=en",
@@ -31355,11 +31358,11 @@
       "de": "Süßeste Zuckermieze",
       "es": "Gatito Monísimo de Azúcar"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 2,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Cat"
@@ -31387,7 +31390,7 @@
           "de": "Süßeste Zuckermieze",
           "es": "Gatito Monísimo de Azúcar"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/CAN-063-BT/m?v=1"
@@ -31400,11 +31403,11 @@
       "de": "Süßeste Zuckermieze",
       "es": "Gatito Monísimo de Azúcar"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 2,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Cat"
@@ -31432,7 +31435,7 @@
           "de": "Süßeste Zuckermieze",
           "es": "Gatito Monísimo de Azúcar"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/CAN-063-CP/m?v=1&l=en",
@@ -31446,11 +31449,11 @@
       "de": "Süßeste Zuckermieze",
       "es": "Gatito Monísimo de Azúcar"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 2,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Cat"
@@ -31973,7 +31976,7 @@
           "de": "Aïade",
           "es": "Aïade"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/CAN-070/m?v=1&l=en",
@@ -31986,11 +31989,11 @@
       "de": "Aïade",
       "es": "Aïade"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 2,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Deity"
@@ -32018,7 +32021,7 @@
           "de": "Aïade",
           "es": "Aïade"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/CAN-070-CP/m?v=1&l=en",
@@ -32031,11 +32034,11 @@
       "de": "Aïade",
       "es": "Aïade"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 2,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Deity"
@@ -32064,7 +32067,7 @@
           "de": "Nudeldrache",
           "es": "Dragón de Fideos"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/CAN-071/m?v=1&l=en",
@@ -32078,11 +32081,11 @@
       "de": "Nudeldrache",
       "es": "Dragón de Fideos"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 2,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Dragon"
@@ -32116,7 +32119,7 @@
           "de": "Nudeldrache",
           "es": "Dragón de Fideos"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/CAN-071-CG/m?v=1"
@@ -32129,11 +32132,11 @@
       "de": "Nudeldrache",
       "es": "Dragón de Fideos"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 2,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Dragon"
@@ -32207,7 +32210,7 @@
           "de": "Böser Lebkuchen",
           "es": "Pan de Jengibre Malo"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/CAN-073/m?v=1&l=en",
@@ -32221,11 +32224,11 @@
       "de": "Böser Lebkuchen",
       "es": "Pan de Jengibre Malo"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 2,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Food"
@@ -32251,7 +32254,7 @@
         "name": {
           "en": "Keylth"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/CAN-074/m?v=1&l=en",
@@ -32262,11 +32265,11 @@
     "name": {
       "en": "Keylth"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 2,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Keyper"
@@ -32411,7 +32414,7 @@
           "de": "Wütender Z",
           "es": "Z Furioso"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 3,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/CAN-078/m?v=1&l=en",
@@ -32425,11 +32428,11 @@
       "de": "Wütender Z",
       "es": "Z Furioso"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 3,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Zombie"
@@ -32800,7 +32803,7 @@
           "de": "Wütende Erdbeere",
           "es": "Fresa Enfadada"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 3,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/CAN-084/m?v=1&l=en",
@@ -32814,11 +32817,11 @@
       "de": "Wütende Erdbeere",
       "es": "Fresa Enfadada"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 3,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Food"
@@ -33198,6 +33201,7 @@
       "Food"
     ],
     "rank": "4",
+    "rarity": "Rare",
     "aptitudes": [
       "Food",
       "Bleed"
@@ -33241,6 +33245,7 @@
       "Clone"
     ],
     "rank": "4",
+    "rarity": "Rare",
     "aptitudes": [
       "Range"
     ],
@@ -37593,7 +37598,7 @@
           "de": "Rotes Kleefeld",
           "es": "Campo de Tréboles Rojos"
         },
-        "type": "Incantation",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/CAN-166/m?v=1&l=en",
@@ -37607,11 +37612,11 @@
       "de": "Rotes Kleefeld",
       "es": "Campo de Tréboles Rojos"
     },
-    "type": "Incantation",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Incantation",
-      "Imminent"
+      "Imminent Constant",
+      "Incantation"
     ],
     "rank": "1",
     "rarity": "Legendary",
@@ -37633,7 +37638,7 @@
           "de": "Rotes Kleefeld",
           "es": "Campo de Tréboles Rojos"
         },
-        "type": "Incantation",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/CAN-166-BT/m?v=1"
@@ -37646,11 +37651,11 @@
       "de": "Rotes Kleefeld",
       "es": "Campo de Tréboles Rojos"
     },
-    "type": "Incantation",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Incantation",
-      "Imminent"
+      "Imminent Constant",
+      "Incantation"
     ],
     "rank": "1",
     "rarity": "Legendary",
@@ -37672,7 +37677,7 @@
           "de": "Rotes Kleefeld",
           "es": "Campo de Tréboles Rojos"
         },
-        "type": "Incantation",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/CAN-166-CP/m?v=1&l=en",
@@ -37686,11 +37691,11 @@
       "de": "Rotes Kleefeld",
       "es": "Campo de Tréboles Rojos"
     },
-    "type": "Incantation",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Incantation",
-      "Imminent"
+      "Imminent Constant",
+      "Incantation"
     ],
     "rank": "1",
     "rarity": "Legendary",
@@ -37827,7 +37832,7 @@
           "de": "Statisches Feld",
           "es": "Campo Estático"
         },
-        "type": "Incantation",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/CAN-168/m?v=1&l=en",
@@ -37841,11 +37846,11 @@
       "de": "Statisches Feld",
       "es": "Campo Estático"
     },
-    "type": "Incantation",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Incantation",
-      "Imminent"
+      "Imminent Constant",
+      "Incantation"
     ],
     "rank": "1",
     "rarity": "Legendary",
@@ -37871,7 +37876,7 @@
           "de": "Statisches Feld",
           "es": "Campo Estático"
         },
-        "type": "Incantation",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/CAN-168-CP/m?v=1&l=en",
@@ -37885,11 +37890,11 @@
       "de": "Statisches Feld",
       "es": "Campo Estático"
     },
-    "type": "Incantation",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Incantation",
-      "Imminent"
+      "Imminent Constant",
+      "Incantation"
     ],
     "rank": "1",
     "rarity": "Legendary",
@@ -37915,7 +37920,7 @@
           "de": "Innere Leere",
           "es": "Vacío Interior"
         },
-        "type": "Incantation",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/CAN-169/m?v=1&l=en",
@@ -37929,11 +37934,11 @@
       "de": "Innere Leere",
       "es": "Vacío Interior"
     },
-    "type": "Incantation",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Incantation",
-      "Imminent"
+      "Imminent Constant",
+      "Incantation"
     ],
     "rank": "1",
     "rarity": "Legendary",
@@ -37958,7 +37963,7 @@
           "de": "Innere Leere",
           "es": "Vacío Interior"
         },
-        "type": "Incantation",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/CAN-169-CG/m?v=1"
@@ -37971,11 +37976,11 @@
       "de": "Innere Leere",
       "es": "Vacío Interior"
     },
-    "type": "Incantation",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Incantation",
-      "Imminent"
+      "Imminent Constant",
+      "Incantation"
     ],
     "rank": "1",
     "rarity": "Legendary",
@@ -38000,7 +38005,7 @@
           "de": "Zuckerschwert",
           "es": "Espada de Azúcar"
         },
-        "type": "Incantation",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/CAN-170/m?v=1&l=en",
@@ -38014,11 +38019,11 @@
       "de": "Zuckerschwert",
       "es": "Espada de Azúcar"
     },
-    "type": "Incantation",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Incantation",
-      "Imminent"
+      "Imminent Constant",
+      "Incantation"
     ],
     "rank": "1",
     "rarity": "Rare",
@@ -38044,7 +38049,7 @@
           "de": "Zuckerschwert",
           "es": "Espada de Azúcar"
         },
-        "type": "Incantation",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/CAN-170-BT/m?v=1"
@@ -38057,11 +38062,11 @@
       "de": "Zuckerschwert",
       "es": "Espada de Azúcar"
     },
-    "type": "Incantation",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Incantation",
-      "Imminent"
+      "Imminent Constant",
+      "Incantation"
     ],
     "rank": "1",
     "rarity": "Rare",
@@ -38087,7 +38092,7 @@
           "de": "Zuckerschwert",
           "es": "Espada de Azúcar"
         },
-        "type": "Incantation",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/CAN-170-CP/m?v=1&l=en",
@@ -38101,11 +38106,11 @@
       "de": "Zuckerschwert",
       "es": "Espada de Azúcar"
     },
-    "type": "Incantation",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Incantation",
-      "Imminent"
+      "Imminent Constant",
+      "Incantation"
     ],
     "rank": "1",
     "rarity": "Rare",
@@ -38274,7 +38279,7 @@
           "de": "Die Waffen strecken",
           "es": "Rendirse"
         },
-        "type": "Incantation",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/CAN-173/m?v=1&l=en",
@@ -38288,11 +38293,11 @@
       "de": "Die Waffen strecken",
       "es": "Rendirse"
     },
-    "type": "Incantation",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Incantation",
-      "Imminent"
+      "Imminent Constant",
+      "Incantation"
     ],
     "rank": "1",
     "rarity": "Rare",
@@ -38314,7 +38319,7 @@
           "de": "Die Waffen strecken",
           "es": "Rendirse"
         },
-        "type": "Incantation",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/CAN-173-BT/m?v=1"
@@ -38327,11 +38332,11 @@
       "de": "Die Waffen strecken",
       "es": "Rendirse"
     },
-    "type": "Incantation",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Incantation",
-      "Imminent"
+      "Imminent Constant",
+      "Incantation"
     ],
     "rank": "1",
     "rarity": "Rare",
@@ -38353,7 +38358,7 @@
           "de": "Die Waffen strecken",
           "es": "Rendirse"
         },
-        "type": "Incantation",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/CAN-173-CG/m?v=1"
@@ -38366,11 +38371,11 @@
       "de": "Die Waffen strecken",
       "es": "Rendirse"
     },
-    "type": "Incantation",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Incantation",
-      "Imminent"
+      "Imminent Constant",
+      "Incantation"
     ],
     "rank": "1",
     "rarity": "Rare",
@@ -38392,7 +38397,7 @@
           "de": "Persönlicher Vorkoster",
           "es": "Catador Personal"
         },
-        "type": "Incantation",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/CAN-174/m?v=1&l=en",
@@ -38406,11 +38411,11 @@
       "de": "Persönlicher Vorkoster",
       "es": "Catador Personal"
     },
-    "type": "Incantation",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Incantation",
-      "Imminent"
+      "Imminent Constant",
+      "Incantation"
     ],
     "rank": "1",
     "text": {
@@ -39130,7 +39135,7 @@
           "de": "Strahlender Sonnenschein",
           "es": "Sol Deslumbrante"
         },
-        "type": "Incantation",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/CAN-185/m?v=1&l=en",
@@ -39144,11 +39149,11 @@
       "de": "Strahlender Sonnenschein",
       "es": "Sol Deslumbrante"
     },
-    "type": "Incantation",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Incantation",
-      "Imminent"
+      "Imminent Constant",
+      "Incantation"
     ],
     "rank": "1",
     "rarity": "Rare",
@@ -39173,7 +39178,7 @@
           "de": "Strahlender Sonnenschein",
           "es": "Sol Deslumbrante"
         },
-        "type": "Incantation",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/CAN-185-BT/m?v=1"
@@ -39186,11 +39191,11 @@
       "de": "Strahlender Sonnenschein",
       "es": "Sol Deslumbrante"
     },
-    "type": "Incantation",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Incantation",
-      "Imminent"
+      "Imminent Constant",
+      "Incantation"
     ],
     "rank": "1",
     "rarity": "Rare",
@@ -39215,7 +39220,7 @@
           "de": "Strahlender Sonnenschein",
           "es": "Sol Deslumbrante"
         },
-        "type": "Incantation",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/CAN-185-CP/m?v=1&l=en",
@@ -39229,11 +39234,11 @@
       "de": "Strahlender Sonnenschein",
       "es": "Sol Deslumbrante"
     },
-    "type": "Incantation",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Incantation",
-      "Imminent"
+      "Imminent Constant",
+      "Incantation"
     ],
     "rank": "1",
     "rarity": "Rare",
@@ -42818,7 +42823,7 @@
           "de": "Verderbtes Valhalla",
           "es": "Valhalla Corrupto"
         },
-        "type": "Door",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/COR-011/m?v=1&l=en",
@@ -42832,11 +42837,11 @@
       "de": "Verderbtes Valhalla",
       "es": "Valhalla Corrupto"
     },
-    "type": "Door",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Door",
-      "Imminent"
+      "Imminent Constant",
+      "Door"
     ],
     "rank": "1",
     "text": {
@@ -44212,7 +44217,7 @@
           "de": "Verderbte Süßeste Zuckermieze",
           "es": "Gatito Monísimo de Azúcar Corrupto"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/COR-032/m?v=1&l=en",
@@ -44226,11 +44231,11 @@
       "de": "Verderbte Süßeste Zuckermieze",
       "es": "Gatito Monísimo de Azúcar Corrupto"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 2,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Cat"
@@ -44258,7 +44263,7 @@
           "de": "Verderbte Süßeste Zuckermieze",
           "es": "Gatito Monísimo de Azúcar Corrupto"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/COR-032-C/m?v=1&l=en",
@@ -44272,11 +44277,11 @@
       "de": "Verderbte Süßeste Zuckermieze",
       "es": "Gatito Monísimo de Azúcar Corrupto"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 2,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Cat"
@@ -44430,7 +44435,7 @@
           "de": "Verderbter Gieriger Kobold",
           "es": "Diablillo Voraz Corrupto"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 3,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/COR-035/m?v=1&l=en",
@@ -44444,11 +44449,11 @@
       "de": "Verderbter Gieriger Kobold",
       "es": "Diablillo Voraz Corrupto"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 3,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Demon"
@@ -44652,7 +44657,7 @@
           "de": "Verderbte Gequälte Seele",
           "es": "Alma Atormentada Corrupta"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/COR-038/m?v=1&l=en",
@@ -44666,11 +44671,11 @@
       "de": "Verderbte Gequälte Seele",
       "es": "Alma Atormentada Corrupta"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 2,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Spirit"
@@ -45154,7 +45159,7 @@
           "de": "Verderbter Banana Psycho",
           "es": "Banana Psycho Corrupta"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 3,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/COR-049/m?v=1&l=en",
@@ -45168,11 +45173,11 @@
       "de": "Verderbter Banana Psycho",
       "es": "Banana Psycho Corrupta"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 3,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Food"
@@ -45200,7 +45205,7 @@
           "de": "Verderbte Ocnars Kugel",
           "es": "Orbe de Ocnar Corrupto"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 3,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/COR-050/m?v=1&l=en",
@@ -45214,12 +45219,12 @@
       "de": "Verderbte Ocnars Kugel",
       "es": "Orbe de Ocnar Corrupto"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 3,
     "types": [
+      "Imminent Constant",
       "Creature",
-      "Incantation",
-      "Imminent"
+      "Incantation"
     ],
     "subtypes": [
       "Deity"
@@ -45243,7 +45248,7 @@
           "de": "Verderbter Keynn",
           "es": "Keynn Corrupto"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 3,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/COR-051/m?v=1&l=en",
@@ -45257,11 +45262,11 @@
       "de": "Verderbter Keynn",
       "es": "Keynn Corrupto"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 3,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Keyper"
@@ -47854,7 +47859,7 @@
           "de": "Verderbte Sanduhr",
           "es": "Reloj de Arena Corrupto"
         },
-        "type": "Incantation",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/COR-094/m?v=1&l=en",
@@ -47868,11 +47873,11 @@
       "de": "Verderbte Sanduhr",
       "es": "Reloj de Arena Corrupto"
     },
-    "type": "Incantation",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Incantation",
-      "Imminent"
+      "Imminent Constant",
+      "Incantation"
     ],
     "rank": "1",
     "rarity": "Rare",
@@ -47897,7 +47902,7 @@
           "de": "Verderbte Sanduhr",
           "es": "Reloj de Arena Corrupto"
         },
-        "type": "Incantation",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/COR-094-C/m?v=1&l=en",
@@ -47911,11 +47916,11 @@
       "de": "Verderbte Sanduhr",
       "es": "Reloj de Arena Corrupto"
     },
-    "type": "Incantation",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Incantation",
-      "Imminent"
+      "Imminent Constant",
+      "Incantation"
     ],
     "rank": "1",
     "rarity": "Rare",
@@ -48536,7 +48541,7 @@
           "de": "Verderbtes Kleefeld",
           "es": "Campo de Tréboles Corrupto"
         },
-        "type": "Incantation",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/COR-103/m?v=1&l=en",
@@ -48550,11 +48555,11 @@
       "de": "Verderbtes Kleefeld",
       "es": "Campo de Tréboles Corrupto"
     },
-    "type": "Incantation",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Incantation",
-      "Imminent"
+      "Imminent Constant",
+      "Incantation"
     ],
     "rank": "1",
     "rarity": "Rare",
@@ -48579,7 +48584,7 @@
           "de": "Verderbtes Kleefeld",
           "es": "Campo de Tréboles Corrupto"
         },
-        "type": "Incantation",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/COR-103-C/m?v=1&l=en",
@@ -48593,11 +48598,11 @@
       "de": "Verderbtes Kleefeld",
       "es": "Campo de Tréboles Corrupto"
     },
-    "type": "Incantation",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Incantation",
-      "Imminent"
+      "Imminent Constant",
+      "Incantation"
     ],
     "rank": "1",
     "rarity": "Rare",
@@ -48727,7 +48732,7 @@
           "de": "Verderbtes Schwarzes Loch",
           "es": "Agujero Negro Corrupto"
         },
-        "type": "Incantation",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/COR-107/m?v=1&l=en",
@@ -48741,11 +48746,11 @@
       "de": "Verderbtes Schwarzes Loch",
       "es": "Agujero Negro Corrupto"
     },
-    "type": "Incantation",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Incantation",
-      "Imminent"
+      "Imminent Constant",
+      "Incantation"
     ],
     "rank": "1",
     "rarity": "Rare",
@@ -48770,7 +48775,7 @@
           "de": "Verderbtes Schwarzes Loch",
           "es": "Agujero Negro Corrupto"
         },
-        "type": "Incantation",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/COR-107-C/m?v=1&l=en",
@@ -48784,11 +48789,11 @@
       "de": "Verderbtes Schwarzes Loch",
       "es": "Agujero Negro Corrupto"
     },
-    "type": "Incantation",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Incantation",
-      "Imminent"
+      "Imminent Constant",
+      "Incantation"
     ],
     "rank": "1",
     "rarity": "Rare",
@@ -48851,7 +48856,7 @@
           "de": "Verderbter Strahlender Sonnenschein",
           "es": "Sol Deslumbrante Corrupto"
         },
-        "type": "Incantation",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/COR-109/m?v=1&l=en",
@@ -48865,11 +48870,11 @@
       "de": "Verderbter Strahlender Sonnenschein",
       "es": "Sol Deslumbrante Corrupto"
     },
-    "type": "Incantation",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Incantation",
-      "Imminent"
+      "Imminent Constant",
+      "Incantation"
     ],
     "rank": "1",
     "rarity": "Rare",
@@ -48894,7 +48899,7 @@
           "de": "Verderbter Strahlender Sonnenschein",
           "es": "Sol Deslumbrante Corrupto"
         },
-        "type": "Incantation",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/COR-109-C/m?v=1&l=en",
@@ -48908,11 +48913,11 @@
       "de": "Verderbter Strahlender Sonnenschein",
       "es": "Sol Deslumbrante Corrupto"
     },
-    "type": "Incantation",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Incantation",
-      "Imminent"
+      "Imminent Constant",
+      "Incantation"
     ],
     "rank": "1",
     "rarity": "Rare",
@@ -49197,7 +49202,7 @@
           "de": "Verderbte Feuerkugel",
           "es": "Orbe de Fuego Corrupto"
         },
-        "type": "Incantation",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/COR-116/m?v=1&l=en",
@@ -49211,11 +49216,11 @@
       "de": "Verderbte Feuerkugel",
       "es": "Orbe de Fuego Corrupto"
     },
-    "type": "Incantation",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Incantation",
-      "Imminent"
+      "Imminent Constant",
+      "Incantation"
     ],
     "rank": "1",
     "aptitudes": [
@@ -49386,7 +49391,7 @@
           "de": "Verderbtes Die Waffen strecken",
           "es": "Rendirse Corrupto"
         },
-        "type": "Incantation",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/COR-120/m?v=1&l=en",
@@ -49400,11 +49405,11 @@
       "de": "Verderbtes Die Waffen strecken",
       "es": "Rendirse Corrupto"
     },
-    "type": "Incantation",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Incantation",
-      "Imminent"
+      "Imminent Constant",
+      "Incantation"
     ],
     "rank": "1",
     "text": {
@@ -50363,12 +50368,12 @@
     "face": {
       "front": {
         "name": {
-          "en": "Core level Up Corrupted B",
-          "fr": "Niveau Supérieur de Base Corrompu B",
-          "de": "Verderbtes Basis-Level Up B",
-          "es": "Subida de Nivel Básica Corrupta B"
+          "en": "Core Level Up",
+          "fr": "Niveau Supérieur De Base",
+          "de": "Basis-Level Up",
+          "es": "Subida de Nivel Básica"
         },
-        "type": "Other",
+        "type": "Level Up",
         "cost": 0,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/COR-140B/m?v=1&l=en",
@@ -50377,13 +50382,14 @@
       }
     },
     "name": {
-      "en": "Core level Up Corrupted B",
-      "fr": "Niveau Supérieur de Base Corrompu B",
-      "de": "Verderbtes Basis-Level Up B",
-      "es": "Subida de Nivel Básica Corrupta B"
+      "en": "Core Level Up",
+      "fr": "Niveau Supérieur De Base",
+      "de": "Basis-Level Up",
+      "es": "Subida de Nivel Básica"
     },
-    "type": "Other",
+    "type": "Level Up",
     "cost": 0,
+    "rank": "Infinite",
     "rarity": "Common",
     "text": {
       "en": "~ Target Summoner gains a level.",
@@ -50391,19 +50397,20 @@
       "de": "~ Der anvisierte Beschwörer erhält eine Stufe.",
       "es": "~ El Invocador objetivo gana un nivel."
     },
-    "set": "Corrupted"
+    "set": "Corrupted",
+    "isToken": true
   },
   "COR-140C": {
     "id": "COR-140C",
     "face": {
       "front": {
         "name": {
-          "en": "Core level Up Corrupted C",
-          "fr": "Niveau Supérieur de Base Corrompu C",
-          "de": "Verderbtes Basis-Level Up C",
-          "es": "Subida de Nivel Básica Corrupta C"
+          "en": "Core Level Up",
+          "fr": "Niveau Supérieur De Base",
+          "de": "Basis-Level Up",
+          "es": "Subida de Nivel Básica"
         },
-        "type": "Other",
+        "type": "Level Up",
         "cost": 0,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/COR-140C/m?v=1&l=en",
@@ -50412,13 +50419,14 @@
       }
     },
     "name": {
-      "en": "Core level Up Corrupted C",
-      "fr": "Niveau Supérieur de Base Corrompu C",
-      "de": "Verderbtes Basis-Level Up C",
-      "es": "Subida de Nivel Básica Corrupta C"
+      "en": "Core Level Up",
+      "fr": "Niveau Supérieur De Base",
+      "de": "Basis-Level Up",
+      "es": "Subida de Nivel Básica"
     },
-    "type": "Other",
+    "type": "Level Up",
     "cost": 0,
+    "rank": "Infinite",
     "rarity": "Common",
     "text": {
       "en": "~ Target Summoner gains a level.",
@@ -50426,19 +50434,20 @@
       "de": "~ Der anvisierte Beschwörer erhält eine Stufe.",
       "es": "~ El Invocador objetivo gana un nivel."
     },
-    "set": "Corrupted"
+    "set": "Corrupted",
+    "isToken": true
   },
   "COR-140D": {
     "id": "COR-140D",
     "face": {
       "front": {
         "name": {
-          "en": "Core level Up Corrupted D",
-          "fr": "Niveau Supérieur de Base Corrompu D",
-          "de": "Verderbtes Basis-Level Up D",
-          "es": "Subida de Nivel Básica Corrupta D"
+          "en": "Core Level Up",
+          "fr": "Niveau Supérieur De Base",
+          "de": "Basis-Level Up",
+          "es": "Subida de Nivel Básica"
         },
-        "type": "Other",
+        "type": "Level Up",
         "cost": 0,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/COR-140D/m?v=1&l=en",
@@ -50447,13 +50456,14 @@
       }
     },
     "name": {
-      "en": "Core level Up Corrupted D",
-      "fr": "Niveau Supérieur de Base Corrompu D",
-      "de": "Verderbtes Basis-Level Up D",
-      "es": "Subida de Nivel Básica Corrupta D"
+      "en": "Core Level Up",
+      "fr": "Niveau Supérieur De Base",
+      "de": "Basis-Level Up",
+      "es": "Subida de Nivel Básica"
     },
-    "type": "Other",
+    "type": "Level Up",
     "cost": 0,
+    "rank": "Infinite",
     "rarity": "Common",
     "text": {
       "en": "~ Target Summoner gains a level.",
@@ -50461,19 +50471,20 @@
       "de": "~ Der anvisierte Beschwörer erhält eine Stufe.",
       "es": "~ El Invocador objetivo gana un nivel."
     },
-    "set": "Corrupted"
+    "set": "Corrupted",
+    "isToken": true
   },
   "COR-140E": {
     "id": "COR-140E",
     "face": {
       "front": {
         "name": {
-          "en": "Core level Up Corrupted E",
-          "fr": "Niveau Supérieur de Base Corrompu E",
-          "de": "Verderbtes Basis-Level Up E",
-          "es": "Subida de Nivel Básica Corrupta E"
+          "en": "Core Level Up",
+          "fr": "Niveau Supérieur De Base",
+          "de": "Basis-Level Up",
+          "es": "Subida de Nivel Básica"
         },
-        "type": "Other",
+        "type": "Level Up",
         "cost": 0,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/COR-140E/m?v=1&l=en",
@@ -50482,13 +50493,14 @@
       }
     },
     "name": {
-      "en": "Core level Up Corrupted E",
-      "fr": "Niveau Supérieur de Base Corrompu E",
-      "de": "Verderbtes Basis-Level Up E",
-      "es": "Subida de Nivel Básica Corrupta E"
+      "en": "Core Level Up",
+      "fr": "Niveau Supérieur De Base",
+      "de": "Basis-Level Up",
+      "es": "Subida de Nivel Básica"
     },
-    "type": "Other",
+    "type": "Level Up",
     "cost": 0,
+    "rank": "Infinite",
     "rarity": "Common",
     "text": {
       "en": "~ Target Summoner gains a level.",
@@ -50496,7 +50508,8 @@
       "de": "~ Der anvisierte Beschwörer erhält eine Stufe.",
       "es": "~ El Invocador objetivo gana un nivel."
     },
-    "set": "Corrupted"
+    "set": "Corrupted",
+    "isToken": true
   },
   "FRE-001": {
     "id": "FRE-001",
@@ -50650,7 +50663,7 @@
           "de": "Wasserdrache",
           "es": "Dragón de Agua"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/FRE-005/m?v=1&l=en",
@@ -50664,11 +50677,11 @@
       "de": "Wasserdrache",
       "es": "Dragón de Agua"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Dragon"
@@ -50697,7 +50710,7 @@
           "de": "Wasserdrache",
           "es": "Dragón de Agua"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/FRE-005-C/m?v=1"
@@ -50710,11 +50723,11 @@
       "de": "Wasserdrache",
       "es": "Dragón de Agua"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Dragon"
@@ -52733,7 +52746,7 @@
           "de": "Blumenschutz",
           "es": "Protección Floral"
         },
-        "type": "Imminent",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/FRE-027/m?v=1&l=en",
@@ -52747,10 +52760,10 @@
       "de": "Blumenschutz",
       "es": "Protección Floral"
     },
-    "type": "Imminent",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Imminent",
+      "Imminent Constant",
       "Incantation"
     ],
     "rank": "1",
@@ -52773,7 +52786,7 @@
           "de": "Blumenschutz",
           "es": "Protección Floral"
         },
-        "type": "Imminent",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/FRE-027-C/m?v=1"
@@ -52786,10 +52799,10 @@
       "de": "Blumenschutz",
       "es": "Protección Floral"
     },
-    "type": "Imminent",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Imminent",
+      "Imminent Constant",
       "Incantation"
     ],
     "rank": "1",
@@ -54556,7 +54569,7 @@
           "de": "Die Reserve",
           "es": "La Reserva"
         },
-        "type": "Imminent",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/KIC-005/m?v=2"
@@ -54569,10 +54582,10 @@
       "de": "Die Reserve",
       "es": "La Reserva"
     },
-    "type": "Imminent",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Imminent",
+      "Imminent Constant",
       "Incantation"
     ],
     "rank": "1",
@@ -54661,7 +54674,7 @@
           "de": "Freunde fürs Leben",
           "es": "Amigos para Siempre"
         },
-        "type": "Imminent",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/KIC-008/m?v=2"
@@ -54674,10 +54687,10 @@
       "de": "Freunde fürs Leben",
       "es": "Amigos para Siempre"
     },
-    "type": "Imminent",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Imminent",
+      "Imminent Constant",
       "Incantation"
     ],
     "rank": "1",
@@ -54963,7 +54976,7 @@
           "de": "Träne",
           "es": "Lágrima"
         },
-        "type": "Imminent",
+        "type": "Imminent Constant",
         "cost": 0,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/KIC-017/m?v=2"
@@ -54976,10 +54989,10 @@
       "de": "Träne",
       "es": "Lágrima"
     },
-    "type": "Imminent",
+    "type": "Imminent Constant",
     "cost": 0,
     "types": [
-      "Imminent",
+      "Imminent Constant",
       "Incantation"
     ],
     "rank": "Infinite",
@@ -55039,7 +55052,7 @@
           "de": "Flammenkugel",
           "es": "Orbe de Llamas"
         },
-        "type": "Imminent",
+        "type": "Imminent Constant",
         "cost": 0,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/KIC-019/m?v=2"
@@ -55052,10 +55065,10 @@
       "de": "Flammenkugel",
       "es": "Orbe de Llamas"
     },
-    "type": "Imminent",
+    "type": "Imminent Constant",
     "cost": 0,
     "types": [
-      "Imminent",
+      "Imminent Constant",
       "Incantation"
     ],
     "rank": "Infinite",
@@ -56528,7 +56541,7 @@
           "de": "Ätherdrache",
           "es": "Dragón de Éter"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/PRE-185/m?v=1&l=en",
@@ -56542,11 +56555,11 @@
       "de": "Ätherdrache",
       "es": "Dragón de Éter"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Dragon"
@@ -56575,7 +56588,7 @@
           "de": "Ätherdrache",
           "es": "Dragón de Éter"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRE-185-C/m?v=1"
@@ -56588,11 +56601,11 @@
       "de": "Ätherdrache",
       "es": "Dragón de Éter"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Dragon"
@@ -57503,7 +57516,7 @@
         "name": {
           "en": "Miel"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/PRE-201/m?v=1&l=en",
@@ -57514,11 +57527,11 @@
     "name": {
       "en": "Miel"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Cat"
@@ -57589,7 +57602,7 @@
           "de": "Strahlender Sonnenschein",
           "es": "Sol Deslumbrante"
         },
-        "type": "Incantation",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/PRE-203/m?v=1&l=en",
@@ -57603,11 +57616,11 @@
       "de": "Strahlender Sonnenschein",
       "es": "Sol Deslumbrante"
     },
-    "type": "Incantation",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Incantation",
-      "Imminent"
+      "Imminent Constant",
+      "Incantation"
     ],
     "rank": "1",
     "rarity": "Rare",
@@ -57632,7 +57645,7 @@
           "de": "Strahlender Sonnenschein",
           "es": "Sol Deslumbrante"
         },
-        "type": "Incantation",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRE-203-C/m?v=1"
@@ -57645,11 +57658,11 @@
       "de": "Strahlender Sonnenschein",
       "es": "Sol Deslumbrante"
     },
-    "type": "Incantation",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Incantation",
-      "Imminent"
+      "Imminent Constant",
+      "Incantation"
     ],
     "rank": "1",
     "rarity": "Rare",
@@ -58889,7 +58902,7 @@
           "de": "Nudeldrache",
           "es": "Dragón de Fideos"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/PRE-236/m?v=1&l=en",
@@ -58903,11 +58916,11 @@
       "de": "Nudeldrache",
       "es": "Dragón de Fideos"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 2,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Dragon"
@@ -58982,7 +58995,7 @@
         "name": {
           "en": "Banana Psycho"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/PRE-238/m?v=1&l=en",
@@ -58993,11 +59006,11 @@
     "name": {
       "en": "Banana Psycho"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Food"
@@ -59026,7 +59039,7 @@
           "de": "Böser Lebkuchen",
           "es": "Pan de Jengibre Malo"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/PRE-239/m?v=1&l=en",
@@ -59040,11 +59053,11 @@
       "de": "Böser Lebkuchen",
       "es": "Pan de Jengibre Malo"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 2,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Food"
@@ -59133,6 +59146,7 @@
       "Clone"
     ],
     "rank": "4",
+    "rarity": "Rare",
     "aptitudes": [
       "Range"
     ],
@@ -61570,7 +61584,7 @@
           "de": "Die Waffen strecken",
           "es": "Rendirse"
         },
-        "type": "Incantation",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/PRE-302/m?v=1&l=en",
@@ -61584,11 +61598,11 @@
       "de": "Die Waffen strecken",
       "es": "Rendirse"
     },
-    "type": "Incantation",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Incantation",
-      "Imminent"
+      "Imminent Constant",
+      "Incantation"
     ],
     "rank": "1",
     "rarity": "Rare",
@@ -61610,7 +61624,7 @@
           "de": "Die Waffen strecken",
           "es": "Rendirse"
         },
-        "type": "Incantation",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRE-302-C/m?v=1"
@@ -61623,11 +61637,11 @@
       "de": "Die Waffen strecken",
       "es": "Rendirse"
     },
-    "type": "Incantation",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Incantation",
-      "Imminent"
+      "Imminent Constant",
+      "Incantation"
     ],
     "rank": "1",
     "rarity": "Rare",
@@ -61649,7 +61663,7 @@
           "de": "Zuckerschwert",
           "es": "Espada de Azúcar"
         },
-        "type": "Incantation",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/PRE-303/m?v=1&l=en",
@@ -61663,11 +61677,11 @@
       "de": "Zuckerschwert",
       "es": "Espada de Azúcar"
     },
-    "type": "Incantation",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Incantation",
-      "Imminent"
+      "Imminent Constant",
+      "Incantation"
     ],
     "rank": "1",
     "rarity": "Rare",
@@ -62398,7 +62412,7 @@
           "de": "Blumenschutz",
           "es": "Protección Floral"
         },
-        "type": "Imminent",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRE-X009-C/m?v=1"
@@ -62411,10 +62425,10 @@
       "de": "Blumenschutz",
       "es": "Protección Floral"
     },
-    "type": "Imminent",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Imminent",
+      "Imminent Constant",
       "Incantation"
     ],
     "rank": "1",
@@ -62859,7 +62873,7 @@
           "de": "Wasserdrache",
           "es": "Dragón de Agua"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRE-X021-C/m?v=1"
@@ -62872,11 +62886,11 @@
       "de": "Wasserdrache",
       "es": "Dragón de Agua"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Dragon"
@@ -62905,7 +62919,7 @@
           "de": "Rotes Kleefeld",
           "es": "Campo de Tréboles Rojos"
         },
-        "type": "Incantation",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRE-X022-C/m?v=1"
@@ -62918,11 +62932,11 @@
       "de": "Rotes Kleefeld",
       "es": "Campo de Tréboles Rojos"
     },
-    "type": "Incantation",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Incantation",
-      "Imminent"
+      "Imminent Constant",
+      "Incantation"
     ],
     "rank": "1",
     "rarity": "Legendary",
@@ -64423,7 +64437,7 @@
           "de": "Wasserdrache",
           "es": "Dragón de Agua"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/en/compagnon/img/TRO-005/m?v=1&l=en"
@@ -64436,11 +64450,11 @@
       "de": "Wasserdrache",
       "es": "Dragón de Agua"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Dragon"
@@ -66837,7 +66851,7 @@
           "de": "Kleefeld",
           "es": "Campo de Tréboles"
         },
-        "type": "Imminent",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/TRO-TR-14-1-BT/m?v=1"
@@ -66850,10 +66864,10 @@
       "de": "Kleefeld",
       "es": "Campo de Tréboles"
     },
-    "type": "Imminent",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Imminent",
+      "Imminent Constant",
       "Incantation"
     ],
     "rank": "1",
@@ -66915,7 +66929,7 @@
           "de": "Sanduhr",
           "es": "Reloj de Arena"
         },
-        "type": "Imminent",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/TRO-TR-16-BT/m?v=1"
@@ -66928,10 +66942,10 @@
       "de": "Sanduhr",
       "es": "Reloj de Arena"
     },
-    "type": "Imminent",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Imminent",
+      "Imminent Constant",
       "Incantation"
     ],
     "rank": "1",
@@ -66957,7 +66971,7 @@
           "de": "Schwarzes Loch",
           "es": "Agujero Negro"
         },
-        "type": "Imminent",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/TRO-TR-17-BT/m?v=1"
@@ -66970,10 +66984,10 @@
       "de": "Schwarzes Loch",
       "es": "Agujero Negro"
     },
-    "type": "Imminent",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Imminent",
+      "Imminent Constant",
       "Incantation"
     ],
     "rank": "1",
@@ -67437,7 +67451,7 @@
           "de": "Aïade",
           "es": "Aïade"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/P23-009-C/m?v=3"
@@ -67449,11 +67463,11 @@
       "de": "Aïade",
       "es": "Aïade"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 2,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Deity"
@@ -67482,7 +67496,7 @@
           "de": "Statisches Feld",
           "es": "Campo Estático"
         },
-        "type": "Incantation",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/P23-010-C/m?v=3"
@@ -67495,11 +67509,11 @@
       "de": "Statisches Feld",
       "es": "Campo Estático"
     },
-    "type": "Incantation",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Incantation",
-      "Imminent"
+      "Imminent Constant",
+      "Incantation"
     ],
     "rank": "1",
     "rarity": "Legendary",
@@ -67644,7 +67658,7 @@
           "de": "Verleugnung",
           "es": "Negación"
         },
-        "type": "Imminent",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/P23-014-C/m?v=3"
@@ -67657,10 +67671,10 @@
       "de": "Verleugnung",
       "es": "Negación"
     },
-    "type": "Imminent",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Imminent",
+      "Imminent Constant",
       "Incantation"
     ],
     "rank": "1",
@@ -67683,7 +67697,7 @@
         "name": {
           "en": "Miel"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/P23-015-C/m?v=3"
@@ -67693,11 +67707,11 @@
     "name": {
       "en": "Miel"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Cat"
@@ -69089,7 +69103,7 @@
           "de": "Verleugnung",
           "es": "Negación"
         },
-        "type": "Imminent",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/P23-092/m?v=1"
@@ -69102,10 +69116,10 @@
       "de": "Verleugnung",
       "es": "Negación"
     },
-    "type": "Imminent",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Imminent",
+      "Imminent Constant",
       "Incantation"
     ],
     "rank": "1",
@@ -69131,7 +69145,7 @@
           "de": "Sanduhr",
           "es": "Reloj de Arena"
         },
-        "type": "Imminent",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/P23-093/m?v=1"
@@ -69144,10 +69158,10 @@
       "de": "Sanduhr",
       "es": "Reloj de Arena"
     },
-    "type": "Imminent",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Imminent",
+      "Imminent Constant",
       "Incantation"
     ],
     "rank": "1",
@@ -69322,7 +69336,7 @@
           "de": "Süßeste Mieze",
           "es": "Gatito Monísimo"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/P23-098/m?v=1"
@@ -69335,11 +69349,11 @@
       "de": "Süßeste Mieze",
       "es": "Gatito Monísimo"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 2,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Cat"
@@ -69588,7 +69602,7 @@
           "de": "Kleefeld",
           "es": "Campo de Tréboles"
         },
-        "type": "Imminent",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/P23-105/m?v=3"
@@ -69601,10 +69615,10 @@
       "de": "Kleefeld",
       "es": "Campo de Tréboles"
     },
-    "type": "Imminent",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Imminent",
+      "Imminent Constant",
       "Incantation"
     ],
     "rank": "1",
@@ -69990,7 +70004,7 @@
           "de": "Wütende Erdbeere",
           "es": "Fresa Enfadada"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 3,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/P23-116/m?v=3"
@@ -70003,11 +70017,11 @@
       "de": "Wütende Erdbeere",
       "es": "Fresa Enfadada"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 3,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Food"
@@ -70177,7 +70191,7 @@
           "de": "Schwarzes Loch",
           "es": "Agujero Negro"
         },
-        "type": "Imminent",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/P23-121/m?v=3"
@@ -70190,10 +70204,10 @@
       "de": "Schwarzes Loch",
       "es": "Agujero Negro"
     },
-    "type": "Imminent",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Imminent",
+      "Imminent Constant",
       "Incantation"
     ],
     "rank": "1",
@@ -70285,7 +70299,7 @@
           "de": "Sanduhr",
           "es": "Reloj de Arena"
         },
-        "type": "Imminent",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/P23-124/m?v=3"
@@ -70298,10 +70312,10 @@
       "de": "Sanduhr",
       "es": "Reloj de Arena"
     },
-    "type": "Imminent",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Imminent",
+      "Imminent Constant",
       "Incantation"
     ],
     "rank": "1",
@@ -70644,7 +70658,7 @@
         "name": {
           "en": "Keynn"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 4,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/P23-135/m?v=3"
@@ -70654,11 +70668,11 @@
     "name": {
       "en": "Keynn"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 4,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Keyper"
@@ -71154,21 +71168,38 @@
     "face": {
       "front": {
         "name": {
-          "en": "Chat Trognon Sucré Royaume du TCG"
+          "en": "Candy Cuttest Kitty",
+          "fr": "Chat Trognon Sucré",
+          "de": "Süßeste Zuckermieze",
+          "es": "Gatito Monísimo de Azúcar"
         },
-        "type": "Other",
-        "cost": 0,
+        "type": "Imminent Constant",
+        "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRO-063/m?v=1"
         }
       }
     },
     "name": {
-      "en": "Chat Trognon Sucré Royaume du TCG"
+      "en": "Candy Cuttest Kitty",
+      "fr": "Chat Trognon Sucré",
+      "de": "Süßeste Zuckermieze",
+      "es": "Gatito Monísimo de Azúcar"
     },
-    "type": "Other",
-    "cost": 0,
+    "type": "Imminent Constant",
+    "cost": 2,
+    "types": [
+      "Imminent Constant",
+      "Creature"
+    ],
+    "subtypes": [
+      "Cat"
+    ],
+    "rank": "2",
     "rarity": "Rare",
+    "aptitudes": [
+      "Food"
+    ],
     "set": "Promos"
   },
   "PRO-064": {
@@ -71176,21 +71207,38 @@
     "face": {
       "front": {
         "name": {
-          "en": "Cutest Kitty CaC"
+          "en": "Cutest Kitty",
+          "fr": "Chat trognon",
+          "de": "Süßeste Mieze",
+          "es": "Gatito Monísimo"
         },
-        "type": "Other",
-        "cost": 0,
+        "type": "Imminent Constant",
+        "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRO-064/m?v=1"
         }
       }
     },
     "name": {
-      "en": "Cutest Kitty CaC"
+      "en": "Cutest Kitty",
+      "fr": "Chat trognon",
+      "de": "Süßeste Mieze",
+      "es": "Gatito Monísimo"
     },
-    "type": "Other",
-    "cost": 0,
+    "type": "Imminent Constant",
+    "cost": 2,
+    "types": [
+      "Imminent Constant",
+      "Creature"
+    ],
+    "subtypes": [
+      "Cat"
+    ],
+    "rank": "2",
     "rarity": "Rare",
+    "aptitudes": [
+      "Immunity"
+    ],
     "set": "Promos"
   },
   "PRO-068": {
@@ -71198,21 +71246,39 @@
     "face": {
       "front": {
         "name": {
-          "en": "Mirror Breaker Geek Event"
+          "en": "Mirror Breaker",
+          "fr": "Brise - Miroir",
+          "de": "Spiegelbrecher",
+          "es": "Rompeespejos"
         },
-        "type": "Other",
-        "cost": 0,
+        "type": "Creature",
+        "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRO-068/m?v=1"
         }
       }
     },
     "name": {
-      "en": "Mirror Breaker Geek Event"
+      "en": "Mirror Breaker",
+      "fr": "Brise - Miroir",
+      "de": "Spiegelbrecher",
+      "es": "Rompeespejos"
     },
-    "type": "Other",
-    "cost": 0,
+    "type": "Creature",
+    "cost": 2,
+    "types": [
+      "Creature",
+      "Incantation"
+    ],
+    "subtypes": [
+      "Knight"
+    ],
+    "rank": "2",
     "rarity": "Rare",
+    "aptitudes": [
+      "Iron skin",
+      "Bleed"
+    ],
     "set": "Promos"
   },
   "PRO-137": {
@@ -71220,20 +71286,27 @@
     "face": {
       "front": {
         "name": {
-          "en": "Klynn Kha Prophétie Judge League 25-26"
+          "en": "Klynn Kha Prophecy",
+          "fr": "Klynn Kha Prophétie",
+          "de": "Klynn-Kha-Prophezeiung",
+          "es": "Profecía de Klynn Kha"
         },
-        "type": "Other",
-        "cost": 0,
+        "type": "Imminent",
+        "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRO-137/m?v=1"
         }
       }
     },
     "name": {
-      "en": "Klynn Kha Prophétie Judge League 25-26"
+      "en": "Klynn Kha Prophecy",
+      "fr": "Klynn Kha Prophétie",
+      "de": "Klynn-Kha-Prophezeiung",
+      "es": "Profecía de Klynn Kha"
     },
-    "type": "Other",
-    "cost": 0,
+    "type": "Imminent",
+    "cost": 2,
+    "rank": "2",
     "rarity": "Rare",
     "set": "Promos"
   },
@@ -71242,20 +71315,27 @@
     "face": {
       "front": {
         "name": {
-          "en": "No Way CaC"
+          "en": "No Way",
+          "fr": "En aucune façon",
+          "de": "Auf keinen Fall",
+          "es": "De Ninguna Manera"
         },
-        "type": "Other",
-        "cost": 0,
+        "type": "Imminent",
+        "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRO-150/m?v=1"
         }
       }
     },
     "name": {
-      "en": "No Way CaC"
+      "en": "No Way",
+      "fr": "En aucune façon",
+      "de": "Auf keinen Fall",
+      "es": "De Ninguna Manera"
     },
-    "type": "Other",
-    "cost": 0,
+    "type": "Imminent",
+    "cost": 2,
+    "rank": "2",
     "rarity": "Rare",
     "set": "Promos"
   },
@@ -71264,21 +71344,31 @@
     "face": {
       "front": {
         "name": {
-          "en": "Ultimate Success Kickstarter Promo 01"
+          "en": "Ultimate Success",
+          "fr": "Succès ultime",
+          "de": "Ultimativer Erfolg",
+          "es": "Éxito Supremo"
         },
-        "type": "Other",
-        "cost": 0,
+        "type": "Imminent",
+        "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRO-152/m?v=3"
         }
       }
     },
     "name": {
-      "en": "Ultimate Success Kickstarter Promo 01"
+      "en": "Ultimate Success",
+      "fr": "Succès ultime",
+      "de": "Ultimativer Erfolg",
+      "es": "Éxito Supremo"
     },
-    "type": "Other",
-    "cost": 0,
+    "type": "Imminent",
+    "cost": 2,
+    "rank": "2",
     "rarity": "Uncommon",
+    "aptitudes": [
+      "Multi-target"
+    ],
     "set": "Promos"
   },
   "PRO-176-CI": {
@@ -71286,20 +71376,27 @@
     "face": {
       "front": {
         "name": {
-          "en": "Organic Orb Promo Candypocalypse 03"
+          "en": "Organic Orb",
+          "fr": "Orbe Organique",
+          "de": "Organische Kugel",
+          "es": "Orbe Orgánico"
         },
-        "type": "Other",
-        "cost": 0,
+        "type": "Incantation",
+        "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRO-176-CI/m?v=1"
         }
       }
     },
     "name": {
-      "en": "Organic Orb Promo Candypocalypse 03"
+      "en": "Organic Orb",
+      "fr": "Orbe Organique",
+      "de": "Organische Kugel",
+      "es": "Orbe Orgánico"
     },
-    "type": "Other",
-    "cost": 0,
+    "type": "Incantation",
+    "cost": 1,
+    "rank": "1",
     "rarity": "Rare",
     "set": "Promos"
   },
@@ -71343,21 +71440,32 @@
     "face": {
       "front": {
         "name": {
-          "en": "Rainbow Cupcake Promo Candypocalypse 03"
+          "en": "Rainbow Cupcake",
+          "fr": "Cupcake Arc-En-Ciel",
+          "de": "Regenbogen-Cupcake",
+          "es": "Cupcake Arcoíris"
         },
-        "type": "Other",
-        "cost": 0,
+        "type": "Incantation",
+        "cost": 3,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRO-222-CI/m?v=1"
         }
       }
     },
     "name": {
-      "en": "Rainbow Cupcake Promo Candypocalypse 03"
+      "en": "Rainbow Cupcake",
+      "fr": "Cupcake Arc-En-Ciel",
+      "de": "Regenbogen-Cupcake",
+      "es": "Cupcake Arcoíris"
     },
-    "type": "Other",
-    "cost": 0,
+    "type": "Incantation",
+    "cost": 3,
+    "rank": "3",
     "rarity": "Rare",
+    "aptitudes": [
+      "Equipment",
+      "Food"
+    ],
     "set": "Promos"
   },
   "PRO-238": {
@@ -71365,20 +71473,27 @@
     "face": {
       "front": {
         "name": {
-          "en": "Dark Clover Kickstarter"
+          "en": "Dark Clover",
+          "fr": "Treffle sombre",
+          "de": "Dunkler Klee",
+          "es": "Trébol Oscuro"
         },
-        "type": "Other",
-        "cost": 0,
+        "type": "Incantation",
+        "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRO-238/m?v=1"
         }
       }
     },
     "name": {
-      "en": "Dark Clover Kickstarter"
+      "en": "Dark Clover",
+      "fr": "Treffle sombre",
+      "de": "Dunkler Klee",
+      "es": "Trébol Oscuro"
     },
-    "type": "Other",
-    "cost": 0,
+    "type": "Incantation",
+    "cost": 1,
+    "rank": "1",
     "rarity": "Rare",
     "set": "Promos"
   },
@@ -71387,20 +71502,27 @@
     "face": {
       "front": {
         "name": {
-          "en": "Telekinesis CaC"
+          "en": "Telekinesis",
+          "fr": "Télékinésie",
+          "de": "Telekinese",
+          "es": "Telequinesis"
         },
-        "type": "Other",
-        "cost": 0,
+        "type": "Incantation",
+        "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRO-248/m?v=1"
         }
       }
     },
     "name": {
-      "en": "Telekinesis CaC"
+      "en": "Telekinesis",
+      "fr": "Télékinésie",
+      "de": "Telekinese",
+      "es": "Telequinesis"
     },
-    "type": "Other",
-    "cost": 0,
+    "type": "Incantation",
+    "cost": 2,
+    "rank": "2",
     "rarity": "Rare",
     "set": "Promos"
   },
@@ -71409,20 +71531,27 @@
     "face": {
       "front": {
         "name": {
-          "en": "Contrefacon League 25-26"
+          "en": "Counterfeit",
+          "fr": "Contrefacon",
+          "de": "Fälschung",
+          "es": "Falsificación"
         },
-        "type": "Other",
-        "cost": 0,
+        "type": "Incantation",
+        "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRO-269/m?v=1"
         }
       }
     },
     "name": {
-      "en": "Contrefacon League 25-26"
+      "en": "Counterfeit",
+      "fr": "Contrefacon",
+      "de": "Fälschung",
+      "es": "Falsificación"
     },
-    "type": "Other",
-    "cost": 0,
+    "type": "Incantation",
+    "cost": 2,
+    "rank": "2",
     "rarity": "Rare",
     "set": "Promos"
   },
@@ -72494,9 +72623,12 @@
     "face": {
       "front": {
         "name": {
-          "en": "Core Level Up Participation"
+          "en": "Core Level Up",
+          "fr": "Niveau Supérieur De Base",
+          "de": "Basis-Level Up",
+          "es": "Subida de Nivel Básica"
         },
-        "type": "Other",
+        "type": "Level Up",
         "cost": 0,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRO-T1-001/m?v=1"
@@ -72504,32 +72636,44 @@
       }
     },
     "name": {
-      "en": "Core Level Up Participation"
+      "en": "Core Level Up",
+      "fr": "Niveau Supérieur De Base",
+      "de": "Basis-Level Up",
+      "es": "Subida de Nivel Básica"
     },
-    "type": "Other",
+    "type": "Level Up",
     "cost": 0,
+    "rank": "Infinite",
     "rarity": "Rare",
-    "set": "Promos"
+    "set": "Promos",
+    "isToken": true
   },
   "PRO-T1-002": {
     "id": "PRO-T1-002",
     "face": {
       "front": {
         "name": {
-          "en": "Grim Dance 3d"
+          "en": "Grim Dance",
+          "fr": "Danse macabre",
+          "de": "Totentanz",
+          "es": "Danza Macabra"
         },
-        "type": "Other",
-        "cost": 0,
+        "type": "Incantation",
+        "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRO-T1-002/m?v=1"
         }
       }
     },
     "name": {
-      "en": "Grim Dance 3d"
+      "en": "Grim Dance",
+      "fr": "Danse macabre",
+      "de": "Totentanz",
+      "es": "Danza Macabra"
     },
-    "type": "Other",
-    "cost": 0,
+    "type": "Incantation",
+    "cost": 1,
+    "rank": "1",
     "rarity": "Rare",
     "set": "Promos"
   },
@@ -72538,21 +72682,38 @@
     "face": {
       "front": {
         "name": {
-          "en": "Cutest Kitty 2d"
+          "en": "Cutest Kitty",
+          "fr": "Chat trognon",
+          "de": "Süßeste Mieze",
+          "es": "Gatito Monísimo"
         },
-        "type": "Other",
-        "cost": 0,
+        "type": "Imminent Constant",
+        "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRO-T1-003/m?v=1"
         }
       }
     },
     "name": {
-      "en": "Cutest Kitty 2d"
+      "en": "Cutest Kitty",
+      "fr": "Chat trognon",
+      "de": "Süßeste Mieze",
+      "es": "Gatito Monísimo"
     },
-    "type": "Other",
-    "cost": 0,
+    "type": "Imminent Constant",
+    "cost": 2,
+    "types": [
+      "Imminent Constant",
+      "Creature"
+    ],
+    "subtypes": [
+      "Cat"
+    ],
+    "rank": "2",
     "rarity": "Rare",
+    "aptitudes": [
+      "Immunity"
+    ],
     "set": "Promos"
   },
   "PRO-T1-004": {
@@ -72560,20 +72721,27 @@
     "face": {
       "front": {
         "name": {
-          "en": "Shiny Level Up 1st"
+          "en": "Shiny Level Up",
+          "fr": "Niveau Supérieur Brillant",
+          "de": "Glänzendes Level Up",
+          "es": "Subida de Nivel Reluciente"
         },
-        "type": "Other",
-        "cost": 0,
+        "type": "Level Up",
+        "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRO-T1-004/m?v=1"
         }
       }
     },
     "name": {
-      "en": "Shiny Level Up 1st"
+      "en": "Shiny Level Up",
+      "fr": "Niveau Supérieur Brillant",
+      "de": "Glänzendes Level Up",
+      "es": "Subida de Nivel Reluciente"
     },
-    "type": "Other",
-    "cost": 0,
+    "type": "Level Up",
+    "cost": 2,
+    "rank": "2",
     "rarity": "Rare",
     "set": "Promos"
   },
@@ -72582,21 +72750,37 @@
     "face": {
       "front": {
         "name": {
-          "en": "Cotton Candy Cat 3d"
+          "en": "Cotton Candy Cat",
+          "fr": "Chat Barbe À Papa",
+          "de": "Zuckerwatte-Katze",
+          "es": "Gato Algodón de Azúcar"
         },
-        "type": "Other",
-        "cost": 0,
+        "type": "Creature",
+        "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRO-T1-005/m?v=1"
         }
       }
     },
     "name": {
-      "en": "Cotton Candy Cat 3d"
+      "en": "Cotton Candy Cat",
+      "fr": "Chat Barbe À Papa",
+      "de": "Zuckerwatte-Katze",
+      "es": "Gato Algodón de Azúcar"
     },
-    "type": "Other",
-    "cost": 0,
+    "type": "Creature",
+    "cost": 2,
+    "subtypes": [
+      "Cat"
+    ],
+    "rank": "2",
     "rarity": "Rare",
+    "aptitudes": [
+      "Velocity",
+      "Flight",
+      "Diversion",
+      "Food"
+    ],
     "set": "Promos"
   },
   "PRO-T1-006": {
@@ -72626,21 +72810,32 @@
     "face": {
       "front": {
         "name": {
-          "en": "Frozen 1st"
+          "en": "Frozen",
+          "fr": "Gel",
+          "de": "Frost",
+          "es": "Congelación"
         },
-        "type": "Other",
-        "cost": 0,
+        "type": "Imminent",
+        "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRO-T1-007/m?v=1"
         }
       }
     },
     "name": {
-      "en": "Frozen 1st"
+      "en": "Frozen",
+      "fr": "Gel",
+      "de": "Frost",
+      "es": "Congelación"
     },
-    "type": "Other",
-    "cost": 0,
+    "type": "Imminent",
+    "cost": 2,
+    "rank": "2",
     "rarity": "Rare",
+    "aptitudes": [
+      "Disease",
+      "Ice"
+    ],
     "set": "Promos"
   },
   "PRO-T1-008": {
@@ -72648,21 +72843,35 @@
     "face": {
       "front": {
         "name": {
-          "en": "Jam Donut Promo"
+          "en": "Jam Donut",
+          "fr": "Donut Confiture",
+          "de": "Marmeladen-Donut",
+          "es": "Dónut de Mermelada"
         },
-        "type": "Other",
-        "cost": 0,
+        "type": "Creature",
+        "cost": 4,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRO-T1-008/m?v=1"
         }
       }
     },
     "name": {
-      "en": "Jam Donut Promo"
+      "en": "Jam Donut",
+      "fr": "Donut Confiture",
+      "de": "Marmeladen-Donut",
+      "es": "Dónut de Mermelada"
     },
-    "type": "Other",
-    "cost": 0,
+    "type": "Creature",
+    "cost": 4,
+    "subtypes": [
+      "Food"
+    ],
+    "rank": "4",
     "rarity": "Rare",
+    "aptitudes": [
+      "Food",
+      "Bleed"
+    ],
     "set": "Promos"
   },
   "PRO-T1-009": {
@@ -72670,20 +72879,27 @@
     "face": {
       "front": {
         "name": {
-          "en": "Telekinesis Judge"
+          "en": "Telekinesis",
+          "fr": "Télékinésie",
+          "de": "Telekinese",
+          "es": "Telequinesis"
         },
-        "type": "Other",
-        "cost": 0,
+        "type": "Incantation",
+        "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRO-T1-009/m?v=1"
         }
       }
     },
     "name": {
-      "en": "Telekinesis Judge"
+      "en": "Telekinesis",
+      "fr": "Télékinésie",
+      "de": "Telekinese",
+      "es": "Telequinesis"
     },
-    "type": "Other",
-    "cost": 0,
+    "type": "Incantation",
+    "cost": 2,
+    "rank": "2",
     "rarity": "Rare",
     "set": "Promos"
   },
@@ -72692,21 +72908,33 @@
     "face": {
       "front": {
         "name": {
-          "en": "Unicornet Promo"
+          "en": "Unicornet",
+          "fr": "Licornet",
+          "de": "Einhörnchen",
+          "es": "Unicornete"
         },
-        "type": "Other",
-        "cost": 0,
+        "type": "Incantation",
+        "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRO-T1-010/m?v=1"
         }
       }
     },
     "name": {
-      "en": "Unicornet Promo"
+      "en": "Unicornet",
+      "fr": "Licornet",
+      "de": "Einhörnchen",
+      "es": "Unicornete"
     },
-    "type": "Other",
-    "cost": 0,
+    "type": "Incantation",
+    "cost": 2,
+    "rank": "2",
     "rarity": "Rare",
+    "aptitudes": [
+      "Equipment",
+      "Ice",
+      "Food"
+    ],
     "set": "Promos"
   },
   "PRO-T2-001": {
@@ -72714,20 +72942,27 @@
     "face": {
       "front": {
         "name": {
-          "en": "Sparkling Level Up 1st"
+          "en": "Sparkling Level Up",
+          "fr": "Niveau Supérieur Étincelant",
+          "de": "Funkelndes Level Up",
+          "es": "Subida de Nivel Centelleante"
         },
-        "type": "Other",
-        "cost": 0,
+        "type": "Level Up",
+        "cost": 3,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRO-T2-001/m?v=1"
         }
       }
     },
     "name": {
-      "en": "Sparkling Level Up 1st"
+      "en": "Sparkling Level Up",
+      "fr": "Niveau Supérieur Étincelant",
+      "de": "Funkelndes Level Up",
+      "es": "Subida de Nivel Centelleante"
     },
-    "type": "Other",
-    "cost": 0,
+    "type": "Level Up",
+    "cost": 3,
+    "rank": "3",
     "rarity": "Rare",
     "set": "Promos"
   },
@@ -72736,21 +72971,30 @@
     "face": {
       "front": {
         "name": {
-          "en": "Alouqa 1st"
+          "en": "Alouqa"
         },
-        "type": "Other",
-        "cost": 0,
+        "type": "Creature",
+        "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRO-T2-002/m?v=1"
         }
       }
     },
     "name": {
-      "en": "Alouqa 1st"
+      "en": "Alouqa"
     },
-    "type": "Other",
-    "cost": 0,
+    "type": "Creature",
+    "cost": 2,
+    "subtypes": [
+      "Demon"
+    ],
+    "rank": "2",
     "rarity": "Rare",
+    "aptitudes": [
+      "Flight",
+      "Possession",
+      "Drain"
+    ],
     "set": "Promos"
   },
   "PRO-T2-003": {
@@ -72758,20 +73002,25 @@
     "face": {
       "front": {
         "name": {
-          "en": "Possession 1st"
+          "en": "Possession",
+          "de": "Besessenheit",
+          "es": "Posesión"
         },
-        "type": "Other",
-        "cost": 0,
+        "type": "Incantation",
+        "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRO-T2-003/m?v=1"
         }
       }
     },
     "name": {
-      "en": "Possession 1st"
+      "en": "Possession",
+      "de": "Besessenheit",
+      "es": "Posesión"
     },
-    "type": "Other",
-    "cost": 0,
+    "type": "Incantation",
+    "cost": 2,
+    "rank": "2",
     "rarity": "Rare",
     "set": "Promos"
   },
@@ -72780,20 +73029,27 @@
     "face": {
       "front": {
         "name": {
-          "en": "Distress 2d"
+          "en": "Distress",
+          "fr": "Détresse",
+          "de": "Not",
+          "es": "Angustia"
         },
-        "type": "Other",
-        "cost": 0,
+        "type": "Imminent",
+        "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRO-T2-004/m?v=1"
         }
       }
     },
     "name": {
-      "en": "Distress 2d"
+      "en": "Distress",
+      "fr": "Détresse",
+      "de": "Not",
+      "es": "Angustia"
     },
-    "type": "Other",
-    "cost": 0,
+    "type": "Imminent",
+    "cost": 1,
+    "rank": "1",
     "rarity": "Rare",
     "set": "Promos"
   },
@@ -72802,21 +73058,34 @@
     "face": {
       "front": {
         "name": {
-          "en": "Zenyd 2d"
+          "en": "Zenyd"
         },
-        "type": "Other",
-        "cost": 0,
+        "type": "Creature",
+        "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRO-T2-005/m?v=1"
         }
       }
     },
     "name": {
-      "en": "Zenyd 2d"
+      "en": "Zenyd"
     },
-    "type": "Other",
-    "cost": 0,
+    "type": "Creature",
+    "cost": 2,
+    "types": [
+      "Creature",
+      "Incantation"
+    ],
+    "subtypes": [
+      "???"
+    ],
+    "rank": "2",
     "rarity": "Rare",
+    "aptitudes": [
+      "Flight",
+      "Distance",
+      "Adept"
+    ],
     "set": "Promos"
   },
   "PRO-T2-006": {
@@ -72824,21 +73093,31 @@
     "face": {
       "front": {
         "name": {
-          "en": "Freshness 2d"
+          "en": "Freshness",
+          "fr": "Fraicheur",
+          "de": "Frische",
+          "es": "Frescura"
         },
-        "type": "Other",
-        "cost": 0,
+        "type": "Incantation",
+        "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRO-T2-006/m?v=1"
         }
       }
     },
     "name": {
-      "en": "Freshness 2d"
+      "en": "Freshness",
+      "fr": "Fraicheur",
+      "de": "Frische",
+      "es": "Frescura"
     },
-    "type": "Other",
-    "cost": 0,
+    "type": "Incantation",
+    "cost": 2,
+    "rank": "2",
     "rarity": "Rare",
+    "aptitudes": [
+      "Water"
+    ],
     "set": "Promos"
   },
   "PRO-T2-007": {
@@ -72868,21 +73147,31 @@
     "face": {
       "front": {
         "name": {
-          "en": "Emerald Necklace 3d"
+          "en": "Emerald Necklace",
+          "fr": "Pendentif D'Émeraude",
+          "de": "Smaragdanhänger",
+          "es": "Colgante de Esmeralda"
         },
-        "type": "Other",
-        "cost": 0,
+        "type": "Incantation",
+        "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRO-T2-008/m?v=1"
         }
       }
     },
     "name": {
-      "en": "Emerald Necklace 3d"
+      "en": "Emerald Necklace",
+      "fr": "Pendentif D'Émeraude",
+      "de": "Smaragdanhänger",
+      "es": "Colgante de Esmeralda"
     },
-    "type": "Other",
-    "cost": 0,
+    "type": "Incantation",
+    "cost": 1,
+    "rank": "1",
     "rarity": "Rare",
+    "aptitudes": [
+      "Equipment"
+    ],
     "set": "Promos"
   },
   "PRO-T2-009": {
@@ -72890,21 +73179,31 @@
     "face": {
       "front": {
         "name": {
-          "en": "Red Clover Necklace 3d"
+          "en": "Red Clover Necklace",
+          "fr": "Pendentif Du Trèfle Rouge",
+          "de": "Rotkleeanhänger",
+          "es": "Colgante de Trébol Rojo"
         },
-        "type": "Other",
-        "cost": 0,
+        "type": "Incantation",
+        "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRO-T2-009/m?v=1"
         }
       }
     },
     "name": {
-      "en": "Red Clover Necklace 3d"
+      "en": "Red Clover Necklace",
+      "fr": "Pendentif Du Trèfle Rouge",
+      "de": "Rotkleeanhänger",
+      "es": "Colgante de Trébol Rojo"
     },
-    "type": "Other",
-    "cost": 0,
+    "type": "Incantation",
+    "cost": 1,
+    "rank": "1",
     "rarity": "Rare",
+    "aptitudes": [
+      "Equipment"
+    ],
     "set": "Promos"
   },
   "PRO-T2-010": {
@@ -72912,21 +73211,30 @@
     "face": {
       "front": {
         "name": {
-          "en": "Creamyah Participation"
+          "en": "Creamyah"
         },
-        "type": "Other",
-        "cost": 0,
+        "type": "Creature",
+        "cost": 4,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRO-T2-010/m?v=1"
         }
       }
     },
     "name": {
-      "en": "Creamyah Participation"
+      "en": "Creamyah"
     },
-    "type": "Other",
-    "cost": 0,
+    "type": "Creature",
+    "cost": 4,
+    "subtypes": [
+      "Angel"
+    ],
+    "rank": "4",
     "rarity": "Rare",
+    "aptitudes": [
+      "Flight",
+      "Constancy",
+      "Food"
+    ],
     "set": "Promos"
   },
   "PRO-T2-011": {
@@ -72934,21 +73242,32 @@
     "face": {
       "front": {
         "name": {
-          "en": "Clone Gourmet Participation"
+          "en": "Clone Gourmet",
+          "de": "Gourmet-Klon",
+          "es": "Clon Gourmet"
         },
-        "type": "Other",
-        "cost": 0,
+        "type": "Creature",
+        "cost": 4,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRO-T2-011/m?v=1"
         }
       }
     },
     "name": {
-      "en": "Clone Gourmet Participation"
+      "en": "Clone Gourmet",
+      "de": "Gourmet-Klon",
+      "es": "Clon Gourmet"
     },
-    "type": "Other",
-    "cost": 0,
+    "type": "Creature",
+    "cost": 4,
+    "subtypes": [
+      "Clone"
+    ],
+    "rank": "4",
     "rarity": "Rare",
+    "aptitudes": [
+      "Range"
+    ],
     "set": "Promos"
   },
   "PRO-T2-012": {
@@ -72956,21 +73275,33 @@
     "face": {
       "front": {
         "name": {
-          "en": "Banana Psycho Participation"
+          "en": "Banana Psycho"
         },
-        "type": "Other",
-        "cost": 0,
+        "type": "Imminent Constant",
+        "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRO-T2-012/m?v=1"
         }
       }
     },
     "name": {
-      "en": "Banana Psycho Participation"
+      "en": "Banana Psycho"
     },
-    "type": "Other",
-    "cost": 0,
+    "type": "Imminent Constant",
+    "cost": 1,
+    "types": [
+      "Imminent Constant",
+      "Creature"
+    ],
+    "subtypes": [
+      "Food"
+    ],
+    "rank": "1",
     "rarity": "Rare",
+    "aptitudes": [
+      "Velocity",
+      "Food"
+    ],
     "set": "Promos"
   },
   "PRO-T2-013": {
@@ -72978,20 +73309,25 @@
     "face": {
       "front": {
         "name": {
-          "en": "Toxine Judge"
+          "en": "Toxine",
+          "de": "Toxin",
+          "es": "Toxina"
         },
-        "type": "Other",
-        "cost": 0,
+        "type": "Incantation",
+        "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRO-T2-013/m?v=1"
         }
       }
     },
     "name": {
-      "en": "Toxine Judge"
+      "en": "Toxine",
+      "de": "Toxin",
+      "es": "Toxina"
     },
-    "type": "Other",
-    "cost": 0,
+    "type": "Incantation",
+    "cost": 1,
+    "rank": "1",
     "rarity": "Rare",
     "set": "Promos"
   },
@@ -73000,21 +73336,33 @@
     "face": {
       "front": {
         "name": {
-          "en": "Ice Cream Mirror Judge"
+          "en": "Ice Cream Mirror",
+          "fr": "Miroir Crème Glacée",
+          "de": "Eiscreme-Spiegel",
+          "es": "Espejo de Helado"
         },
-        "type": "Other",
-        "cost": 0,
+        "type": "Imminent",
+        "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRO-T2-014/m?v=1"
         }
       }
     },
     "name": {
-      "en": "Ice Cream Mirror Judge"
+      "en": "Ice Cream Mirror",
+      "fr": "Miroir Crème Glacée",
+      "de": "Eiscreme-Spiegel",
+      "es": "Espejo de Helado"
     },
-    "type": "Other",
-    "cost": 0,
+    "type": "Imminent",
+    "cost": 2,
+    "rank": "2",
     "rarity": "Rare",
+    "aptitudes": [
+      "Candy",
+      "Food",
+      "Ice"
+    ],
     "set": "Promos"
   },
   "PRO-T2-015": {
@@ -73022,20 +73370,21 @@
     "face": {
       "front": {
         "name": {
-          "en": "Finisher Judge"
+          "en": "Finisher"
         },
-        "type": "Other",
-        "cost": 0,
+        "type": "Imminent",
+        "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRO-T2-015/m?v=1"
         }
       }
     },
     "name": {
-      "en": "Finisher Judge"
+      "en": "Finisher"
     },
-    "type": "Other",
-    "cost": 0,
+    "type": "Imminent",
+    "cost": 1,
+    "rank": "1",
     "rarity": "Rare",
     "set": "Promos"
   },
@@ -73159,7 +73508,7 @@
           "de": "Böser Lebkuchen",
           "es": "Pan de Jengibre Malo"
         },
-        "type": "Creature",
+        "type": "Imminent Constant",
         "cost": 2,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRO-T2-019/m?v=1"
@@ -73172,11 +73521,11 @@
       "de": "Böser Lebkuchen",
       "es": "Pan de Jengibre Malo"
     },
-    "type": "Creature",
+    "type": "Imminent Constant",
     "cost": 2,
     "types": [
-      "Creature",
-      "Imminent"
+      "Imminent Constant",
+      "Creature"
     ],
     "subtypes": [
       "Food"
@@ -73493,7 +73842,7 @@
           "de": "Innere Leere",
           "es": "Vacío Interior"
         },
-        "type": "Incantation",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRO-T2-027/m?v=1"
@@ -73506,11 +73855,11 @@
       "de": "Innere Leere",
       "es": "Vacío Interior"
     },
-    "type": "Incantation",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Incantation",
-      "Imminent"
+      "Imminent Constant",
+      "Incantation"
     ],
     "rank": "1",
     "rarity": "Rare",
@@ -73599,7 +73948,7 @@
           "de": "Zuckerschwert",
           "es": "Espada de Azúcar"
         },
-        "type": "Incantation",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRO-T2-030/m?v=1"
@@ -73612,11 +73961,11 @@
       "de": "Zuckerschwert",
       "es": "Espada de Azúcar"
     },
-    "type": "Incantation",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Incantation",
-      "Imminent"
+      "Imminent Constant",
+      "Incantation"
     ],
     "rank": "1",
     "rarity": "Rare",
@@ -73769,7 +74118,7 @@
           "de": "Strahlender Sonnenschein",
           "es": "Sol Deslumbrante"
         },
-        "type": "Incantation",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRO-T2-035/m?v=1"
@@ -73782,11 +74131,11 @@
       "de": "Strahlender Sonnenschein",
       "es": "Sol Deslumbrante"
     },
-    "type": "Incantation",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Incantation",
-      "Imminent"
+      "Imminent Constant",
+      "Incantation"
     ],
     "rank": "1",
     "rarity": "Rare",
@@ -74015,7 +74364,7 @@
           "de": "Rotes Kleefeld",
           "es": "Campo de Tréboles Rojos"
         },
-        "type": "Incantation",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRO-T2-042/m?v=1"
@@ -74028,11 +74377,11 @@
       "de": "Rotes Kleefeld",
       "es": "Campo de Tréboles Rojos"
     },
-    "type": "Incantation",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Incantation",
-      "Imminent"
+      "Imminent Constant",
+      "Incantation"
     ],
     "rank": "1",
     "rarity": "Rare",
@@ -74276,7 +74625,7 @@
           "de": "Die Waffen strecken",
           "es": "Rendirse"
         },
-        "type": "Incantation",
+        "type": "Imminent Constant",
         "cost": 1,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/PRO-T2-049/m?v=1"
@@ -74289,11 +74638,11 @@
       "de": "Die Waffen strecken",
       "es": "Rendirse"
     },
-    "type": "Incantation",
+    "type": "Imminent Constant",
     "cost": 1,
     "types": [
-      "Incantation",
-      "Imminent"
+      "Imminent Constant",
+      "Incantation"
     ],
     "rank": "1",
     "rarity": "Rare",

@@ -1,7 +1,7 @@
 async function applySummonerStartHP(summonerCards, index) {
     if (!summonerCards) return
     const cardData = functions.getCardData(summonerCards)
-    const hp = 8
+    const hp = cardData?.hp ?? 0
     await functions.changeCounterValue(index, hp)
 }
 

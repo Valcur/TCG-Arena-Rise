@@ -76,3 +76,9 @@ async function applyGoldChange(value, delta, deltaDisplay) {
         functions.chatLog(`removed ${Math.abs(delta)} from its Stock`)
     }
 }
+
+async function calcLevel(summoner) {
+    const levelCards = cards?.["Level" + summoner]
+    if (!levelCards) return
+    game.data.Level?.["summoner" + summoner] = levelCards.length + 1
+}

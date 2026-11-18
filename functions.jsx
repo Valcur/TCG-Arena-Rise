@@ -80,5 +80,5 @@ async function applyGoldChange(value, delta, deltaDisplay) {
 async function calcLevel(summoner) {
     const levelCards = cards?.["Level" + summoner]
     if (!levelCards) return
-    game.data.Level["summoner" + summoner] = levelCards.length + 1
+    game.data["LevelSummoner" + summoner].value = levelCards.length + 1
 }

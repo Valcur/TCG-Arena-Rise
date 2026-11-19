@@ -1,0 +1,487 @@
+{
+    "name": "Rise",
+    "menuBackgroundImage": "https://valcur.github.io/TCG-Arena-Rise/Images/banner.webp",
+    "scriptsUrls": [
+        "https://valcur.github.io/TCG-Arena-Rise/functions.jsx"
+    ],
+    "cardRotation": 90,
+    "defaultRessources": {
+        "backgrounds": []
+    },
+    "customHelp": "Learn to play at https://risetcgofficial.com/en",
+    "cards": {
+        "dataUrl": "https://valcur.github.io/TCG-Arena-Rise/RiseCards.json",
+        "cardBack": "https://valcur.github.io/TCG-Arena-Rise/Images/back.jpg"
+    },
+    "deckBuilding": {
+        "mainFilters": [
+            "type",
+            "hp",
+            "Retreat cost"
+        ],
+        "formats": [
+            {
+                "title": "Classic",
+                "gameplay": "Classic",
+                "customCategories": []
+            }
+        ]
+    },
+    "gameplay": {
+        "Classic": {
+            "mulligan": {
+                "default": {
+                    "info": "You can mulligan your whole hand up to two times.",
+                    "startingHandSize": 4,
+                    "mulliganCycle": {
+                        "mulliganCount": {
+                            "max": 2
+                        },
+                        "selectionRange": {
+                            "min": 4
+                        },
+                        "steps": [
+                            "toBottom",
+                            "shuffle",
+                            "draw"
+                        ]
+                    }
+                },
+                "0": {
+                    "info": "You can mulligan your whole hand once.",
+                    "startingHandSize": 6,
+                    "mulliganCount": {
+                        "max": 1
+                    },
+                    "mulliganCycle": {
+                        "selectionRange": {
+                            "min": 6
+                        },
+                        "steps": [
+                            "toBottom",
+                            "shuffle",
+                            "draw"
+                        ]
+                    }
+                }
+            },
+            "beforeGameStart": {
+                "initialBoardSetup": [
+                    {
+                        "drawFromTop": "Summoner1",
+                        "count": 1,
+                        "destination": "Summoner2"
+                    }
+                ]
+            },
+            "newTurn": {
+                "drawPerTurn": 0
+            },
+            "defaultNotes": "",
+            "tokens": [],
+            "draggableTokens": [],
+            "countersStartingValues": [
+                0, 0
+            ],
+            "hideFacedDownCards": true,
+            "sections": {
+                "layout": {
+                    "direction": "row",
+                    "isSymetricalForOpponents": true,
+                    "style": {
+                        "marginTop": "-1vh"
+                    },
+                    "content": [
+                        {
+                            "direction": "row",
+                            "isSymetricalForOpponents": true,
+                            "style": {
+                                "width": "37.5vh"
+                            },
+                            "content": [
+                                {
+                                    "direction": "row",
+                                    "isSymetricalForOpponents": true,
+                                    "style": {
+                                        "backdropFilter": "blur(20px)",
+                                        "border": "1px solid rgba(255,255,255,0.1)",
+                                        "borderRadius": "1vh",
+                                        "width": "18.5vh"
+                                    },
+                                    "content": [
+                                        {
+                                            "direction": "column",
+                                            "content": [
+                                                {
+                                                    "section": "LevelSummoner1"
+                                                },
+                                                {
+                                                    "section": "Level1"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "direction": "column",
+                                            "style": {
+                                                "marginLeft": "-0.5vh"
+                                            },
+                                            "content": [
+                                                {
+                                                    "section": "Equipments1"
+                                                },
+                                                {
+                                                    "section": "Summoner1",
+                                                    "style": {
+                                                        "width": "10.25vh"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "direction": "row",
+                                    "isSymetricalForOpponents": true,
+                                    "style": {
+                                        "backdropFilter": "blur(20px)",
+                                        "border": "1px solid rgba(255,255,255,0.1)",
+                                        "borderRadius": "1vh",
+                                        "width": "18.5vh"
+                                    },
+                                    "content": [
+                                        {
+                                            "direction": "column",
+                                            "content": [
+                                                {
+                                                    "section": "LevelSummoner2"
+                                                },
+                                                {
+                                                    "section": "Level2"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "direction": "column",
+                                            "style": {
+                                                "marginLeft": "-0.5vh"
+                                            },
+                                            "content": [
+                                                {
+                                                    "section": "Equipments2"
+                                                },
+                                                {
+                                                    "section": "Summoner2",
+                                                    "style": {
+                                                        "width": "10.25vh"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "direction": "column",
+                            "style": {
+                                "marginTop": "2vh"
+                            },
+                            "content": [
+                                {
+                                    "section": "Restauration"
+                                },
+                                {
+                                    "section": "Creature"
+                                },
+                                {
+                                    "section": "Incantation"
+                                }
+                            ]
+                        },
+                        {
+                            "direction": "column",
+                            "style": {
+                                "width": "10vh",
+                                "justifyContent": "start",
+                                "alignItems": "center"
+                            },
+                            "content": [
+                                {
+                                    "section": "Stock",
+                                    "style": {
+                                        "width": "calc(12vh * 0.7)"
+                                    }
+                                },
+                                {
+                                    "section": "Ether",
+                                    "style": {
+                                        "width": "calc(12vh * 0.7)",
+                                        "marginTop": "4vh"
+                                    }
+                                },
+                                {
+                                    "section": "Manager"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "categoriesAlreadyOnBoard": [
+                    "Summoner->Summoner1"
+                ],
+                "autoPlayFromHand": {
+                    "Creature": "Creature",
+                    "Door": "Creature",
+                    "Imminent": "Stack",
+                    "Imminent Constant": "Stack",
+                    "Incantaion": "Creature",
+                    "Level Up": "Stack",
+                    "Summoner": "Stack",
+                    "Other": "Stack"
+                },
+                "autoPlayFromStack": {
+                    "Creature": "Creature",
+                    "Door": "Creature",
+                    "Imminent": "Discard",
+                    "Incantaion": "Creature"
+                },
+                "sectionsDict": {
+                    "Summoner1": {
+                        "isHidden": "no",
+                        "height": "13",
+                        "alignment": "NONE",
+                        "displayedTitle": "Summoner",
+                        "noQuickActions": true,
+                        "reverseZOrder": true
+                    },
+                    "Summoner2": {
+                        "isHidden": "no",
+                        "height": "13",
+                        "alignment": "NONE",
+                        "displayedTitle": "Summoner",
+                        "noQuickActions": true,
+                        "reverseZOrder": true
+                    },
+                    "Level1": {
+                        "isHidden": "no",
+                        "height": "10",
+                        "alignment": "END",
+                        "displayedTitle": "Level Up",
+                        "noQuickActions": true,
+                        "direction": "vertical",
+                        "cardActionShortcut": {
+                            "action": "NONE"
+                        },
+                        "events": {
+                            "onCardsEnter": "await calcLevel(1)",
+                            "onCardsLeave": "await calcLevel(1)"
+                        }
+                    },
+                    "Level2": {
+                        "isHidden": "no",
+                        "height": "10",
+                        "alignment": "END",
+                        "displayedTitle": "Level Up",
+                        "noQuickActions": true,
+                        "direction": "vertical",
+                        "cardActionShortcut": {
+                            "action": "NONE"
+                        },
+                        "events": {
+                            "onCardsEnter": "await calcLevel(2)",
+                            "onCardsLeave": "await calcLevel(2)"
+                        }
+                    },
+                    "Equipments1": {
+                        "isHidden": "no",
+                        "height": "13",
+                        "alignment": "END",
+                        "displayedTitle": "Equ.",
+                        "noQuickActions": true,
+                        "direction": "vertical",
+                        "cardActionShortcut": {
+                            "action": "NONE"
+                        }
+                    },
+                    "Equipments2": {
+                        "isHidden": "no",
+                        "height": "13",
+                        "alignment": "END",
+                        "displayedTitle": "Equ.",
+                        "noQuickActions": true,
+                        "direction": "vertical",
+                        "cardActionShortcut": {
+                            "action": "NONE"
+                        }
+                    },
+                    "Ether": {
+                        "isHidden": "no",
+                        "height": "10",
+                        "alignment": "CENTER",
+                        "noQuickActions": true,
+                        "lockCards": true,
+                        "cardActionShortcut": {
+                            "action": "NONE"
+                        }
+                    },
+                    "Stock": {
+                        "isHidden": "no",
+                        "height": "10",
+                        "alignment": "CENTER",
+                        "noQuickActions": true,
+                        "lockCards": true,
+                        "cardActionShortcut": {
+                            "action": "NONE"
+                        }
+                    },
+                    "Creature": {
+                        "isHidden": "no",
+                        "height": "17",
+                        "alignment": "CENTER"
+                    },
+                    "Incantation": {
+                        "isHidden": "no",
+                        "height": "17",
+                        "alignment": "CENTER"
+                    },
+                    "Restauration": {
+                        "type": "custom",
+                        "defaultValue": {
+                            "show": false
+                        },
+                        "blueprint": {
+                            "type": "div",
+                            "props": {
+                                "className": "player-only d-flex gap-2 w-100 justify-content-center position-absolute",
+                                "style": {
+                                    "top": "-4.75vh",
+                                    "opacity": "{{ game.data.Restauration.show ? '1' : '0' }}",
+                                    "pointerEvents": "{{ game.data.Restauration.show ? 'auto' : 'none' }}"
+                                }
+                            },
+                            "children": [
+                                {
+                                    "type": "button",
+                                    "onClick": "await draw2()",
+                                    "children": "2 cards and 1 coin"
+                                },
+                                {
+                                    "type": "button",
+                                    "onClick": "await draw1()",
+                                    "children": "1 card and 2 coins"
+                                }
+                            ]
+                        }
+                    },
+                    "LevelSummoner1": {
+                        "type": "custom",
+                        "defaultValue": {
+                            "value": 1
+                        },
+                        "blueprint": {
+                            "type": "h4",
+                            "props": {
+                                "style": {
+                                    "height": "6vh",
+                                    "width": "6vh",
+                                    "margin": "1vh"
+                                }
+                            },
+                            "children": "level {{game.data.LevelSummoner1.value}}"
+                        }
+                    },
+                    "LevelSummoner2": {
+                        "type": "custom",
+                        "defaultValue": {
+                            "value": 1
+                        },
+                        "blueprint": {
+                            "type": "h4",
+                            "props": {
+                                "style": {
+                                    "height": "6vh",
+                                    "width": "6vh",
+                                    "margin": "1vh"
+                                }
+                            },
+                            "children": "level {{game.data.LevelSummoner2.value}}"
+                        }
+                    },
+                    "Manager": {
+                        "type": "custom",
+                        "defaultValue": {
+                            "ether": 0,
+                            "gold": 0
+                        },
+                        "blueprint": {
+                            "type": "div",
+                            "props": {
+                                "className": "d-flex flex-column opp-flex-reverse justify-content-start w-100 position-absolute top-0 start-0",
+                                "style": {
+                                    "width": "10vh"
+                                }
+                            },
+                            "children": [
+                                {
+                                    "type": "div",
+                                    "props": {
+                                        "style": {
+                                            "height": "11vh"
+                                        }
+                                    }
+                                },
+                                {
+                                    "type": "input-number",
+                                    "props": {
+                                        "value": "{{ game.data.Manager.gold }}",
+                                        "style": {
+                                            "width": "10vh"
+                                        }
+                                    },
+                                    "onChange": "await applyGoldChange(value, delta, deltaDisplay)"
+                                },
+                                {
+                                    "type": "div",
+                                    "props": {
+                                        "style": {
+                                            "height": "12vh"
+                                        }
+                                    }
+                                },
+                                {
+                                    "type": "input-number",
+                                    "props": {
+                                        "value": "{{ game.data.Manager.ether }}"
+                                    },
+                                    "onChange": "applyEtherChange(value, delta, deltaDisplay)"
+                                },
+                                {
+                                    "type": "button",
+                                    "onClick": "await etherForDraw()",
+                                    "props": {
+                                        "className": "player-only",
+                                        "disabled": "{{ game.data.Manager.ether < 3 }}"
+                                    },
+                                    "children": "3: Draw 1"
+                                },
+                                {
+                                    "type": "button",
+                                    "onClick": "await etherForGold()",
+                                    "props": {
+                                        "className": "player-only",
+                                        "disabled": "{{ game.data.Manager.ether < 3 }}"
+                                    },
+                                    "children": "3: Add 1"
+                                }
+                            ]
+                        },
+                        "events": {
+                            "onPlayersReady": "await ini()",
+                            "onNewTurn": "await onNewTurn()"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

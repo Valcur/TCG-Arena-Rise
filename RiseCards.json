@@ -18967,8 +18967,7 @@
     "aptitudes": [
       "Multi-target"
     ],
-    "set": "Alpha / Beta",
-    "isToken": true
+    "set": "Alpha / Beta"
   },
   "ALP-199": {
     "id": "ALP-199",
@@ -18998,8 +18997,7 @@
     "cost": 0,
     "rank": "Infinite",
     "rarity": "Common",
-    "set": "Alpha / Beta",
-    "isToken": true
+    "set": "Alpha / Beta"
   },
   "ALP-199-CS": {
     "id": "ALP-199-CS",
@@ -19028,8 +19026,7 @@
     "cost": 0,
     "rank": "Infinite",
     "rarity": "Common",
-    "set": "Alpha / Beta",
-    "isToken": true
+    "set": "Alpha / Beta"
   },
   "ALP-200": {
     "id": "ALP-200",
@@ -23268,8 +23265,7 @@
     "cost": 0,
     "rank": "Infinite",
     "rarity": "Common",
-    "set": "Alpha / Beta",
-    "isToken": true
+    "set": "Alpha / Beta"
   },
   "ALP-307": {
     "id": "ALP-307",
@@ -35882,8 +35878,7 @@
     "cost": 0,
     "rank": "Infinite",
     "rarity": "Common",
-    "set": "Candypocalypse",
-    "isToken": true
+    "set": "Candypocalypse"
   },
   "CAN-232B": {
     "id": "CAN-232B",
@@ -35913,8 +35908,7 @@
     "cost": 0,
     "rank": "Infinite",
     "rarity": "Common",
-    "set": "Candypocalypse",
-    "isToken": true
+    "set": "Candypocalypse"
   },
   "CAN-232C": {
     "id": "CAN-232C",
@@ -35944,8 +35938,7 @@
     "cost": 0,
     "rank": "Infinite",
     "rarity": "Common",
-    "set": "Candypocalypse",
-    "isToken": true
+    "set": "Candypocalypse"
   },
   "CAN-232D": {
     "id": "CAN-232D",
@@ -35975,8 +35968,7 @@
     "cost": 0,
     "rank": "Infinite",
     "rarity": "Common",
-    "set": "Candypocalypse",
-    "isToken": true
+    "set": "Candypocalypse"
   },
   "CAN-232E": {
     "id": "CAN-232E",
@@ -36006,8 +35998,7 @@
     "cost": 0,
     "rank": "Infinite",
     "rarity": "Common",
-    "set": "Candypocalypse",
-    "isToken": true
+    "set": "Candypocalypse"
   },
   "CAN-232E-CP": {
     "id": "CAN-232E-CP",
@@ -36037,8 +36028,7 @@
     "cost": 0,
     "rank": "Infinite",
     "rarity": "Common",
-    "set": "Candypocalypse",
-    "isToken": true
+    "set": "Candypocalypse"
   },
   "COR-001": {
     "id": "COR-001",
@@ -42770,8 +42760,7 @@
     "cost": 0,
     "rank": "Infinite",
     "rarity": "Common",
-    "set": "Corrupted",
-    "isToken": true
+    "set": "Corrupted"
   },
   "COR-140A-C": {
     "id": "COR-140A-C",
@@ -42801,8 +42790,7 @@
     "cost": 0,
     "rank": "Infinite",
     "rarity": "Common",
-    "set": "Corrupted",
-    "isToken": true
+    "set": "Corrupted"
   },
   "COR-140B": {
     "id": "COR-140B",
@@ -42832,8 +42820,7 @@
     "cost": 0,
     "rank": "Infinite",
     "rarity": "Common",
-    "set": "Corrupted",
-    "isToken": true
+    "set": "Corrupted"
   },
   "COR-140C": {
     "id": "COR-140C",
@@ -42863,8 +42850,7 @@
     "cost": 0,
     "rank": "Infinite",
     "rarity": "Common",
-    "set": "Corrupted",
-    "isToken": true
+    "set": "Corrupted"
   },
   "COR-140D": {
     "id": "COR-140D",
@@ -42894,8 +42880,7 @@
     "cost": 0,
     "rank": "Infinite",
     "rarity": "Common",
-    "set": "Corrupted",
-    "isToken": true
+    "set": "Corrupted"
   },
   "COR-140E": {
     "id": "COR-140E",
@@ -42925,8 +42910,7 @@
     "cost": 0,
     "rank": "Infinite",
     "rarity": "Common",
-    "set": "Corrupted",
-    "isToken": true
+    "set": "Corrupted"
   },
   "FRE-001": {
     "id": "FRE-001",
@@ -44572,8 +44556,7 @@
     "cost": 0,
     "rank": "Infinite",
     "rarity": "Common",
-    "set": "Fresh",
-    "isToken": true
+    "set": "Fresh"
   },
   "FRE-024B": {
     "id": "FRE-024B",
@@ -44603,8 +44586,7 @@
     "cost": 0,
     "rank": "Infinite",
     "rarity": "Common",
-    "set": "Fresh",
-    "isToken": true
+    "set": "Fresh"
   },
   "FRE-024C": {
     "id": "FRE-024C",
@@ -44634,8 +44616,7 @@
     "cost": 0,
     "rank": "Infinite",
     "rarity": "Common",
-    "set": "Fresh",
-    "isToken": true
+    "set": "Fresh"
   },
   "FRE-024D": {
     "id": "FRE-024D",
@@ -44665,8 +44646,7 @@
     "cost": 0,
     "rank": "Infinite",
     "rarity": "Common",
-    "set": "Fresh",
-    "isToken": true
+    "set": "Fresh"
   },
   "FRE-024E": {
     "id": "FRE-024E",
@@ -44696,8 +44676,7 @@
     "cost": 0,
     "rank": "Infinite",
     "rarity": "Common",
-    "set": "Fresh",
-    "isToken": true
+    "set": "Fresh"
   },
   "FRE-025": {
     "id": "FRE-025",
@@ -45695,8 +45674,7 @@
     "aptitudes": [
       "Food"
     ],
-    "set": "Fresh",
-    "isToken": true
+    "set": "Fresh"
   },
   "FRE-040B": {
     "id": "FRE-040B",
@@ -45727,8 +45705,7 @@
     "aptitudes": [
       "Food"
     ],
-    "set": "Fresh",
-    "isToken": true
+    "set": "Fresh"
   },
   "FRE-040C": {
     "id": "FRE-040C",
@@ -45759,8 +45736,7 @@
     "aptitudes": [
       "Food"
     ],
-    "set": "Fresh",
-    "isToken": true
+    "set": "Fresh"
   },
   "FRE-040D": {
     "id": "FRE-040D",
@@ -45791,8 +45767,7 @@
     "aptitudes": [
       "Food"
     ],
-    "set": "Fresh",
-    "isToken": true
+    "set": "Fresh"
   },
   "FRE-040E": {
     "id": "FRE-040E",
@@ -45823,8 +45798,7 @@
     "aptitudes": [
       "Food"
     ],
-    "set": "Fresh",
-    "isToken": true
+    "set": "Fresh"
   },
   "FRE-040E-C": {
     "id": "FRE-040E-C",
@@ -45854,8 +45828,7 @@
     "aptitudes": [
       "Food"
     ],
-    "set": "Fresh",
-    "isToken": true
+    "set": "Fresh"
   },
   "FRE-040F": {
     "id": "FRE-040F",
@@ -45886,8 +45859,7 @@
     "aptitudes": [
       "Food"
     ],
-    "set": "Fresh",
-    "isToken": true
+    "set": "Fresh"
   },
   "FRE-040F-C": {
     "id": "FRE-040F-C",
@@ -45917,8 +45889,7 @@
     "aptitudes": [
       "Food"
     ],
-    "set": "Fresh",
-    "isToken": true
+    "set": "Fresh"
   },
   "FRE-040G": {
     "id": "FRE-040G",
@@ -45949,8 +45920,7 @@
     "aptitudes": [
       "Food"
     ],
-    "set": "Fresh",
-    "isToken": true
+    "set": "Fresh"
   },
   "FRE-040G-C": {
     "id": "FRE-040G-C",
@@ -45980,8 +45950,7 @@
     "aptitudes": [
       "Food"
     ],
-    "set": "Fresh",
-    "isToken": true
+    "set": "Fresh"
   },
   "FRE-040H": {
     "id": "FRE-040H",
@@ -46012,8 +45981,7 @@
     "aptitudes": [
       "Food"
     ],
-    "set": "Fresh",
-    "isToken": true
+    "set": "Fresh"
   },
   "FRE-040H-C": {
     "id": "FRE-040H-C",
@@ -46043,8 +46011,7 @@
     "aptitudes": [
       "Food"
     ],
-    "set": "Fresh",
-    "isToken": true
+    "set": "Fresh"
   },
   "FRE-040I": {
     "id": "FRE-040I",
@@ -46075,8 +46042,7 @@
     "aptitudes": [
       "Food"
     ],
-    "set": "Fresh",
-    "isToken": true
+    "set": "Fresh"
   },
   "FRE-040I-C": {
     "id": "FRE-040I-C",
@@ -46106,8 +46072,7 @@
     "aptitudes": [
       "Food"
     ],
-    "set": "Fresh",
-    "isToken": true
+    "set": "Fresh"
   },
   "FRE-040J": {
     "id": "FRE-040J",
@@ -46138,8 +46103,7 @@
     "aptitudes": [
       "Food"
     ],
-    "set": "Fresh",
-    "isToken": true
+    "set": "Fresh"
   },
   "FRE-040J-C": {
     "id": "FRE-040J-C",
@@ -46169,8 +46133,7 @@
     "aptitudes": [
       "Food"
     ],
-    "set": "Fresh",
-    "isToken": true
+    "set": "Fresh"
   },
   "FRE-041": {
     "id": "FRE-041",
@@ -46555,8 +46518,7 @@
     "aptitudes": [
       "Food"
     ],
-    "set": "Kickstarter",
-    "isToken": true
+    "set": "Kickstarter"
   },
   "KIC-012": {
     "id": "KIC-012",
@@ -46791,8 +46753,7 @@
       "Equipment",
       "Fire"
     ],
-    "set": "Kickstarter",
-    "isToken": true
+    "set": "Kickstarter"
   },
   "KIC-020": {
     "id": "KIC-020",
@@ -47674,8 +47635,7 @@
     "cost": 0,
     "rank": "Infinite",
     "rarity": "Common",
-    "set": "Prestige 2025",
-    "isToken": true
+    "set": "Prestige 2025"
   },
   "PRE-179-C": {
     "id": "PRE-179-C",
@@ -47704,8 +47664,7 @@
     "cost": 0,
     "rank": "Infinite",
     "rarity": "Common",
-    "set": "Prestige 2025",
-    "isToken": true
+    "set": "Prestige 2025"
   },
   "PRE-180": {
     "id": "PRE-180",
@@ -50363,8 +50322,7 @@
     "cost": 0,
     "rank": "Infinite",
     "rarity": "Common",
-    "set": "Prestige 2025",
-    "isToken": true
+    "set": "Prestige 2025"
   },
   "PRE-246": {
     "id": "PRE-246",
@@ -53744,8 +53702,7 @@
     "cost": 0,
     "rank": "Infinite",
     "rarity": "Common",
-    "set": "Seasonal Sets",
-    "isToken": true
+    "set": "Seasonal Sets"
   },
   "MC-003A": {
     "id": "MC-003A",
@@ -53775,8 +53732,7 @@
     "cost": 0,
     "rank": "Infinite",
     "rarity": "Common",
-    "set": "Seasonal Sets",
-    "isToken": true
+    "set": "Seasonal Sets"
   },
   "MC-003B": {
     "id": "MC-003B",
@@ -53806,8 +53762,7 @@
     "cost": 0,
     "rank": "Infinite",
     "rarity": "Common",
-    "set": "Seasonal Sets",
-    "isToken": true
+    "set": "Seasonal Sets"
   },
   "MC-003C": {
     "id": "MC-003C",
@@ -53837,8 +53792,7 @@
     "cost": 0,
     "rank": "Infinite",
     "rarity": "Common",
-    "set": "Seasonal Sets",
-    "isToken": true
+    "set": "Seasonal Sets"
   },
   "MC-003D": {
     "id": "MC-003D",
@@ -53868,8 +53822,7 @@
     "cost": 0,
     "rank": "Infinite",
     "rarity": "Common",
-    "set": "Seasonal Sets",
-    "isToken": true
+    "set": "Seasonal Sets"
   },
   "MC-003E": {
     "id": "MC-003E",
@@ -53899,8 +53852,7 @@
     "cost": 0,
     "rank": "Infinite",
     "rarity": "Common",
-    "set": "Seasonal Sets",
-    "isToken": true
+    "set": "Seasonal Sets"
   },
   "MC-004-FA": {
     "id": "MC-004-FA",
@@ -56861,8 +56813,7 @@
     "cost": 0,
     "rank": "Infinite",
     "rarity": "Common",
-    "set": "Trophy-01",
-    "isToken": true
+    "set": "Trophy-01"
   },
   "TRO-TR-16-BT": {
     "id": "TRO-TR-16-BT",
@@ -58962,8 +58913,7 @@
     "aptitudes": [
       "Multi-target"
     ],
-    "set": "Prestige 2023",
-    "isToken": true
+    "set": "Prestige 2023"
   },
   "P23-100": {
     "id": "P23-100",
@@ -60855,8 +60805,7 @@
     "cost": 0,
     "rank": "Infinite",
     "rarity": "Common",
-    "set": "Promos",
-    "isToken": true
+    "set": "Promos"
   },
   "PRO-EB02": {
     "id": "PRO-EB02",
@@ -61762,8 +61711,7 @@
     "cost": 0,
     "rank": "Infinite",
     "rarity": "Rare",
-    "set": "Promos",
-    "isToken": true
+    "set": "Promos"
   },
   "PRO-T1-002": {
     "id": "PRO-T1-002",

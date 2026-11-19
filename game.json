@@ -16,8 +16,10 @@
     "deckBuilding": {
         "mainFilters": [
             "type",
-            "hp",
-            "Retreat cost"
+            "text",
+            "set",
+            "rarity",
+            "subtypes"
         ],
         "formats": [
             {

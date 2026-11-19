@@ -13004,8 +13004,8 @@
     "face": {
       "front": {
         "name": {
-          "en": "Polymorphe",
-          "de": "Polymorph",
+          "en": "Polymorph",
+          "fr": "Polymorphe",
           "es": "Polimorfo"
         },
         "type": "Creature",
@@ -13016,8 +13016,8 @@
       }
     },
     "name": {
-      "en": "Polymorphe",
-      "de": "Polymorph",
+      "en": "Polymorph",
+      "fr": "Polymorphe",
       "es": "Polimorfo"
     },
     "type": "Creature",
@@ -20473,7 +20473,6 @@
     "type": "Incantation",
     "cost": 1,
     "rank": "1",
-    "rarity": "Rare",
     "set": "Alpha / Beta"
   },
   "ALP-233": {
@@ -20503,6 +20502,7 @@
     "type": "Incantation",
     "cost": 1,
     "rank": "1",
+    "rarity": "Legendary",
     "aptitudes": [
       "Equipment"
     ],
@@ -20513,10 +20513,10 @@
     "face": {
       "front": {
         "name": {
-          "en": "Hourglass",
-          "fr": "Sablier",
-          "de": "Sanduhr",
-          "es": "Reloj de Arena"
+          "en": "Glowing Protection",
+          "fr": "Protéction éclatante",
+          "de": "Strahlender Schutz",
+          "es": "Protección Resplandeciente"
         },
         "type": "Incantation",
         "cost": 1,
@@ -20526,10 +20526,10 @@
       }
     },
     "name": {
-      "en": "Hourglass",
-      "fr": "Sablier",
-      "de": "Sanduhr",
-      "es": "Reloj de Arena"
+      "en": "Glowing Protection",
+      "fr": "Protéction éclatante",
+      "de": "Strahlender Schutz",
+      "es": "Protección Resplandeciente"
     },
     "type": "Incantation",
     "cost": 1,
@@ -24473,27 +24473,24 @@
     "face": {
       "front": {
         "name": {
-          "en": "Fridge",
-          "fr": "Frigidaire",
-          "de": "Kühlschrank",
-          "es": "Frigorífico"
+          "en": "Oracle",
+          "de": "Orakel",
+          "es": "Oráculo"
         },
         "type": "Summoner",
-        "cost": 2,
+        "cost": 0,
         "image": {
           "en": "https://risetcgofficial.com/fr/compagnon/img/CAN-026-BT/m?v=1"
         }
       }
     },
     "name": {
-      "en": "Fridge",
-      "fr": "Frigidaire",
-      "de": "Kühlschrank",
-      "es": "Frigorífico"
+      "en": "Oracle",
+      "de": "Orakel",
+      "es": "Oráculo"
     },
     "type": "Summoner",
-    "cost": 2,
-    "rank": "2",
+    "cost": 0,
     "rarity": "Rare",
     "hp": 7,
     "set": "Candypocalypse"
@@ -25139,8 +25136,6 @@
     "type": "Door",
     "cost": 2,
     "rank": "2",
-    "rarity": "Rare",
-    "hp": 7,
     "set": "Candypocalypse"
   },
   "CAN-042": {
@@ -27705,10 +27700,10 @@
     "face": {
       "front": {
         "name": {
-          "en": "Candy Fairy (CAN-082)",
-          "fr": "Fée Sucrée (CAN-082)",
-          "de": "Zuckerfee (CAN-082)",
-          "es": "Hada de Azúcar (CAN-082)"
+          "en": "Candy Fairy",
+          "fr": "Fée Sucrée",
+          "de": "Zuckerfee",
+          "es": "Hada de Azúcar"
         },
         "type": "Creature",
         "cost": 3,
@@ -27719,10 +27714,10 @@
       }
     },
     "name": {
-      "en": "Candy Fairy (CAN-082)",
-      "fr": "Fée Sucrée (CAN-082)",
-      "de": "Zuckerfee (CAN-082)",
-      "es": "Hada de Azúcar (CAN-082)"
+      "en": "Candy Fairy",
+      "fr": "Fée Sucrée",
+      "de": "Zuckerfee",
+      "es": "Hada de Azúcar"
     },
     "type": "Creature",
     "cost": 3,
@@ -27730,7 +27725,7 @@
       "Fairy"
     ],
     "rank": "3",
-    "rarity": "Uncommon",
+    "rarity": "Common",
     "aptitudes": [
       "Velocity",
       "Flight",
@@ -27743,10 +27738,10 @@
     "face": {
       "front": {
         "name": {
-          "en": "Mishievous Fairies (CAN-082-CP)",
-          "fr": "Fées espiègles (CAN-082-CP)",
-          "de": "Schelmische Feen (CAN-082-CP)",
-          "es": "Hadas Traviesas (CAN-082-CP)"
+          "en": "Candy Fairy",
+          "fr": "Fée Sucrée",
+          "de": "Zuckerfee",
+          "es": "Hada de Azúcar"
         },
         "type": "Creature",
         "cost": 3,
@@ -27757,10 +27752,10 @@
       }
     },
     "name": {
-      "en": "Mishievous Fairies (CAN-082-CP)",
-      "fr": "Fées espiègles (CAN-082-CP)",
-      "de": "Schelmische Feen (CAN-082-CP)",
-      "es": "Hadas Traviesas (CAN-082-CP)"
+      "en": "Candy Fairy",
+      "fr": "Fée Sucrée",
+      "de": "Zuckerfee",
+      "es": "Hada de Azúcar"
     },
     "type": "Creature",
     "cost": 3,
@@ -28073,10 +28068,10 @@
     "face": {
       "front": {
         "name": {
-          "en": "Mishievous Fairies (CAN-088)",
-          "fr": "Fées espiègles (CAN-088)",
-          "de": "Schelmische Feen (CAN-088)",
-          "es": "Hadas Traviesas (CAN-088)"
+          "en": "Mishievous Fairies",
+          "fr": "Fées espiègles",
+          "de": "Schelmische Feen",
+          "es": "Hadas Traviesas"
         },
         "type": "Creature",
         "cost": 4,
@@ -28087,10 +28082,10 @@
       }
     },
     "name": {
-      "en": "Mishievous Fairies (CAN-088)",
-      "fr": "Fées espiègles (CAN-088)",
-      "de": "Schelmische Feen (CAN-088)",
-      "es": "Hadas Traviesas (CAN-088)"
+      "en": "Mishievous Fairies",
+      "fr": "Fées espiègles",
+      "de": "Schelmische Feen",
+      "es": "Hadas Traviesas"
     },
     "type": "Creature",
     "cost": 4,
@@ -28098,7 +28093,7 @@
       "Fairy"
     ],
     "rank": "4",
-    "rarity": "Common",
+    "rarity": "Uncommon",
     "aptitudes": [
       "Flight",
       "Horde",
@@ -28111,10 +28106,10 @@
     "face": {
       "front": {
         "name": {
-          "en": "Candy Fairy (CAN-088-CP)",
-          "fr": "Fée Sucrée (CAN-088-CP)",
-          "de": "Zuckerfee (CAN-088-CP)",
-          "es": "Hada de Azúcar (CAN-088-CP)"
+          "en": "Mishievous Fairies",
+          "fr": "Fées espiègles",
+          "de": "Schelmische Feen",
+          "es": "Hadas Traviesas"
         },
         "type": "Creature",
         "cost": 4,
@@ -28125,10 +28120,10 @@
       }
     },
     "name": {
-      "en": "Candy Fairy (CAN-088-CP)",
-      "fr": "Fée Sucrée (CAN-088-CP)",
-      "de": "Zuckerfee (CAN-088-CP)",
-      "es": "Hada de Azúcar (CAN-088-CP)"
+      "en": "Mishievous Fairies",
+      "fr": "Fées espiègles",
+      "de": "Schelmische Feen",
+      "es": "Hadas Traviesas"
     },
     "type": "Creature",
     "cost": 4,
@@ -36059,6 +36054,7 @@
     "subtypes": [
       "Female"
     ],
+    "rarity": "Rare",
     "hp": 11,
     "set": "Corrupted"
   },
@@ -40004,6 +40000,7 @@
     "type": "Imminent",
     "cost": 3,
     "rank": "3",
+    "rarity": "Legendary",
     "set": "Corrupted"
   },
   "COR-080-C": {
@@ -40011,7 +40008,7 @@
     "face": {
       "front": {
         "name": {
-          "en": "Sacrament Corrupted",
+          "en": "Sacrement Corrupted",
           "fr": "Sacrement Corrompu",
           "de": "Verderbtes Sakrament",
           "es": "Sacramento Corrupto"
@@ -40025,7 +40022,7 @@
       }
     },
     "name": {
-      "en": "Sacrament Corrupted",
+      "en": "Sacrement Corrupted",
       "fr": "Sacrement Corrompu",
       "de": "Verderbtes Sakrament",
       "es": "Sacramento Corrupto"
@@ -40517,6 +40514,7 @@
     "type": "Incantation",
     "cost": 1,
     "rank": "1",
+    "rarity": "Legendary",
     "set": "Corrupted"
   },
   "COR-091-C": {
@@ -40524,7 +40522,7 @@
     "face": {
       "front": {
         "name": {
-          "en": "Dark Heart Gemstone Corrupted",
+          "en": "Corrupted Dark Heart Gemstone",
           "fr": "Dark heart gemstone corrompue",
           "de": "Verderbter Dunkelherz-Edelstein",
           "es": "Gema Corazón Oscuro Corrupta"
@@ -40538,7 +40536,7 @@
       }
     },
     "name": {
-      "en": "Dark Heart Gemstone Corrupted",
+      "en": "Corrupted Dark Heart Gemstone",
       "fr": "Dark heart gemstone corrompue",
       "de": "Verderbter Dunkelherz-Edelstein",
       "es": "Gema Corazón Oscuro Corrupta"
@@ -42062,6 +42060,7 @@
     "type": "Incantation",
     "cost": 1,
     "rank": "1",
+    "rarity": "Rare",
     "set": "Corrupted"
   },
   "COR-123": {
@@ -44229,6 +44228,7 @@
     "type": "Imminent",
     "cost": 4,
     "rank": "4",
+    "rarity": "Uncommon",
     "aptitudes": [
       "Food"
     ],
@@ -44239,7 +44239,7 @@
     "face": {
       "front": {
         "name": {
-          "en": "Fruit Salad",
+          "en": "Fruit Salade",
           "fr": "Salade De Fruit",
           "de": "Obstsalat",
           "es": "Macedonia"
@@ -44252,7 +44252,7 @@
       }
     },
     "name": {
-      "en": "Fruit Salad",
+      "en": "Fruit Salade",
       "fr": "Salade De Fruit",
       "de": "Obstsalat",
       "es": "Macedonia"
@@ -46199,10 +46199,7 @@
     "face": {
       "front": {
         "name": {
-          "en": "Yris",
-          "fr": "Yris Corrompue",
-          "de": "Verderbte Yris",
-          "es": "Yris Corrupta"
+          "en": "Yris"
         },
         "type": "Summoner",
         "cost": 0,
@@ -46212,14 +46209,10 @@
       }
     },
     "name": {
-      "en": "Yris",
-      "fr": "Yris Corrompue",
-      "de": "Verderbte Yris",
-      "es": "Yris Corrupta"
+      "en": "Yris"
     },
     "type": "Summoner",
     "cost": 0,
-    "rarity": "Rare",
     "hp": 7,
     "set": "Kickstarter"
   },
@@ -46252,7 +46245,6 @@
       "Dragon"
     ],
     "rank": "1",
-    "rarity": "Legendary",
     "aptitudes": [
       "Flight",
       "Fire",
@@ -46286,7 +46278,6 @@
     "type": "Incantation",
     "cost": 1,
     "rank": "1",
-    "rarity": "Rare",
     "aptitudes": [
       "Together"
     ],
@@ -48976,6 +48967,7 @@
     "type": "Incantation",
     "cost": 1,
     "rank": "1",
+    "rarity": "Legendary",
     "aptitudes": [
       "Equipment"
     ],
@@ -50017,10 +50009,10 @@
     "face": {
       "front": {
         "name": {
-          "en": "Candy Fairy (CAN-082)",
-          "fr": "Fée Sucrée (CAN-082)",
-          "de": "Zuckerfee (CAN-082)",
-          "es": "Hada de Azúcar (CAN-082)"
+          "en": "Candy Fairy",
+          "fr": "Fée Sucrée",
+          "de": "Zuckerfee",
+          "es": "Hada de Azúcar"
         },
         "type": "Creature",
         "cost": 3,
@@ -50031,10 +50023,10 @@
       }
     },
     "name": {
-      "en": "Candy Fairy (CAN-082)",
-      "fr": "Fée Sucrée (CAN-082)",
-      "de": "Zuckerfee (CAN-082)",
-      "es": "Hada de Azúcar (CAN-082)"
+      "en": "Candy Fairy",
+      "fr": "Fée Sucrée",
+      "de": "Zuckerfee",
+      "es": "Hada de Azúcar"
     },
     "type": "Creature",
     "cost": 3,
@@ -50042,7 +50034,7 @@
       "Fairy"
     ],
     "rank": "3",
-    "rarity": "Uncommon",
+    "rarity": "Common",
     "aptitudes": [
       "Velocity",
       "Flight",
@@ -50259,8 +50251,6 @@
     "type": "Door",
     "cost": 2,
     "rank": "2",
-    "rarity": "Rare",
-    "hp": 7,
     "set": "Prestige 2025"
   },
   "PRE-244": {
@@ -50698,7 +50688,6 @@
       "???"
     ],
     "rank": "1",
-    "rarity": "Legendary",
     "aptitudes": [
       "Morpher"
     ],
@@ -51820,10 +51809,10 @@
     "face": {
       "front": {
         "name": {
-          "en": "Candy Fairy (CAN-082)",
-          "fr": "Fée Sucrée (CAN-082)",
-          "de": "Zuckerfee (CAN-082)",
-          "es": "Hada de Azúcar (CAN-082)"
+          "en": "Candy Fairy",
+          "fr": "Fée Sucrée",
+          "de": "Zuckerfee",
+          "es": "Hada de Azúcar"
         },
         "type": "Creature",
         "cost": 3,
@@ -51834,10 +51823,10 @@
       }
     },
     "name": {
-      "en": "Candy Fairy (CAN-082)",
-      "fr": "Fée Sucrée (CAN-082)",
-      "de": "Zuckerfee (CAN-082)",
-      "es": "Hada de Azúcar (CAN-082)"
+      "en": "Candy Fairy",
+      "fr": "Fée Sucrée",
+      "de": "Zuckerfee",
+      "es": "Hada de Azúcar"
     },
     "type": "Creature",
     "cost": 3,
@@ -51845,7 +51834,7 @@
       "Fairy"
     ],
     "rank": "3",
-    "rarity": "Uncommon",
+    "rarity": "Common",
     "aptitudes": [
       "Velocity",
       "Flight",
@@ -52772,7 +52761,7 @@
     "face": {
       "front": {
         "name": {
-          "en": "Candy Up",
+          "en": "Sugar Rush",
           "fr": "Montée De Sucre",
           "de": "Zuckerschub",
           "es": "Subidón de Azúcar"
@@ -52785,7 +52774,7 @@
       }
     },
     "name": {
-      "en": "Candy Up",
+      "en": "Sugar Rush",
       "fr": "Montée De Sucre",
       "de": "Zuckerschub",
       "es": "Subidón de Azúcar"
@@ -52902,7 +52891,7 @@
     "face": {
       "front": {
         "name": {
-          "en": "Contton Candy Cat",
+          "en": "Cotton Candy Cat",
           "fr": "Chat Barbe À Papa",
           "de": "Zuckerwatte-Katze",
           "es": "Gato Algodón de Azúcar"
@@ -52915,7 +52904,7 @@
       }
     },
     "name": {
-      "en": "Contton Candy Cat",
+      "en": "Cotton Candy Cat",
       "fr": "Chat Barbe À Papa",
       "de": "Zuckerwatte-Katze",
       "es": "Gato Algodón de Azúcar"
@@ -52940,8 +52929,8 @@
     "face": {
       "front": {
         "name": {
-          "en": "Flower Protection",
-          "fr": "Protéction Florale",
+          "en": "Floral Protection",
+          "fr": "Protection Florale",
           "de": "Blumenschutz",
           "es": "Protección Floral"
         },
@@ -52953,8 +52942,8 @@
       }
     },
     "name": {
-      "en": "Flower Protection",
-      "fr": "Protéction Florale",
+      "en": "Floral Protection",
+      "fr": "Protection Florale",
       "de": "Blumenschutz",
       "es": "Protección Floral"
     },
@@ -57017,10 +57006,10 @@
     "face": {
       "front": {
         "name": {
-          "en": "Magma Dragon",
-          "fr": "Dragon de Magma",
-          "de": "Magmadrache",
-          "es": "Dragón de Magma"
+          "en": "Magma Dragon Corrupted",
+          "fr": "Magma Dragon Corrompu",
+          "de": "Verderbter Magmadrache",
+          "es": "Dragón de Magma Corrupto"
         },
         "type": "Creature",
         "cost": 1,
@@ -57030,10 +57019,10 @@
       }
     },
     "name": {
-      "en": "Magma Dragon",
-      "fr": "Dragon de Magma",
-      "de": "Magmadrache",
-      "es": "Dragón de Magma"
+      "en": "Magma Dragon Corrupted",
+      "fr": "Magma Dragon Corrompu",
+      "de": "Verderbter Magmadrache",
+      "es": "Dragón de Magma Corrupto"
     },
     "type": "Creature",
     "cost": 1,
@@ -57054,10 +57043,10 @@
     "face": {
       "front": {
         "name": {
-          "en": "Ethereal Crown",
-          "fr": "Couronne Éthérée",
-          "de": "Ätherische Krone",
-          "es": "Corona Etérea"
+          "en": "Ethereal Crown Corrupted",
+          "fr": "Couronne Ethérée Corrompue",
+          "de": "Verderbte Ätherische Krone",
+          "es": "Corona Etérea Corrupta"
         },
         "type": "Incantation",
         "cost": 1,
@@ -57067,10 +57056,10 @@
       }
     },
     "name": {
-      "en": "Ethereal Crown",
-      "fr": "Couronne Éthérée",
-      "de": "Ätherische Krone",
-      "es": "Corona Etérea"
+      "en": "Ethereal Crown Corrupted",
+      "fr": "Couronne Ethérée Corrompue",
+      "de": "Verderbte Ätherische Krone",
+      "es": "Corona Etérea Corrupta"
     },
     "type": "Incantation",
     "cost": 1,
@@ -57144,7 +57133,7 @@
     "face": {
       "front": {
         "name": {
-          "en": "Yris",
+          "en": "Yris Corrupted",
           "fr": "Yris Corrompue",
           "de": "Verderbte Yris",
           "es": "Yris Corrupta"
@@ -57157,7 +57146,7 @@
       }
     },
     "name": {
-      "en": "Yris",
+      "en": "Yris Corrupted",
       "fr": "Yris Corrompue",
       "de": "Verderbte Yris",
       "es": "Yris Corrupta"
@@ -57935,9 +57924,10 @@
     "face": {
       "front": {
         "name": {
-          "en": "Blood Gemstone",
-          "de": "Blutedelstein",
-          "es": "Gema de Sangre"
+          "en": "Blood Gemstone Corrupted",
+          "fr": "Blood gemstone corrompue",
+          "de": "Verderbter Blutedelstein",
+          "es": "Gema de Sangre Corrupta"
         },
         "type": "Incantation",
         "cost": 1,
@@ -57947,9 +57937,10 @@
       }
     },
     "name": {
-      "en": "Blood Gemstone",
-      "de": "Blutedelstein",
-      "es": "Gema de Sangre"
+      "en": "Blood Gemstone Corrupted",
+      "fr": "Blood gemstone corrompue",
+      "de": "Verderbter Blutedelstein",
+      "es": "Gema de Sangre Corrupta"
     },
     "type": "Incantation",
     "cost": 1,
@@ -57962,9 +57953,10 @@
     "face": {
       "front": {
         "name": {
-          "en": "Dark Heart Gemstone",
-          "de": "Dunkelherz-Edelstein",
-          "es": "Gema Corazón Oscuro"
+          "en": "Corrupted Dark Heart Gemstone",
+          "fr": "Dark heart gemstone corrompue",
+          "de": "Verderbter Dunkelherz-Edelstein",
+          "es": "Gema Corazón Oscuro Corrupta"
         },
         "type": "Incantation",
         "cost": 1,
@@ -57974,9 +57966,10 @@
       }
     },
     "name": {
-      "en": "Dark Heart Gemstone",
-      "de": "Dunkelherz-Edelstein",
-      "es": "Gema Corazón Oscuro"
+      "en": "Corrupted Dark Heart Gemstone",
+      "fr": "Dark heart gemstone corrompue",
+      "de": "Verderbter Dunkelherz-Edelstein",
+      "es": "Gema Corazón Oscuro Corrupta"
     },
     "type": "Incantation",
     "cost": 1,
@@ -57989,9 +57982,10 @@
     "face": {
       "front": {
         "name": {
-          "en": "Deep Gemstone",
-          "de": "Tiefenedelstein",
-          "es": "Gema Profunda"
+          "en": "Deep Gemstone Corrupted",
+          "fr": "Deep gemstone corrompue",
+          "de": "Verderbter Tiefenedelstein",
+          "es": "Gema Profunda Corrupta"
         },
         "type": "Incantation",
         "cost": 1,
@@ -58001,9 +57995,10 @@
       }
     },
     "name": {
-      "en": "Deep Gemstone",
-      "de": "Tiefenedelstein",
-      "es": "Gema Profunda"
+      "en": "Deep Gemstone Corrupted",
+      "fr": "Deep gemstone corrompue",
+      "de": "Verderbter Tiefenedelstein",
+      "es": "Gema Profunda Corrupta"
     },
     "type": "Incantation",
     "cost": 1,
@@ -58016,9 +58011,10 @@
     "face": {
       "front": {
         "name": {
-          "en": "Lucky Gemstone",
-          "de": "Glücksedelstein",
-          "es": "Gema de la Suerte"
+          "en": "Lucky Gemstone Corrupted",
+          "fr": "Lucky gemstone corrompue",
+          "de": "Verderbter Glücksedelstein",
+          "es": "Gema de la Suerte Corrupta"
         },
         "type": "Incantation",
         "cost": 1,
@@ -58028,9 +58024,10 @@
       }
     },
     "name": {
-      "en": "Lucky Gemstone",
-      "de": "Glücksedelstein",
-      "es": "Gema de la Suerte"
+      "en": "Lucky Gemstone Corrupted",
+      "fr": "Lucky gemstone corrompue",
+      "de": "Verderbter Glücksedelstein",
+      "es": "Gema de la Suerte Corrupta"
     },
     "type": "Incantation",
     "cost": 1,
@@ -59601,9 +59598,10 @@
     "face": {
       "front": {
         "name": {
-          "en": "Favor",
-          "fr": "Faveur",
-          "de": "Gunst"
+          "en": "Favor Corrupted",
+          "fr": "Faveur Corrompue",
+          "de": "Verderbte Gunst",
+          "es": "Favor Corrupto"
         },
         "type": "Incantation",
         "cost": 1,
@@ -59613,9 +59611,10 @@
       }
     },
     "name": {
-      "en": "Favor",
-      "fr": "Faveur",
-      "de": "Gunst"
+      "en": "Favor Corrupted",
+      "fr": "Faveur Corrompue",
+      "de": "Verderbte Gunst",
+      "es": "Favor Corrupto"
     },
     "type": "Incantation",
     "cost": 1,
@@ -60863,7 +60862,7 @@
     "face": {
       "front": {
         "name": {
-          "en": "Yris",
+          "en": "Yris Corrupted",
           "fr": "Yris Corrompue",
           "de": "Verderbte Yris",
           "es": "Yris Corrupta"
@@ -60876,7 +60875,7 @@
       }
     },
     "name": {
-      "en": "Yris",
+      "en": "Yris Corrupted",
       "fr": "Yris Corrompue",
       "de": "Verderbte Yris",
       "es": "Yris Corrupta"

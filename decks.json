@@ -1,0 +1,2830 @@
+[
+    {
+      "title": "Undead Army",
+      "id": "d832ee69-d762-4781-b7b6-fe6d47dc2ce6",
+      "cardCount": 52,
+      "createdAt": "2026-11-19T16:55:30.895Z",
+      "lastModifiedAt": "2026-11-19T17:08:28.431Z",
+      "game": "Rise",
+      "format": [
+        "Classic"
+      ],
+      "deckList": {
+        "categoriesOrder": [
+          "Summoner",
+          "Level Up",
+          "Creature",
+          "Imminent Creature",
+          "Door",
+          "Imminent",
+          "Incantation",
+          "Imminent Incantation"
+        ],
+        "Summoner": [
+          {
+            "count": 1,
+            "id": "ALP-003"
+          },
+          {
+            "count": 1,
+            "id": "ALP-005"
+          }
+        ],
+        "Level Up": [
+          {
+            "count": 1,
+            "id": "ALP-302"
+          },
+          {
+            "count": 1,
+            "id": "ALP-303"
+          },
+          {
+            "count": 1,
+            "id": "ALP-304"
+          },
+          {
+            "count": 2,
+            "id": "ALP-305"
+          },
+          {
+            "count": 6,
+            "id": "ALP-306"
+          }
+        ],
+        "Creature": [
+          {
+            "count": 1,
+            "id": "ALP-044"
+          },
+          {
+            "count": 1,
+            "id": "ALP-045"
+          },
+          {
+            "count": 1,
+            "id": "ALP-048"
+          },
+          {
+            "count": 1,
+            "id": "ALP-054"
+          },
+          {
+            "count": 1,
+            "id": "ALP-062"
+          },
+          {
+            "count": 2,
+            "id": "ALP-071"
+          },
+          {
+            "count": 2,
+            "id": "ALP-072"
+          },
+          {
+            "count": 1,
+            "id": "ALP-073"
+          },
+          {
+            "count": 2,
+            "id": "ALP-079"
+          },
+          {
+            "count": 1,
+            "id": "ALP-084"
+          },
+          {
+            "count": 1,
+            "id": "ALP-090"
+          }
+        ],
+        "Imminent Creature": [
+          {
+            "count": 2,
+            "id": "ALP-075"
+          }
+        ],
+        "Door": [
+          {
+            "count": 1,
+            "id": "ALP-028"
+          }
+        ],
+        "Imminent": [
+          {
+            "count": 1,
+            "id": "ALP-107"
+          },
+          {
+            "count": 1,
+            "id": "ALP-109"
+          },
+          {
+            "count": 1,
+            "id": "ALP-115"
+          },
+          {
+            "count": 1,
+            "id": "ALP-117"
+          },
+          {
+            "count": 1,
+            "id": "ALP-127"
+          },
+          {
+            "count": 1,
+            "id": "ALP-149"
+          },
+          {
+            "count": 1,
+            "id": "ALP-154"
+          },
+          {
+            "count": 1,
+            "id": "ALP-172"
+          },
+          {
+            "count": 1,
+            "id": "ALP-189"
+          }
+        ],
+        "Incantation": [
+          {
+            "count": 1,
+            "id": "ALP-208"
+          },
+          {
+            "count": 1,
+            "id": "ALP-216"
+          },
+          {
+            "count": 1,
+            "id": "ALP-225"
+          },
+          {
+            "count": 1,
+            "id": "ALP-240"
+          },
+          {
+            "count": 1,
+            "id": "ALP-242"
+          },
+          {
+            "count": 1,
+            "id": "ALP-246"
+          },
+          {
+            "count": 1,
+            "id": "ALP-250"
+          },
+          {
+            "count": 1,
+            "id": "ALP-258"
+          },
+          {
+            "count": 1,
+            "id": "ALP-259"
+          },
+          {
+            "count": 1,
+            "id": "ALP-260"
+          },
+          {
+            "count": 1,
+            "id": "ALP-265"
+          },
+          {
+            "count": 1,
+            "id": "ALP-281"
+          }
+        ],
+        "Imminent Incantation": [
+          {
+            "count": 1,
+            "id": "ALP-222"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Angelic Judgment",
+      "id": "caa06895-1942-43cb-a7b2-54c9615346e9",
+      "cardCount": 52,
+      "createdAt": "2026-11-19T17:09:01.415Z",
+      "lastModifiedAt": "2026-11-19T17:09:13.922Z",
+      "game": "Rise",
+      "format": [
+        "Classic"
+      ],
+      "deckList": {
+        "categoriesOrder": [
+          "Summoner",
+          "Level Up",
+          "Creature",
+          "Imminent Creature",
+          "Door",
+          "Imminent",
+          "Incantation",
+          "Imminent Incantation"
+        ],
+        "Summoner": [
+          {
+            "count": 1,
+            "id": "ALP-007"
+          },
+          {
+            "count": 1,
+            "id": "ALP-017"
+          }
+        ],
+        "Level Up": [
+          {
+            "count": 1,
+            "id": "ALP-302"
+          },
+          {
+            "count": 1,
+            "id": "ALP-303"
+          },
+          {
+            "count": 3,
+            "id": "ALP-305"
+          },
+          {
+            "count": 5,
+            "id": "ALP-306"
+          }
+        ],
+        "Creature": [
+          {
+            "count": 1,
+            "id": "ALP-034"
+          },
+          {
+            "count": 1,
+            "id": "ALP-042"
+          },
+          {
+            "count": 1,
+            "id": "ALP-043"
+          },
+          {
+            "count": 2,
+            "id": "ALP-047"
+          },
+          {
+            "count": 2,
+            "id": "ALP-060"
+          },
+          {
+            "count": 1,
+            "id": "ALP-051"
+          },
+          {
+            "count": 1,
+            "id": "ALP-079"
+          },
+          {
+            "count": 3,
+            "id": "ALP-081"
+          },
+          {
+            "count": 2,
+            "id": "ALP-082"
+          },
+          {
+            "count": 1,
+            "id": "ALP-089"
+          }
+        ],
+        "Imminent Creature": [
+          {
+            "count": 1,
+            "id": "ALP-091"
+          }
+        ],
+        "Door": [
+          {
+            "count": 2,
+            "id": "ALP-027"
+          }
+        ],
+        "Imminent": [
+          {
+            "count": 1,
+            "id": "ALP-104"
+          },
+          {
+            "count": 1,
+            "id": "ALP-128"
+          },
+          {
+            "count": 1,
+            "id": "ALP-140"
+          },
+          {
+            "count": 1,
+            "id": "ALP-146"
+          },
+          {
+            "count": 1,
+            "id": "ALP-153"
+          },
+          {
+            "count": 1,
+            "id": "ALP-161"
+          },
+          {
+            "count": 1,
+            "id": "ALP-163"
+          },
+          {
+            "count": 2,
+            "id": "ALP-179"
+          },
+          {
+            "count": 1,
+            "id": "ALP-189"
+          }
+        ],
+        "Incantation": [
+          {
+            "count": 1,
+            "id": "ALP-206"
+          },
+          {
+            "count": 1,
+            "id": "ALP-220"
+          },
+          {
+            "count": 1,
+            "id": "ALP-227"
+          },
+          {
+            "count": 1,
+            "id": "ALP-233"
+          },
+          {
+            "count": 1,
+            "id": "ALP-235"
+          },
+          {
+            "count": 1,
+            "id": "ALP-241"
+          },
+          {
+            "count": 1,
+            "id": "ALP-244"
+          },
+          {
+            "count": 1,
+            "id": "ALP-248"
+          },
+          {
+            "count": 1,
+            "id": "ALP-249"
+          },
+          {
+            "count": 1,
+            "id": "ALP-267"
+          },
+          {
+            "count": 1,
+            "id": "ALP-270"
+          }
+        ],
+        "Imminent Incantation": [
+          {
+            "count": 1,
+            "id": "ALP-224"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Cat’s Kitchen",
+      "id": "bab72215-26cc-4c3a-8ac5-c68a5a2ebeee",
+      "cardCount": 52,
+      "createdAt": "2026-11-19T17:09:46.093Z",
+      "lastModifiedAt": "2026-11-19T17:10:00.463Z",
+      "game": "Rise",
+      "format": [
+        "Classic"
+      ],
+      "deckList": {
+        "categoriesOrder": [
+          "Summoner",
+          "Level Up",
+          "Creature",
+          "Imminent Creature",
+          "Door",
+          "Imminent",
+          "Imminent Incantation",
+          "Incantation"
+        ],
+        "Summoner": [
+          {
+            "count": 1,
+            "id": "ALP-018"
+          },
+          {
+            "count": 1,
+            "id": "ALP-019"
+          }
+        ],
+        "Level Up": [
+          {
+            "count": 1,
+            "id": "ALP-302"
+          },
+          {
+            "count": 1,
+            "id": "ALP-303"
+          },
+          {
+            "count": 2,
+            "id": "ALP-304"
+          },
+          {
+            "count": 2,
+            "id": "ALP-305"
+          },
+          {
+            "count": 4,
+            "id": "ALP-306"
+          }
+        ],
+        "Creature": [
+          {
+            "count": 1,
+            "id": "ALP-033"
+          },
+          {
+            "count": 1,
+            "id": "ALP-038"
+          },
+          {
+            "count": 2,
+            "id": "ALP-057"
+          },
+          {
+            "count": 1,
+            "id": "ALP-063"
+          },
+          {
+            "count": 2,
+            "id": "ALP-067"
+          },
+          {
+            "count": 2,
+            "id": "ALP-077"
+          }
+        ],
+        "Imminent Creature": [
+          {
+            "count": 1,
+            "id": "ALP-040"
+          },
+          {
+            "count": 2,
+            "id": "ALP-064"
+          }
+        ],
+        "Door": [
+          {
+            "count": 1,
+            "id": "ALP-026"
+          },
+          {
+            "count": 1,
+            "id": "ALP-030"
+          }
+        ],
+        "Imminent": [
+          {
+            "count": 1,
+            "id": "ALP-112"
+          },
+          {
+            "count": 1,
+            "id": "ALP-129"
+          },
+          {
+            "count": 1,
+            "id": "ALP-136"
+          },
+          {
+            "count": 1,
+            "id": "ALP-137"
+          },
+          {
+            "count": 1,
+            "id": "ALP-154"
+          },
+          {
+            "count": 1,
+            "id": "ALP-155"
+          },
+          {
+            "count": 1,
+            "id": "ALP-156"
+          },
+          {
+            "count": 2,
+            "id": "ALP-157"
+          },
+          {
+            "count": 1,
+            "id": "ALP-159"
+          },
+          {
+            "count": 1,
+            "id": "ALP-163"
+          }
+        ],
+        "Imminent Incantation": [
+          {
+            "count": 1,
+            "id": "ALP-222"
+          }
+        ],
+        "Incantation": [
+          {
+            "count": 1,
+            "id": "ALP-226"
+          },
+          {
+            "count": 1,
+            "id": "ALP-230"
+          },
+          {
+            "count": 1,
+            "id": "ALP-241"
+          },
+          {
+            "count": 1,
+            "id": "ALP-243"
+          },
+          {
+            "count": 1,
+            "id": "ALP-269"
+          },
+          {
+            "count": 1,
+            "id": "ALP-282"
+          },
+          {
+            "count": 1,
+            "id": "ALP-289"
+          },
+          {
+            "count": 1,
+            "id": "ALP-290"
+          },
+          {
+            "count": 1,
+            "id": "ALP-291"
+          },
+          {
+            "count": 1,
+            "id": "ALP-292"
+          },
+          {
+            "count": 1,
+            "id": "ALP-293"
+          },
+          {
+            "count": 1,
+            "id": "ALP-294"
+          },
+          {
+            "count": 1,
+            "id": "ALP-295"
+          },
+          {
+            "count": 1,
+            "id": "ALP-300"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Blast Clone",
+      "id": "93b4c3f9-8016-4e8e-ae8d-2422c9bc0036",
+      "cardCount": 52,
+      "createdAt": "2026-11-19T17:10:13.971Z",
+      "lastModifiedAt": "2026-11-19T17:10:26.921Z",
+      "game": "Rise",
+      "format": [
+        "Classic"
+      ],
+      "deckList": {
+        "categoriesOrder": [
+          "Summoner",
+          "Level Up",
+          "Creature",
+          "Imminent Creature",
+          "Door",
+          "Imminent",
+          "Incantation",
+          "Imminent Incantation"
+        ],
+        "Summoner": [
+          {
+            "count": 1,
+            "id": "ALP-009"
+          },
+          {
+            "count": 1,
+            "id": "ALP-014"
+          }
+        ],
+        "Level Up": [
+          {
+            "count": 1,
+            "id": "ALP-302"
+          },
+          {
+            "count": 1,
+            "id": "ALP-303"
+          },
+          {
+            "count": 1,
+            "id": "ALP-304"
+          },
+          {
+            "count": 2,
+            "id": "ALP-305"
+          },
+          {
+            "count": 5,
+            "id": "ALP-306"
+          }
+        ],
+        "Creature": [
+          {
+            "count": 1,
+            "id": "ALP-037"
+          },
+          {
+            "count": 1,
+            "id": "ALP-038"
+          },
+          {
+            "count": 1,
+            "id": "ALP-052"
+          },
+          {
+            "count": 2,
+            "id": "ALP-058"
+          },
+          {
+            "count": 1,
+            "id": "ALP-061"
+          },
+          {
+            "count": 3,
+            "id": "ALP-069"
+          },
+          {
+            "count": 3,
+            "id": "ALP-070"
+          },
+          {
+            "count": 1,
+            "id": "ALP-080"
+          }
+        ],
+        "Imminent Creature": [
+          {
+            "count": 1,
+            "id": "ALP-039"
+          },
+          {
+            "count": 1,
+            "id": "ALP-040"
+          },
+          {
+            "count": 1,
+            "id": "ALP-064"
+          }
+        ],
+        "Door": [
+          {
+            "count": 1,
+            "id": "ALP-021"
+          },
+          {
+            "count": 1,
+            "id": "ALP-025"
+          }
+        ],
+        "Imminent": [
+          {
+            "count": 1,
+            "id": "ALP-108"
+          },
+          {
+            "count": 1,
+            "id": "ALP-114"
+          },
+          {
+            "count": 1,
+            "id": "ALP-119"
+          },
+          {
+            "count": 1,
+            "id": "ALP-160"
+          },
+          {
+            "count": 1,
+            "id": "ALP-163"
+          },
+          {
+            "count": 1,
+            "id": "ALP-164"
+          },
+          {
+            "count": 1,
+            "id": "ALP-167"
+          },
+          {
+            "count": 1,
+            "id": "ALP-169"
+          },
+          {
+            "count": 1,
+            "id": "ALP-175"
+          },
+          {
+            "count": 1,
+            "id": "ALP-176"
+          },
+          {
+            "count": 1,
+            "id": "ALP-177"
+          },
+          {
+            "count": 1,
+            "id": "ALP-184"
+          },
+          {
+            "count": 1,
+            "id": "ALP-187"
+          },
+          {
+            "count": 1,
+            "id": "ALP-188"
+          }
+        ],
+        "Incantation": [
+          {
+            "count": 1,
+            "id": "ALP-204"
+          },
+          {
+            "count": 1,
+            "id": "ALP-239"
+          },
+          {
+            "count": 1,
+            "id": "ALP-245"
+          },
+          {
+            "count": 1,
+            "id": "ALP-247"
+          },
+          {
+            "count": 1,
+            "id": "ALP-280"
+          },
+          {
+            "count": 1,
+            "id": "ALP-284"
+          },
+          {
+            "count": 1,
+            "id": "ALP-298"
+          }
+        ],
+        "Imminent Incantation": [
+          {
+            "count": 1,
+            "id": "ALP-223"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Monster Heart",
+      "id": "30555ab3-87aa-491d-acb9-ef66e3f8f76d",
+      "cardCount": 52,
+      "createdAt": "2026-11-19T17:10:48.550Z",
+      "lastModifiedAt": "2026-11-19T17:10:59.603Z",
+      "game": "Rise",
+      "format": [
+        "Classic"
+      ],
+      "deckList": {
+        "categoriesOrder": [
+          "Summoner",
+          "Level Up",
+          "Creature",
+          "Door",
+          "Imminent",
+          "Incantation"
+        ],
+        "Summoner": [
+          {
+            "count": 1,
+            "id": "ALP-012"
+          },
+          {
+            "count": 1,
+            "id": "ALP-016"
+          }
+        ],
+        "Level Up": [
+          {
+            "count": 1,
+            "id": "ALP-302"
+          },
+          {
+            "count": 1,
+            "id": "ALP-303"
+          },
+          {
+            "count": 1,
+            "id": "ALP-304"
+          },
+          {
+            "count": 2,
+            "id": "ALP-305"
+          },
+          {
+            "count": 5,
+            "id": "ALP-306"
+          }
+        ],
+        "Creature": [
+          {
+            "count": 1,
+            "id": "ALP-038"
+          },
+          {
+            "count": 1,
+            "id": "ALP-041"
+          },
+          {
+            "count": 2,
+            "id": "ALP-050"
+          },
+          {
+            "count": 1,
+            "id": "ALP-055"
+          },
+          {
+            "count": 1,
+            "id": "ALP-063"
+          },
+          {
+            "count": 2,
+            "id": "ALP-073"
+          },
+          {
+            "count": 1,
+            "id": "ALP-074"
+          },
+          {
+            "count": 1,
+            "id": "ALP-079"
+          },
+          {
+            "count": 1,
+            "id": "ALP-089"
+          }
+        ],
+        "Door": [
+          {
+            "count": 1,
+            "id": "ALP-024"
+          },
+          {
+            "count": 1,
+            "id": "ALP-026"
+          },
+          {
+            "count": 1,
+            "id": "ALP-029"
+          }
+        ],
+        "Imminent": [
+          {
+            "count": 1,
+            "id": "ALP-105"
+          },
+          {
+            "count": 1,
+            "id": "ALP-116"
+          },
+          {
+            "count": 1,
+            "id": "ALP-120"
+          },
+          {
+            "count": 1,
+            "id": "ALP-134"
+          },
+          {
+            "count": 1,
+            "id": "ALP-147"
+          },
+          {
+            "count": 1,
+            "id": "ALP-148"
+          },
+          {
+            "count": 1,
+            "id": "ALP-155"
+          },
+          {
+            "count": 2,
+            "id": "ALP-159"
+          },
+          {
+            "count": 1,
+            "id": "ALP-163"
+          },
+          {
+            "count": 1,
+            "id": "ALP-166"
+          },
+          {
+            "count": 1,
+            "id": "ALP-186"
+          },
+          {
+            "count": 1,
+            "id": "ALP-189"
+          }
+        ],
+        "Incantation": [
+          {
+            "count": 1,
+            "id": "ALP-208"
+          },
+          {
+            "count": 1,
+            "id": "ALP-220"
+          },
+          {
+            "count": 1,
+            "id": "ALP-231"
+          },
+          {
+            "count": 1,
+            "id": "ALP-240"
+          },
+          {
+            "count": 1,
+            "id": "ALP-242"
+          },
+          {
+            "count": 1,
+            "id": "ALP-260"
+          },
+          {
+            "count": 1,
+            "id": "ALP-264"
+          },
+          {
+            "count": 1,
+            "id": "ALP-270"
+          },
+          {
+            "count": 2,
+            "id": "ALP-271"
+          },
+          {
+            "count": 1,
+            "id": "ALP-275"
+          },
+          {
+            "count": 1,
+            "id": "ALP-276"
+          },
+          {
+            "count": 1,
+            "id": "ALP-283"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Pandora’s Box",
+      "id": "6c022f1b-15b2-4896-a766-5c965c79ff52",
+      "cardCount": 52,
+      "createdAt": "2026-11-19T17:11:11.263Z",
+      "lastModifiedAt": "2026-11-19T17:11:22.016Z",
+      "game": "Rise",
+      "format": [
+        "Classic"
+      ],
+      "deckList": {
+        "categoriesOrder": [
+          "Summoner",
+          "Level Up",
+          "Creature",
+          "Imminent Creature",
+          "Door",
+          "Imminent",
+          "Incantation"
+        ],
+        "Summoner": [
+          {
+            "count": 1,
+            "id": "ALP-013"
+          },
+          {
+            "count": 1,
+            "id": "ALP-015"
+          }
+        ],
+        "Level Up": [
+          {
+            "count": 1,
+            "id": "ALP-302"
+          },
+          {
+            "count": 1,
+            "id": "ALP-303"
+          },
+          {
+            "count": 2,
+            "id": "ALP-304"
+          },
+          {
+            "count": 1,
+            "id": "ALP-305"
+          },
+          {
+            "count": 5,
+            "id": "ALP-306"
+          }
+        ],
+        "Creature": [
+          {
+            "count": 1,
+            "id": "ALP-034"
+          },
+          {
+            "count": 1,
+            "id": "ALP-038"
+          },
+          {
+            "count": 1,
+            "id": "ALP-053"
+          },
+          {
+            "count": 2,
+            "id": "ALP-058"
+          },
+          {
+            "count": 2,
+            "id": "ALP-065"
+          },
+          {
+            "count": 1,
+            "id": "ALP-082"
+          },
+          {
+            "count": 1,
+            "id": "ALP-087"
+          }
+        ],
+        "Imminent Creature": [
+          {
+            "count": 3,
+            "id": "ALP-088"
+          },
+          {
+            "count": 1,
+            "id": "ALP-091"
+          }
+        ],
+        "Door": [
+          {
+            "count": 1,
+            "id": "ALP-030"
+          },
+          {
+            "count": 2,
+            "id": "ALP-031"
+          }
+        ],
+        "Imminent": [
+          {
+            "count": 1,
+            "id": "ALP-124"
+          },
+          {
+            "count": 1,
+            "id": "ALP-128"
+          },
+          {
+            "count": 1,
+            "id": "ALP-131"
+          },
+          {
+            "count": 1,
+            "id": "ALP-133"
+          },
+          {
+            "count": 1,
+            "id": "ALP-135"
+          },
+          {
+            "count": 1,
+            "id": "ALP-136"
+          },
+          {
+            "count": 1,
+            "id": "ALP-147"
+          },
+          {
+            "count": 1,
+            "id": "ALP-158"
+          },
+          {
+            "count": 1,
+            "id": "ALP-162"
+          },
+          {
+            "count": 2,
+            "id": "ALP-170"
+          },
+          {
+            "count": 2,
+            "id": "ALP-192"
+          },
+          {
+            "count": 1,
+            "id": "ALP-193"
+          }
+        ],
+        "Incantation": [
+          {
+            "count": 1,
+            "id": "ALP-201"
+          },
+          {
+            "count": 1,
+            "id": "ALP-208"
+          },
+          {
+            "count": 1,
+            "id": "ALP-216"
+          },
+          {
+            "count": 2,
+            "id": "ALP-250"
+          },
+          {
+            "count": 1,
+            "id": "ALP-253"
+          },
+          {
+            "count": 1,
+            "id": "ALP-257"
+          },
+          {
+            "count": 1,
+            "id": "ALP-265"
+          },
+          {
+            "count": 1,
+            "id": "ALP-270"
+          },
+          {
+            "count": 1,
+            "id": "ALP-297"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Gold, Gold, Gold!",
+      "id": "013bac7c-7128-46a6-ab56-318750870b6a",
+      "cardCount": 52,
+      "createdAt": "2026-11-19T17:11:34.526Z",
+      "lastModifiedAt": "2026-11-19T17:12:05.158Z",
+      "game": "Rise",
+      "format": [
+        "Classic"
+      ],
+      "deckList": {
+        "categoriesOrder": [
+          "Summoner",
+          "Level Up",
+          "Creature",
+          "Imminent Creature",
+          "Door",
+          "Imminent",
+          "Incantation"
+        ],
+        "Summoner": [
+          {
+            "count": 1,
+            "id": "ALP-004-BT"
+          },
+          {
+            "count": 1,
+            "id": "ALP-009"
+          }
+        ],
+        "Level Up": [
+          {
+            "count": 1,
+            "id": "ALP-303"
+          },
+          {
+            "count": 3,
+            "id": "ALP-304"
+          },
+          {
+            "count": 4,
+            "id": "ALP-305"
+          },
+          {
+            "count": 2,
+            "id": "ALP-306"
+          }
+        ],
+        "Creature": [
+          {
+            "count": 1,
+            "id": "ALP-032"
+          },
+          {
+            "count": 1,
+            "id": "ALP-038"
+          },
+          {
+            "count": 1,
+            "id": "ALP-041"
+          },
+          {
+            "count": 2,
+            "id": "ALP-049"
+          },
+          {
+            "count": 2,
+            "id": "ALP-055"
+          },
+          {
+            "count": 2,
+            "id": "ALP-089"
+          }
+        ],
+        "Imminent Creature": [
+          {
+            "count": 3,
+            "id": "ALP-075"
+          }
+        ],
+        "Door": [
+          {
+            "count": 1,
+            "id": "ALP-021"
+          },
+          {
+            "count": 1,
+            "id": "ALP-023"
+          },
+          {
+            "count": 1,
+            "id": "ALP-024"
+          }
+        ],
+        "Imminent": [
+          {
+            "count": 1,
+            "id": "ALP-119"
+          },
+          {
+            "count": 1,
+            "id": "ALP-142"
+          },
+          {
+            "count": 1,
+            "id": "ALP-146"
+          },
+          {
+            "count": 1,
+            "id": "ALP-147"
+          },
+          {
+            "count": 2,
+            "id": "ALP-163"
+          },
+          {
+            "count": 1,
+            "id": "ALP-177"
+          },
+          {
+            "count": 1,
+            "id": "ALP-183"
+          },
+          {
+            "count": 1,
+            "id": "ALP-189"
+          },
+          {
+            "count": 1,
+            "id": "ALP-197"
+          }
+        ],
+        "Incantation": [
+          {
+            "count": 1,
+            "id": "ALP-201"
+          },
+          {
+            "count": 1,
+            "id": "ALP-204"
+          },
+          {
+            "count": 1,
+            "id": "ALP-209"
+          },
+          {
+            "count": 1,
+            "id": "ALP-219"
+          },
+          {
+            "count": 1,
+            "id": "ALP-234"
+          },
+          {
+            "count": 1,
+            "id": "ALP-240"
+          },
+          {
+            "count": 1,
+            "id": "ALP-258"
+          },
+          {
+            "count": 1,
+            "id": "ALP-259"
+          },
+          {
+            "count": 1,
+            "id": "ALP-264"
+          },
+          {
+            "count": 1,
+            "id": "ALP-295"
+          },
+          {
+            "count": 1,
+            "id": "ALP-265"
+          },
+          {
+            "count": 1,
+            "id": "ALP-266"
+          },
+          {
+            "count": 1,
+            "id": "ALP-267"
+          },
+          {
+            "count": 1,
+            "id": "ALP-268"
+          },
+          {
+            "count": 1,
+            "id": "ALP-284"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Bot Attack",
+      "id": "48345c8a-9b1c-4d03-984c-a7dcbe4f1f32",
+      "cardCount": 52,
+      "createdAt": "2026-11-19T17:13:16.831Z",
+      "lastModifiedAt": "2026-11-19T17:13:26.548Z",
+      "game": "Rise",
+      "format": [
+        "Classic"
+      ],
+      "deckList": {
+        "categoriesOrder": [
+          "Summoner",
+          "Level Up",
+          "Creature",
+          "Imminent Creature",
+          "Imminent",
+          "Incantation",
+          "Imminent Incantation"
+        ],
+        "Summoner": [
+          {
+            "count": 1,
+            "id": "ALP-006"
+          },
+          {
+            "count": 1,
+            "id": "ALP-008"
+          }
+        ],
+        "Level Up": [
+          {
+            "count": 1,
+            "id": "ALP-302"
+          },
+          {
+            "count": 1,
+            "id": "ALP-303"
+          },
+          {
+            "count": 1,
+            "id": "ALP-304"
+          },
+          {
+            "count": 2,
+            "id": "ALP-305"
+          },
+          {
+            "count": 5,
+            "id": "ALP-306"
+          }
+        ],
+        "Creature": [
+          {
+            "count": 1,
+            "id": "ALP-038"
+          },
+          {
+            "count": 2,
+            "id": "ALP-049"
+          },
+          {
+            "count": 2,
+            "id": "ALP-051"
+          },
+          {
+            "count": 2,
+            "id": "ALP-056"
+          },
+          {
+            "count": 2,
+            "id": "ALP-059"
+          },
+          {
+            "count": 1,
+            "id": "ALP-063"
+          },
+          {
+            "count": 2,
+            "id": "ALP-085"
+          }
+        ],
+        "Imminent Creature": [
+          {
+            "count": 3,
+            "id": "ALP-076"
+          }
+        ],
+        "Imminent": [
+          {
+            "count": 1,
+            "id": "ALP-106"
+          },
+          {
+            "count": 1,
+            "id": "ALP-122"
+          },
+          {
+            "count": 1,
+            "id": "ALP-125"
+          },
+          {
+            "count": 1,
+            "id": "ALP-137"
+          },
+          {
+            "count": 1,
+            "id": "ALP-141"
+          },
+          {
+            "count": 1,
+            "id": "ALP-147"
+          },
+          {
+            "count": 1,
+            "id": "ALP-155"
+          },
+          {
+            "count": 1,
+            "id": "ALP-157"
+          },
+          {
+            "count": 1,
+            "id": "ALP-159"
+          },
+          {
+            "count": 1,
+            "id": "ALP-161"
+          },
+          {
+            "count": 2,
+            "id": "ALP-185"
+          },
+          {
+            "count": 1,
+            "id": "ALP-189"
+          },
+          {
+            "count": 1,
+            "id": "ALP-191"
+          },
+          {
+            "count": 1,
+            "id": "ALP-198"
+          },
+          {
+            "count": 1,
+            "id": "ALP-199"
+          }
+        ],
+        "Incantation": [
+          {
+            "count": 1,
+            "id": "ALP-207"
+          },
+          {
+            "count": 1,
+            "id": "ALP-208"
+          },
+          {
+            "count": 1,
+            "id": "ALP-228"
+          },
+          {
+            "count": 1,
+            "id": "ALP-232"
+          },
+          {
+            "count": 1,
+            "id": "ALP-260"
+          },
+          {
+            "count": 2,
+            "id": "ALP-274"
+          }
+        ],
+        "Imminent Incantation": [
+          {
+            "count": 1,
+            "id": "ALP-222"
+          },
+          {
+            "count": 1,
+            "id": "ALP-229"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Eternal Door",
+      "id": "c705ae40-c8d8-44c4-8a05-bc5d98f5904a",
+      "cardCount": 52,
+      "createdAt": "2026-11-19T17:13:43.007Z",
+      "lastModifiedAt": "2026-11-19T17:13:54.294Z",
+      "game": "Rise",
+      "format": [
+        "Classic"
+      ],
+      "deckList": {
+        "categoriesOrder": [
+          "Summoner",
+          "Level Up",
+          "Creature",
+          "Imminent Creature",
+          "Door",
+          "Imminent",
+          "Incantation",
+          "Imminent Incantation"
+        ],
+        "Summoner": [
+          {
+            "count": 1,
+            "id": "ALP-010"
+          },
+          {
+            "count": 1,
+            "id": "ALP-011"
+          }
+        ],
+        "Level Up": [
+          {
+            "count": 1,
+            "id": "ALP-303"
+          },
+          {
+            "count": 3,
+            "id": "ALP-304"
+          },
+          {
+            "count": 3,
+            "id": "ALP-305"
+          },
+          {
+            "count": 3,
+            "id": "ALP-306"
+          }
+        ],
+        "Creature": [
+          {
+            "count": 1,
+            "id": "ALP-034"
+          },
+          {
+            "count": 1,
+            "id": "ALP-038"
+          },
+          {
+            "count": 2,
+            "id": "ALP-066"
+          },
+          {
+            "count": 3,
+            "id": "ALP-068"
+          },
+          {
+            "count": 2,
+            "id": "ALP-082"
+          }
+        ],
+        "Imminent Creature": [
+          {
+            "count": 2,
+            "id": "ALP-091"
+          }
+        ],
+        "Door": [
+          {
+            "count": 1,
+            "id": "ALP-022"
+          },
+          {
+            "count": 1,
+            "id": "ALP-024"
+          },
+          {
+            "count": 1,
+            "id": "ALP-025"
+          },
+          {
+            "count": 2,
+            "id": "ALP-026"
+          },
+          {
+            "count": 2,
+            "id": "ALP-027"
+          },
+          {
+            "count": 2,
+            "id": "ALP-029"
+          },
+          {
+            "count": 1,
+            "id": "ALP-030"
+          }
+        ],
+        "Imminent": [
+          {
+            "count": 1,
+            "id": "ALP-105"
+          },
+          {
+            "count": 1,
+            "id": "ALP-127"
+          },
+          {
+            "count": 1,
+            "id": "ALP-130"
+          },
+          {
+            "count": 1,
+            "id": "ALP-135"
+          },
+          {
+            "count": 1,
+            "id": "ALP-136"
+          },
+          {
+            "count": 1,
+            "id": "ALP-137"
+          },
+          {
+            "count": 1,
+            "id": "ALP-143"
+          },
+          {
+            "count": 1,
+            "id": "ALP-150"
+          },
+          {
+            "count": 1,
+            "id": "ALP-151"
+          },
+          {
+            "count": 1,
+            "id": "ALP-195"
+          },
+          {
+            "count": 1,
+            "id": "ALP-196"
+          }
+        ],
+        "Incantation": [
+          {
+            "count": 1,
+            "id": "ALP-200"
+          },
+          {
+            "count": 1,
+            "id": "ALP-216"
+          },
+          {
+            "count": 1,
+            "id": "ALP-243"
+          },
+          {
+            "count": 1,
+            "id": "ALP-265"
+          },
+          {
+            "count": 1,
+            "id": "ALP-267"
+          },
+          {
+            "count": 1,
+            "id": "ALP-278"
+          },
+          {
+            "count": 1,
+            "id": "ALP-296"
+          }
+        ],
+        "Imminent Incantation": [
+          {
+            "count": 1,
+            "id": "ALP-222"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Strange Thing",
+      "id": "57bf46fa-c73a-4a36-ad59-f8a6da9e7c1e",
+      "cardCount": 52,
+      "createdAt": "2026-11-19T17:14:12.360Z",
+      "lastModifiedAt": "2026-11-19T17:14:29.336Z",
+      "game": "Rise",
+      "format": [
+        "Classic"
+      ],
+      "deckList": {
+        "categoriesOrder": [
+          "Summoner",
+          "Level Up",
+          "Creature",
+          "Imminent Creature",
+          "Door",
+          "Imminent",
+          "Incantation",
+          "Imminent Incantation"
+        ],
+        "Summoner": [
+          {
+            "count": 1,
+            "id": "ALP-018"
+          },
+          {
+            "count": 1,
+            "id": "ALP-020"
+          }
+        ],
+        "Level Up": [
+          {
+            "count": 1,
+            "id": "ALP-302"
+          },
+          {
+            "count": 1,
+            "id": "ALP-303"
+          },
+          {
+            "count": 1,
+            "id": "ALP-304"
+          },
+          {
+            "count": 2,
+            "id": "ALP-305"
+          },
+          {
+            "count": 5,
+            "id": "ALP-306"
+          }
+        ],
+        "Creature": [
+          {
+            "count": 1,
+            "id": "ALP-035"
+          },
+          {
+            "count": 1,
+            "id": "ALP-036"
+          },
+          {
+            "count": 1,
+            "id": "ALP-038"
+          },
+          {
+            "count": 1,
+            "id": "ALP-042"
+          },
+          {
+            "count": 1,
+            "id": "ALP-043"
+          },
+          {
+            "count": 1,
+            "id": "ALP-045"
+          },
+          {
+            "count": 1,
+            "id": "ALP-052"
+          },
+          {
+            "count": 2,
+            "id": "ALP-063"
+          },
+          {
+            "count": 1,
+            "id": "ALP-079"
+          },
+          {
+            "count": 2,
+            "id": "ALP-080"
+          },
+          {
+            "count": 1,
+            "id": "ALP-087"
+          },
+          {
+            "count": 2,
+            "id": "ALP-089"
+          }
+        ],
+        "Imminent Creature": [
+          {
+            "count": 1,
+            "id": "ALP-039"
+          },
+          {
+            "count": 2,
+            "id": "ALP-075"
+          }
+        ],
+        "Door": [
+          {
+            "count": 1,
+            "id": "ALP-022"
+          },
+          {
+            "count": 1,
+            "id": "ALP-026"
+          }
+        ],
+        "Imminent": [
+          {
+            "count": 1,
+            "id": "ALP-110"
+          },
+          {
+            "count": 1,
+            "id": "ALP-111"
+          },
+          {
+            "count": 1,
+            "id": "ALP-149"
+          },
+          {
+            "count": 2,
+            "id": "ALP-162"
+          },
+          {
+            "count": 1,
+            "id": "ALP-171"
+          },
+          {
+            "count": 1,
+            "id": "ALP-172"
+          },
+          {
+            "count": 1,
+            "id": "ALP-191"
+          },
+          {
+            "count": 1,
+            "id": "ALP-192"
+          },
+          {
+            "count": 1,
+            "id": "ALP-199"
+          }
+        ],
+        "Incantation": [
+          {
+            "count": 1,
+            "id": "ALP-206"
+          },
+          {
+            "count": 1,
+            "id": "ALP-227"
+          },
+          {
+            "count": 1,
+            "id": "ALP-228"
+          },
+          {
+            "count": 1,
+            "id": "ALP-248"
+          },
+          {
+            "count": 1,
+            "id": "ALP-267"
+          },
+          {
+            "count": 1,
+            "id": "ALP-269"
+          },
+          {
+            "count": 1,
+            "id": "ALP-283"
+          },
+          {
+            "count": 1,
+            "id": "ALP-284"
+          },
+          {
+            "count": 1,
+            "id": "ALP-287"
+          }
+        ],
+        "Imminent Incantation": [
+          {
+            "count": 1,
+            "id": "ALP-221"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Witchcraft",
+      "id": "81e5076b-8a70-4b52-bf7b-bd94ab715275",
+      "cardCount": 53,
+      "createdAt": "2026-11-19T17:14:42.339Z",
+      "lastModifiedAt": "2026-11-19T17:33:39.301Z",
+      "game": "Rise",
+      "format": [
+        "Classic"
+      ],
+      "deckList": {
+        "categoriesOrder": [
+          "Summoner",
+          "Level Up",
+          "Creature",
+          "Imminent Creature",
+          "Door",
+          "Imminent",
+          "Incantation",
+          "Imminent Incantation"
+        ],
+        "Summoner": [
+          {
+            "count": 1,
+            "id": "CAN-009"
+          },
+          {
+            "count": 1,
+            "id": "CAN-025"
+          }
+        ],
+        "Level Up": [
+          {
+            "count": 4,
+            "id": "ALP-306"
+          },
+          {
+            "count": 2,
+            "id": "CAN-231"
+          },
+          {
+            "count": 2,
+            "id": "CAN-230"
+          },
+          {
+            "count": 2,
+            "id": "CAN-229"
+          },
+          {
+            "count": 1,
+            "id": "CAN-228"
+          }
+        ],
+        "Creature": [
+          {
+            "count": 1,
+            "id": "CAN-067"
+          },
+          {
+            "count": 1,
+            "id": "CAN-061"
+          },
+          {
+            "count": 1,
+            "id": "CAN-066"
+          },
+          {
+            "count": 1,
+            "id": "CAN-083"
+          },
+          {
+            "count": 1,
+            "id": "CAN-044"
+          },
+          {
+            "count": 1,
+            "id": "CAN-065"
+          },
+          {
+            "count": 1,
+            "id": "CAN-064"
+          },
+          {
+            "count": 1,
+            "id": "CAN-086"
+          },
+          {
+            "count": 1,
+            "id": "CAN-085"
+          },
+          {
+            "count": 1,
+            "id": "CAN-054"
+          },
+          {
+            "count": 1,
+            "id": "CAN-056"
+          },
+          {
+            "count": 1,
+            "id": "CAN-055"
+          },
+          {
+            "count": 1,
+            "id": "CAN-081"
+          },
+          {
+            "count": 1,
+            "id": "CAN-050"
+          },
+          {
+            "count": 1,
+            "id": "CAN-060"
+          }
+        ],
+        "Imminent Creature": [
+          {
+            "count": 1,
+            "id": "CAN-063"
+          }
+        ],
+        "Door": [
+          {
+            "count": 1,
+            "id": "CAN-041"
+          }
+        ],
+        "Imminent": [
+          {
+            "count": 1,
+            "id": "CAN-143"
+          },
+          {
+            "count": 1,
+            "id": "CAN-144"
+          },
+          {
+            "count": 1,
+            "id": "CAN-124"
+          },
+          {
+            "count": 1,
+            "id": "CAN-118"
+          },
+          {
+            "count": 1,
+            "id": "CAN-159"
+          },
+          {
+            "count": 1,
+            "id": "CAN-129"
+          },
+          {
+            "count": 1,
+            "id": "CAN-122"
+          },
+          {
+            "count": 1,
+            "id": "CAN-132"
+          },
+          {
+            "count": 1,
+            "id": "CAN-153"
+          }
+        ],
+        "Incantation": [
+          {
+            "count": 2,
+            "id": "CAN-197"
+          },
+          {
+            "count": 1,
+            "id": "CAN-189"
+          },
+          {
+            "count": 1,
+            "id": "CAN-193"
+          },
+          {
+            "count": 1,
+            "id": "CAN-207"
+          },
+          {
+            "count": 1,
+            "id": "CAN-199"
+          },
+          {
+            "count": 1,
+            "id": "CAN-183"
+          },
+          {
+            "count": 2,
+            "id": "CAN-204"
+          },
+          {
+            "count": 1,
+            "id": "CAN-177"
+          },
+          {
+            "count": 1,
+            "id": "CAN-217"
+          },
+          {
+            "count": 1,
+            "id": "CAN-171"
+          }
+        ],
+        "Imminent Incantation": [
+          {
+            "count": 1,
+            "id": "CAN-168"
+          },
+          {
+            "count": 1,
+            "id": "CAN-169"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Enchanting",
+      "id": "91411ad3-e9bc-4f62-98f7-109c8c8553bf",
+      "cardCount": 53,
+      "createdAt": "2026-11-19T17:34:03.743Z",
+      "lastModifiedAt": "2026-11-19T17:34:17.087Z",
+      "game": "Rise",
+      "format": [
+        "Classic"
+      ],
+      "deckList": {
+        "categoriesOrder": [
+          "Summoner",
+          "Level Up",
+          "Creature",
+          "Imminent Creature",
+          "Imminent",
+          "Incantation",
+          "Imminent Incantation"
+        ],
+        "Summoner": [
+          {
+            "count": 1,
+            "id": "CAN-003"
+          },
+          {
+            "count": 1,
+            "id": "CAN-037"
+          }
+        ],
+        "Level Up": [
+          {
+            "count": 4,
+            "id": "ALP-306"
+          },
+          {
+            "count": 2,
+            "id": "CAN-231"
+          },
+          {
+            "count": 2,
+            "id": "CAN-230"
+          },
+          {
+            "count": 2,
+            "id": "CAN-229"
+          },
+          {
+            "count": 1,
+            "id": "CAN-228"
+          }
+        ],
+        "Creature": [
+          {
+            "count": 1,
+            "id": "CAN-052"
+          },
+          {
+            "count": 1,
+            "id": "CAN-091"
+          },
+          {
+            "count": 2,
+            "id": "CAN-082"
+          },
+          {
+            "count": 2,
+            "id": "CAN-085"
+          },
+          {
+            "count": 1,
+            "id": "CAN-095"
+          },
+          {
+            "count": 1,
+            "id": "CAN-089"
+          },
+          {
+            "count": 1,
+            "id": "CAN-060"
+          },
+          {
+            "count": 2,
+            "id": "CAN-075"
+          },
+          {
+            "count": 2,
+            "id": "CAN-093"
+          },
+          {
+            "count": 1,
+            "id": "CAN-042"
+          }
+        ],
+        "Imminent Creature": [
+          {
+            "count": 2,
+            "id": "CAN-078"
+          }
+        ],
+        "Imminent": [
+          {
+            "count": 1,
+            "id": "CAN-144"
+          },
+          {
+            "count": 1,
+            "id": "CAN-150"
+          },
+          {
+            "count": 1,
+            "id": "CAN-124"
+          },
+          {
+            "count": 1,
+            "id": "CAN-122"
+          },
+          {
+            "count": 1,
+            "id": "CAN-159"
+          },
+          {
+            "count": 1,
+            "id": "CAN-157"
+          },
+          {
+            "count": 1,
+            "id": "CAN-137"
+          },
+          {
+            "count": 1,
+            "id": "CAN-123"
+          },
+          {
+            "count": 1,
+            "id": "CAN-136"
+          },
+          {
+            "count": 1,
+            "id": "CAN-151"
+          }
+        ],
+        "Incantation": [
+          {
+            "count": 1,
+            "id": "CAN-193"
+          },
+          {
+            "count": 1,
+            "id": "CAN-167"
+          },
+          {
+            "count": 2,
+            "id": "CAN-207"
+          },
+          {
+            "count": 1,
+            "id": "CAN-181"
+          },
+          {
+            "count": 1,
+            "id": "CAN-195"
+          },
+          {
+            "count": 1,
+            "id": "CAN-218"
+          },
+          {
+            "count": 1,
+            "id": "CAN-194"
+          },
+          {
+            "count": 1,
+            "id": "CAN-223"
+          },
+          {
+            "count": 1,
+            "id": "CAN-219"
+          },
+          {
+            "count": 1,
+            "id": "CAN-178"
+          },
+          {
+            "count": 1,
+            "id": "CAN-176"
+          },
+          {
+            "count": 1,
+            "id": "CAN-217"
+          }
+        ],
+        "Imminent Incantation": [
+          {
+            "count": 1,
+            "id": "CAN-169"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Sanguinary",
+      "id": "43503616-537f-48d2-a971-16a409e86c01",
+      "cardCount": 53,
+      "createdAt": "2026-11-19T17:34:33.310Z",
+      "lastModifiedAt": "2026-11-19T17:34:50.823Z",
+      "game": "Rise",
+      "format": [
+        "Classic"
+      ],
+      "deckList": {
+        "categoriesOrder": [
+          "Summoner",
+          "Level Up",
+          "Creature",
+          "Imminent Creature",
+          "Door",
+          "Imminent",
+          "Imminent Incantation",
+          "Incantation"
+        ],
+        "Summoner": [
+          {
+            "count": 1,
+            "id": "CAN-017"
+          },
+          {
+            "count": 1,
+            "id": "CAN-027"
+          }
+        ],
+        "Level Up": [
+          {
+            "count": 4,
+            "id": "ALP-306"
+          },
+          {
+            "count": 2,
+            "id": "CAN-231"
+          },
+          {
+            "count": 2,
+            "id": "CAN-230"
+          },
+          {
+            "count": 2,
+            "id": "CAN-229"
+          },
+          {
+            "count": 1,
+            "id": "CAN-228"
+          }
+        ],
+        "Creature": [
+          {
+            "count": 2,
+            "id": "CAN-059"
+          },
+          {
+            "count": 1,
+            "id": "CAN-067"
+          },
+          {
+            "count": 1,
+            "id": "CAN-068"
+          },
+          {
+            "count": 1,
+            "id": "CAN-061"
+          },
+          {
+            "count": 1,
+            "id": "CAN-066"
+          },
+          {
+            "count": 2,
+            "id": "CAN-090"
+          },
+          {
+            "count": 1,
+            "id": "CAN-065"
+          },
+          {
+            "count": 1,
+            "id": "CAN-064"
+          },
+          {
+            "count": 2,
+            "id": "CAN-085"
+          },
+          {
+            "count": 1,
+            "id": "CAN-049"
+          },
+          {
+            "count": 1,
+            "id": "CAN-060"
+          },
+          {
+            "count": 1,
+            "id": "CAN-079"
+          }
+        ],
+        "Imminent Creature": [
+          {
+            "count": 2,
+            "id": "CAN-078"
+          }
+        ],
+        "Door": [
+          {
+            "count": 1,
+            "id": "CAN-040"
+          }
+        ],
+        "Imminent": [
+          {
+            "count": 2,
+            "id": "CAN-143"
+          },
+          {
+            "count": 1,
+            "id": "CAN-147"
+          },
+          {
+            "count": 1,
+            "id": "CAN-144"
+          },
+          {
+            "count": 1,
+            "id": "CAN-124"
+          },
+          {
+            "count": 1,
+            "id": "CAN-129"
+          },
+          {
+            "count": 1,
+            "id": "CAN-120"
+          },
+          {
+            "count": 1,
+            "id": "CAN-118"
+          },
+          {
+            "count": 1,
+            "id": "CAN-159"
+          },
+          {
+            "count": 1,
+            "id": "CAN-154"
+          },
+          {
+            "count": 1,
+            "id": "CAN-161"
+          },
+          {
+            "count": 1,
+            "id": "CAN-151"
+          }
+        ],
+        "Imminent Incantation": [
+          {
+            "count": 1,
+            "id": "CAN-168"
+          }
+        ],
+        "Incantation": [
+          {
+            "count": 1,
+            "id": "CAN-207"
+          },
+          {
+            "count": 1,
+            "id": "CAN-226"
+          },
+          {
+            "count": 1,
+            "id": "CAN-201"
+          },
+          {
+            "count": 1,
+            "id": "CAN-223"
+          },
+          {
+            "count": 1,
+            "id": "CAN-176"
+          },
+          {
+            "count": 1,
+            "id": "CAN-191"
+          },
+          {
+            "count": 1,
+            "id": "CAN-171"
+          },
+          {
+            "count": 1,
+            "id": "CAN-180"
+          },
+          {
+            "count": 1,
+            "id": "CAN-192"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Delicious",
+      "id": "b420c6bb-17e3-41e4-a653-8a2f2d820dfc",
+      "cardCount": 52,
+      "createdAt": "2026-11-19T17:35:08.992Z",
+      "lastModifiedAt": "2026-11-19T17:35:21.131Z",
+      "game": "Rise",
+      "format": [
+        "Classic"
+      ],
+      "deckList": {
+        "categoriesOrder": [
+          "Summoner",
+          "Level Up",
+          "Creature",
+          "Imminent Creature",
+          "Imminent Door",
+          "Imminent",
+          "Incantation",
+          "Imminent Incantation"
+        ],
+        "Summoner": [
+          {
+            "count": 1,
+            "id": "CAN-007"
+          },
+          {
+            "count": 1,
+            "id": "CAN-011"
+          }
+        ],
+        "Level Up": [
+          {
+            "count": 4,
+            "id": "ALP-306"
+          },
+          {
+            "count": 2,
+            "id": "CAN-231"
+          },
+          {
+            "count": 2,
+            "id": "CAN-230"
+          },
+          {
+            "count": 2,
+            "id": "CAN-229"
+          },
+          {
+            "count": 1,
+            "id": "CAN-228"
+          }
+        ],
+        "Creature": [
+          {
+            "count": 1,
+            "id": "CAN-051"
+          },
+          {
+            "count": 1,
+            "id": "CAN-067"
+          },
+          {
+            "count": 1,
+            "id": "CAN-066"
+          },
+          {
+            "count": 1,
+            "id": "CAN-091"
+          },
+          {
+            "count": 1,
+            "id": "CAN-082"
+          },
+          {
+            "count": 1,
+            "id": "CAN-062"
+          },
+          {
+            "count": 1,
+            "id": "CAN-086"
+          },
+          {
+            "count": 1,
+            "id": "CAN-085"
+          },
+          {
+            "count": 2,
+            "id": "CAN-072"
+          }
+        ],
+        "Imminent Creature": [
+          {
+            "count": 1,
+            "id": "CAN-063"
+          },
+          {
+            "count": 1,
+            "id": "CAN-071"
+          },
+          {
+            "count": 2,
+            "id": "CAN-084"
+          },
+          {
+            "count": 1,
+            "id": "CAN-073"
+          }
+        ],
+        "Imminent Door": [
+          {
+            "count": 1,
+            "id": "CAN-039"
+          }
+        ],
+        "Imminent": [
+          {
+            "count": 1,
+            "id": "CAN-148"
+          },
+          {
+            "count": 1,
+            "id": "CAN-145"
+          },
+          {
+            "count": 2,
+            "id": "CAN-147"
+          },
+          {
+            "count": 1,
+            "id": "CAN-149"
+          },
+          {
+            "count": 1,
+            "id": "CAN-146"
+          },
+          {
+            "count": 1,
+            "id": "CAN-124"
+          },
+          {
+            "count": 1,
+            "id": "CAN-159"
+          },
+          {
+            "count": 1,
+            "id": "CAN-125"
+          },
+          {
+            "count": 1,
+            "id": "CAN-131"
+          },
+          {
+            "count": 1,
+            "id": "CAN-139"
+          },
+          {
+            "count": 1,
+            "id": "CAN-151"
+          }
+        ],
+        "Incantation": [
+          {
+            "count": 1,
+            "id": "CAN-193"
+          },
+          {
+            "count": 1,
+            "id": "CAN-207"
+          },
+          {
+            "count": 1,
+            "id": "CAN-167"
+          },
+          {
+            "count": 1,
+            "id": "CAN-182"
+          },
+          {
+            "count": 1,
+            "id": "CAN-165"
+          },
+          {
+            "count": 1,
+            "id": "CAN-223"
+          },
+          {
+            "count": 2,
+            "id": "CAN-219"
+          },
+          {
+            "count": 1,
+            "id": "CAN-190"
+          },
+          {
+            "count": 1,
+            "id": "CAN-217"
+          }
+        ],
+        "Imminent Incantation": [
+          {
+            "count": 1,
+            "id": "CAN-174"
+          }
+        ]
+      }
+    }
+]

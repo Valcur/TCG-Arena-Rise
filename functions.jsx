@@ -18,7 +18,7 @@ async function ini() {
     await functions.createCard("ALP-002", "Stock")
 
     const myPlayOrder = game.turn.playOrder
-    console.log(game)
+
     if (myPlayOrder === 0) {
         game.data.Manager.gold = 2
     } else {

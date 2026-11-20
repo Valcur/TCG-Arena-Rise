@@ -1,0 +1,19 @@
+{
+    "author": "PiouPiou",
+    "gameUrl": "https://valcur.github.io/TCG-Arena-Rise/game.json",
+    "tags": "",
+    "langs": [
+        "en",
+        "en",
+        "de",
+        "es"
+    ],
+    "useAiArts": false,
+    "screenshotUrls": [
+        "https://valcur.github.io/TCG-Arena-Rise/Workshop/workshop1.jpeg"
+    ],
+    "descriptionUrl": "https://valcur.github.io/TCG-Arena-Rise/Workshop/description.md",
+    "updates": [
+        "First release!"
+    ]
+}

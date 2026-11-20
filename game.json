@@ -4,9 +4,14 @@
     "scriptsUrls": [
         "https://valcur.github.io/TCG-Arena-Rise/functions.jsx"
     ],
+    "translationsUrl": "https://valcur.github.io/TCG-Arena-Rise/translations.json",
     "cardRotation": 90,
     "defaultRessources": {
-        "backgrounds": []
+        "backgrounds": [
+            "https://valcur.github.io/TCG-Arena-Rise/Images/background1.jpg",
+            "https://valcur.github.io/TCG-Arena-Rise/Images/background2.jpg"
+        ],
+        "decksUrl": "https://valcur.github.io/TCG-Arena-Rise/decks.json"
     },
     "customHelp": "Learn to play at https://risetcgofficial.com/en",
     "cards": {
@@ -16,10 +21,10 @@
     "deckBuilding": {
         "mainFilters": [
             "type",
-            "text",
             "set",
+            "rank",
             "rarity",
-            "subtypes"
+            "hp"
         ],
         "formats": [
             {
@@ -52,10 +57,10 @@
                 "0": {
                     "info": "You can mulligan your whole hand once.",
                     "startingHandSize": 6,
-                    "mulliganCount": {
-                        "max": 1
-                    },
                     "mulliganCycle": {
+                        "mulliganCount": {
+                            "max": 1
+                        },
                         "selectionRange": {
                             "min": 6
                         },
@@ -235,8 +240,10 @@
                     "Creature": "Creature",
                     "Door": "Creature",
                     "Imminent": "Stack",
-                    "Imminent Constant": "Stack",
-                    "Incantaion": "Creature",
+                    "Imminent Creature": "Stack",
+                    "Imminent Door": "Stack",
+                    "Imminent Incantation": "Stack",
+                    "Incantation": "Incantation",
                     "Level Up": "Stack",
                     "Summoner": "Stack",
                     "Other": "Stack"
@@ -245,7 +252,10 @@
                     "Creature": "Creature",
                     "Door": "Creature",
                     "Imminent": "Discard",
-                    "Incantaion": "Creature"
+                    "Imminent Creature": "Creature",
+                    "Imminent Door": "Creature",
+                    "Imminent Incantation": "Incantation",
+                    "Incantation": "Incantation"
                 },
                 "sectionsDict": {
                     "Summoner1": {
@@ -354,23 +364,41 @@
                         "blueprint": {
                             "type": "div",
                             "props": {
-                                "className": "player-only d-flex gap-2 w-100 justify-content-center position-absolute",
+                                "className": "player-only gap-2 w-100 d-flex justify-content-end position-absolute",
                                 "style": {
-                                    "top": "-4.75vh",
-                                    "opacity": "{{ game.data.Restauration.show ? '1' : '0' }}",
-                                    "pointerEvents": "{{ game.data.Restauration.show ? 'auto' : 'none' }}"
+                                    "top": "-4.75vh"
                                 }
                             },
                             "children": [
                                 {
-                                    "type": "button",
-                                    "onClick": "await draw2()",
-                                    "children": "2 cards and 1 coin"
+                                    "type": "div",
+                                    "props": {
+                                        "className": "d-flex gap-2 w-100 top-0 justify-content-center position-absolute",
+                                        "style": {
+                                            "opacity": "{{ game.data.Restauration.show ? '1' : '0' }}",
+                                            "pointerEvents": "{{ game.data.Restauration.show ? 'auto' : 'none' }}"
+                                        }
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "button",
+                                            "onClick": "await draw2()",
+                                            "children": "2 cards and 1 coin"
+                                        },
+                                        {
+                                            "type": "button",
+                                            "onClick": "await draw1()",
+                                            "children": "1 card and 2 coins"
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "button",
-                                    "onClick": "await draw1()",
-                                    "children": "1 card and 2 coins"
+                                    "props": {
+                                        "className": "z-1"
+                                    },
+                                    "onClick": "tossCoin()",
+                                    "children": "Toss coin"
                                 }
                             ]
                         }

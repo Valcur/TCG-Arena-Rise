@@ -82,3 +82,8 @@ async function calcLevel(summoner) {
     if (!levelCards) return
     game.data["LevelSummoner" + summoner].value = levelCards.length + 1
 }
+
+function tossCoin() {
+    const isHeads = Math.random() < 0.5
+    functions.chatLog(isHeads ? "play.logs.game.dice.heads" : "play.logs.game.dice.tails")
+}

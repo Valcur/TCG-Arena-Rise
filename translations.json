@@ -136,6 +136,10 @@
       "Trophy-01": "Trophy-01",
       "Prestige 2023": "Prestige 2023",
       "Promos": "Promos"
+    },
+    "Gampelay": {
+        "toss.success": "Success!",
+        "toss.fail": "Fail",
     }
   },
   "fr": {

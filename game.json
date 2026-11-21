@@ -40,10 +40,10 @@
                 "default": {
                     "info": "You can mulligan your whole hand up to two times.",
                     "startingHandSize": 4,
+                    "mulliganCount": {
+                        "max": 2
+                    },
                     "mulliganCycle": {
-                        "mulliganCount": {
-                            "max": 2
-                        },
                         "selectionRange": {
                             "min": 4
                         },
@@ -57,10 +57,10 @@
                 "1": {
                     "info": "You can mulligan your whole hand once.",
                     "startingHandSize": 6,
+                    "mulliganCount": {
+                        "max": 1
+                    },
                     "mulliganCycle": {
-                        "mulliganCount": {
-                            "max": 1
-                        },
                         "selectionRange": {
                             "min": 6
                         },

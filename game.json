@@ -54,7 +54,7 @@
                         ]
                     }
                 },
-                "0": {
+                "1": {
                     "info": "You can mulligan your whole hand once.",
                     "startingHandSize": 6,
                     "mulliganCycle": {

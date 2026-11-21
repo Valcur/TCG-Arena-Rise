@@ -86,5 +86,5 @@ async function calcLevel(summoner) {
 
 function tossCoin() {
     const isHeads = Math.random() < 0.5
-    functions.chatLog(isHeads ? "toss.success" : "toss.fail")
+    functions.chatLog(isHeads ? "Success!" : "Fail")
 }
